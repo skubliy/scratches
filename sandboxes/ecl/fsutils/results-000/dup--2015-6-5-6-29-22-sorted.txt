@@ -1,0 +1,9 @@
+
+[SORTED DUPLICATES]
+
+
+path=/media/someone/AFAT32P/Photo/raw/Family/2006/Penticton 2006
+files=july 2006 obshie 008.jpg,
+
+path=/media/someone/AFAT32P/Photo/raw/Family/2007/200707-DisneyWorld/DisneyWorld-2007-07-27-EPCOT
+files=DisneyWorld_070727_EPCOT (24).jpg,DisneyWorld_070727_EPCOT (33).jpg,DisneyWorld_070727_EPCOT (38).jpg,

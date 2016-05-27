@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//statgrab/statgraber.py=utf-8
+encoding//statistics/ResourceServer.py=utf-8
+encoding//statistics/create_xls.py=utf-8
+encoding//statistics/derivative.py=utf-8
+encoding//statistics/disckstats.py=utf-8
+encoding//statistics/loggraber.py=utf-8
+encoding//statistics/runner.py=utf-8
+encoding//statistics/statgraber.py=utf-8

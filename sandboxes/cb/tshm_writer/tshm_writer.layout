@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="../common/shm_2Darr.hpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="6843" topLine="92" />
+		</Cursor>
+	</File>
+	<File name="main.cpp" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1190" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="4" />
+			<Collapse line="9" />
+			<Collapse line="13" />
+		</Folding>
+	</File>
+	<File name="../common/ip_wrap.hpp" open="0" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="458" topLine="102" />
+		</Cursor>
+	</File>
+	<File name="../common/shm_2Darr_common.hpp" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1517" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="26" />
+			<Collapse line="32" />
+			<Collapse line="38" />
+			<Collapse line="44" />
+			<Collapse line="48" />
+			<Collapse line="58" />
+		</Folding>
+	</File>
+</CodeBlocks_layout_file>

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1427930475 source:/home/sergueik/w/cb/usleep_test/main.cpp
+	<stdio.h>
+	<time.h>
+	<unistd.h>
+

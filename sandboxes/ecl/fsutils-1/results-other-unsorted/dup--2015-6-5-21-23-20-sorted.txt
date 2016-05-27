@@ -1,0 +1,6 @@
+
+[SORTED DUPLICATES]
+
+
+path=/media/sergueik/AFAT32P/Photo/raw/other/Old_Foto_Arh/samplies
+files=scan0002_c.jpg 533598	

@@ -1,0 +1,6 @@
+
+[UNIQS]
+
+
+path=/media/someone/AFAT32P/Photo/raw-sorted/2012/201206-11-Moscow-Juliy-OnlyForHome
+files=Picture 403.jpg,Picture 404.jpg,Picture 412.jpg,Picture 414.jpg,

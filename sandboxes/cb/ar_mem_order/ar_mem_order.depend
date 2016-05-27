@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1424382226 source:/home/sergueik/w/cb/ar_mem_order/src/main.cpp
+	<thread>
+	<atomic>
+	<stdio.h>
+	"RandomDelay.h"
+
+1424382069 /home/sergueik/w/cb/ar_mem_order/include/RandomDelay.h
+
+1424382469 source:/home/sergueik/w/cb/ar_mem_order/RandomDelay.cpp
+	"RandomDelay.h"
+	<stdlib.h>
+	<assert.h>
+
+1431363948 source:/home/sergueik/w/cb/ar_mem_order/main.cpp
+	<thread>
+	<atomic>
+	<stdio.h>
+	"RandomDelay.h"
+

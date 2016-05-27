@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1428690516 source:/home/sergueik/w/cb/tshm_writer/main.cpp
+	<iostream>
+	"shm_2Darr_common.hpp"
+
+1428529858 /home/sergueik/w/cb/common/shm_obj.hpp
+	<stdio.h>
+	<sys/mman.h>
+	<sys/stat.h>
+	<unistd.h>
+	<fcntl.h>
+	<string.h>
+	<errno.h>
+
+1428692051 /home/sergueik/w/cb/common/shm_2Darr.hpp
+	<stdlib.h>
+	<list>
+	"shm_obj.hpp"
+
+1428444284 /home/sergueik/w/cb/common/ip_wrap.hpp
+	<iostream>
+	<arpa/inet.h>
+	<string.h>
+
+1428625266 /home/sergueik/w/cb/common/shm_2Darr_common.hpp
+	<cstdio>
+	<stdint.h>
+	"shm_obj.hpp"
+	"shm_2Darr.hpp"
+	"ip_wrap.hpp"
+

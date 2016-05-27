@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1428112757 source:/home/someone/w/cb/atomic_tst/atomic_tst.cpp
+	<pthread.h>
+	<iostream>
+	<atomic>
+
+1428431471 source:/home/sergueik/w/cb/atomic_tst/atomic_tst.cpp
+	<pthread.h>
+	<iostream>
+	<atomic>
+

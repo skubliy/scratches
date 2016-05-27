@@ -1,0 +1,6 @@
+
+[UNIQS]
+
+
+path=/media/sergueik/AFAT32P/Photo/other-unsorted/NBToshiba-20111113-photo/101MSDCF
+files=Thumbs.db,

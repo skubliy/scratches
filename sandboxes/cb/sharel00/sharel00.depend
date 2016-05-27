@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1458075106 source:/home/sergueik/w/cb/sharel00/main.cpp
+	<iostream>
+
+1458075765 source:/home/sergueik/w/cb/sharel00/share00.cpp
+	<iostream>
+

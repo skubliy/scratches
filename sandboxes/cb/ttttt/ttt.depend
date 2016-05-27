@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1424651575 source:/home/someone/w/cb/ttttt/main.cpp
+	<iostream>
+	<sys/socket.h>
+	<atomic>
+
+1434061929 source:/home/sergueik/w/cb/ttttt/main.cpp
+	<iostream>
+	<stdlib.h>
+	<sys/socket.h>
+	<atomic>
+	<string>
+	<list>
+	"ip_wrap.hpp"
+
+1426272739 /home/sergueik/w/cb/ttttt/ip_wrap.hpp
+	<arpa/inet.h>
+	<string.h>
+

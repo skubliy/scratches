@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Release" />
+	<File name="../common/shm_2Darr_common.hpp" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1693" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="26" />
+			<Collapse line="32" />
+			<Collapse line="38" />
+			<Collapse line="44" />
+			<Collapse line="48" />
+			<Collapse line="58" />
+		</Folding>
+	</File>
+	<File name="../common/ip_wrap.hpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="360" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="24" />
+			<Collapse line="30" />
+			<Collapse line="37" />
+			<Collapse line="42" />
+			<Collapse line="47" />
+			<Collapse line="51" />
+			<Collapse line="55" />
+			<Collapse line="60" />
+			<Collapse line="62" />
+			<Collapse line="70" />
+			<Collapse line="80" />
+			<Collapse line="86" />
+			<Collapse line="89" />
+			<Collapse line="96" />
+			<Collapse line="101" />
+			<Collapse line="105" />
+			<Collapse line="109" />
+			<Collapse line="114" />
+			<Collapse line="135" />
+			<Collapse line="136" />
+			<Collapse line="137" />
+			<Collapse line="147" />
+			<Collapse line="161" />
+			<Collapse line="170" />
+			<Collapse line="174" />
+			<Collapse line="178" />
+			<Collapse line="183" />
+			<Collapse line="184" />
+			<Collapse line="185" />
+			<Collapse line="197" />
+			<Collapse line="248" />
+			<Collapse line="252" />
+			<Collapse line="264" />
+			<Collapse line="279" />
+			<Collapse line="285" />
+			<Collapse line="289" />
+			<Collapse line="295" />
+		</Folding>
+	</File>
+	<File name="../common/shm_2Darr.hpp" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="11346" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="30" />
+			<Collapse line="42" />
+			<Collapse line="46" />
+			<Collapse line="51" />
+			<Collapse line="61" />
+			<Collapse line="64" />
+			<Collapse line="67" />
+			<Collapse line="87" />
+			<Collapse line="93" />
+			<Collapse line="94" />
+			<Collapse line="119" />
+			<Collapse line="121" />
+			<Collapse line="124" />
+			<Collapse line="127" />
+			<Collapse line="129" />
+			<Collapse line="142" />
+			<Collapse line="151" />
+			<Collapse line="152" />
+			<Collapse line="178" />
+			<Collapse line="187" />
+			<Collapse line="191" />
+			<Collapse line="223" />
+			<Collapse line="225" />
+			<Collapse line="231" />
+			<Collapse line="261" />
+			<Collapse line="287" />
+			<Collapse line="301" />
+			<Collapse line="315" />
+		</Folding>
+	</File>
+	<File name="atomic.h" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="8477" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="24" />
+			<Collapse line="43" />
+			<Collapse line="46" />
+			<Collapse line="54" />
+			<Collapse line="154" />
+			<Collapse line="161" />
+			<Collapse line="206" />
+			<Collapse line="214" />
+			<Collapse line="222" />
+			<Collapse line="231" />
+			<Collapse line="240" />
+			<Collapse line="247" />
+			<Collapse line="264" />
+			<Collapse line="271" />
+			<Collapse line="290" />
+			<Collapse line="415" />
+			<Collapse line="423" />
+			<Collapse line="442" />
+			<Collapse line="450" />
+			<Collapse line="480" />
+			<Collapse line="499" />
+			<Collapse line="518" />
+			<Collapse line="537" />
+			<Collapse line="556" />
+			<Collapse line="575" />
+			<Collapse line="594" />
+			<Collapse line="613" />
+			<Collapse line="632" />
+			<Collapse line="651" />
+			<Collapse line="670" />
+			<Collapse line="689" />
+			<Collapse line="708" />
+			<Collapse line="727" />
+			<Collapse line="746" />
+			<Collapse line="921" />
+			<Collapse line="931" />
+			<Collapse line="941" />
+			<Collapse line="951" />
+		</Folding>
+	</File>
+	<File name="main.cpp" open="1" top="1" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="949" topLine="0" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>

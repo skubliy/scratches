@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1426550154 source:/home/sergueik/w/cb/ipc-test/main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	"shm_data_tt.hpp"
+
+1426321801 /home/sergueik/w/cb/ipc-test/ip_wrap.hpp
+	<arpa/inet.h>
+	<string.h>
+
+1426326597 /home/sergueik/w/cb/ipc-test/shm_object.hpp
+	<sys/mman.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<sys/types.h>
+	<unistd.h>
+	<stdlib.h>
+	<errno.h>
+	<assert.h>
+	<string.h>
+
+1426552618 /home/sergueik/w/cb/ipc-test/shm_data_tt.hpp
+	<fcntl.h>
+	<string.h>
+	<sys/mman.h>
+	<sys/stat.h>
+	<sys/types.h>
+	<unistd.h>
+	<stdlib.h>
+	<errno.h>
+	<assert.h>
+	"SHMObj.hpp"
+
+1426541458 /home/sergueik/w/cb/ipc-test/SHMObj.hpp
+	<unistd.h>
+	<sys/mman.h>
+	<errno.h>
+

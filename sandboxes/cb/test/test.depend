@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1424386870 source:/home/sergueik/w/cb/test/main.cpp
+	<iostream>
+	<atomic>
+	<chrono>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1459890964 source:/home/sergueik/w/cb/ttt/main.cpp
+	<iostream>
+	<stdio.h>
+	<list>
+

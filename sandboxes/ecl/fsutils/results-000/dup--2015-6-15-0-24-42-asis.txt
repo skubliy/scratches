@@ -1,0 +1,11 @@
+
+[DUPLICATES]
+
+d21eef755203af4b436f74fa48b348f6      533598                         /media/someone/AFAT32P/Photo/raw/other/Old_Foto_Arh/samplies/scan0002_c.jpg
+
+d56ffca90210334f6d5c9b05f6fbdc29      806697                             /media/someone/AFAT32P/Photo/raw/other/from-vity-sergei-photos/wb/s.jpg
+
+f94dae94e4470d970e4d835301fd1406     6039181                                 /media/someone/AFAT32P/Photo/raw/other/Moscow_20110423/sam_0928.jpg
+
+7e1f564b2836c97f3c90d01c19b890bc      702602           /media/someone/AFAT32P/Photo/raw/other/from-vity-sergei-photos/parrot & hoovercraft/s.jpg
+
