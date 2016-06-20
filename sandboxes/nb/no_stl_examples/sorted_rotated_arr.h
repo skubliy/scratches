@@ -4,15 +4,8 @@
 using namespace std;
 
 template <typename T>
-class ah {
+class sorted_rotated_array {
 public:
-
-    static void print_all(T* a, size_t sz) {
-        //typename vector<T> vector_t;
-        for (size_t i = 0; i < sz; ++i)
-            cout << a[i] << "  ";
-        cout << endl;
-    }
 
     static void rotate(T* a, size_t sz) {
         T first = a[0];
@@ -21,10 +14,6 @@ public:
             a[i] = a[i + 1];
         }
         a[sz - 1] = first;
-
-        cout << "[ ";
-        ah<T>::print_all(a, sz);
-        cout << " ]\n";
     }
 
     static T find_min_iteration(T* v, size_t sz) {
@@ -72,11 +61,12 @@ public:
             return find_min_recursion(a, l, m - 1);
         return find_min_recursion(a, m + 1, r);
     }
-
+    //TODO there is bug here
     static int find_split_index(T* a, int l, int r) {
         int m;
         if (l > r) return -1;
         while (true) {
+
             m = l + (r - l) / 2;
             if (a[m] > a[m + 1])
                 break;
@@ -85,6 +75,7 @@ public:
                 l = m;
             if (a[r] > a[m])
                 r = m;
+            cout << l << " " << r << " " << m << "\n";
         }
         return m;
     }

@@ -1,0 +1,15 @@
+
+[SORTED DUPLICATES]
+
+
+path=/media/someone/AFAT32P/Photo/other-unsorted/julia_cell/FOTO/Camera-arh/2014
+files=2014-05-06 18.53.01.jpg	2014-05-06 18.53.01_2.jpg	
+
+path=/media/someone/AFAT32P/Photo/other-unsorted/julia_cell/FOTO/Old
+files=IMG_7482.JPG	IMG_7540.JPG	IMG_7699.JPG	
+
+path=/media/someone/AFAT32P/Photo/other-unsorted/julia_cell/FOTO/Camera-arh/2013
+files=2013-11-12 14.01.21.jpg	2013-11-12 14.01.21_2.jpg	2013-11-16 19.40.23.jpg	2013-11-16 19.40.23_2.jpg	
+
+path=/media/someone/AFAT32P/Photo/other-unsorted/julia_cell/FOTO/2013-S+J
+files=IMG_7482.JPG	IMG_7540.JPG	IMG_7699.JPG	

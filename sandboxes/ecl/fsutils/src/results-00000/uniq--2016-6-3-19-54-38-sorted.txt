@@ -1,0 +1,6 @@
+
+[UNIQS]
+
+
+path=/media/someone/AFAT32P/Photo/other-unsorted/NBToshiba-20111113-photo-D/20100101Van
+files=Thumbs.db	

@@ -1,2 +1,5 @@
 eclipse.preferences.version=1
-encoding/ardiff.py=utf-8
+encoding//src/OptionParserWraper.py=utf-8
+encoding//src/OutputSplitter.py=utf-8
+encoding//src/ardiff.py=utf-8
+encoding//src/deldup.py=utf-8

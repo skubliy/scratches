@@ -3,54 +3,18 @@
 #include <vector>
 #include <algorithm>
 
-#include "heap_sort.h"
+#include "heap.h"
 #include "sorted_rotated_arr.h"
 #include "tree_node_rec.h"
 #include "btree.h"
 
 
+// Next code may be useful for test-only
+
+#include "tutils/tarray.hpp" 
+
 using namespace std;
-
-template <typename T>
-class vh {
-public:
-
-    static int search(vector<T>& v, T target) { }
-
-    static void print(vector<T>& v) {
-        cout << __func__ << endl;
-        //typename vector<T> vector_t;
-        for (typename vector<T>::const_iterator it = v.begin(); it != v.end(); ++it)
-            cout << *it << "  ";
-        cout << endl;
-    }
-
-};
-
-void test_heap() {
-    cout << __func__ << endl;
-    int arr[] = {8, 9, 9, 1, 3, 4, 4, 4, 6, 6, 7, 7};
-    size_t sz = sizeof (arr) / sizeof (*arr);
-    vector<int> v(arr, arr + sz);
-    vh<int>::print(v);
-    make_heap(v.begin(), v.end());
-    cout << "initial max heap   : " << v.front() << '\n';
-    vh<int>::print(v);
-
-    int* arr2 = &v[0];
-    vector<int> v2(arr2, arr2 + sizeof (arr) / sizeof (*arr));
-    vh<int>::print(v2);
-
-    sort_heap(v.begin(), v.end());
-    vh<int>::print(v);
-    heap<int>::sort(arr2);
-
-    vector<int> v_sorted(arr2, arr2 + sizeof (arr) / sizeof (*arr));
-    cout << "---------" << endl;
-    vh<int>::print(v_sorted);
-    cout << "---------" << endl;
-    vh<int>::search(v, 8);
-}
+using namespace tarray;
 
 void print_num_sings(int n) {
     cout << __func__ << endl;
@@ -65,17 +29,52 @@ void print_num_sings(int n) {
     }
 }
 
+template <typename T>
+void test_heap() {
+    cout << __func__ << endl;
+#if 1
+    const int MSZ = 16;
+    int m[MSZ];
+    fill_int_arr(m, MSZ);
+#else
+    //int m[] = {8, 6, 6, 5, 6, 2, 5, 1, 5, 4, 3, 1, 1, 1, 8, 1};
+    int m[] = {3, 3, 3, 1, 3, 1, 8, 5, 6, 3, 2, 3, 8, 8, 4, 7};
+#endif  
+    int msz = sizeof (m) / sizeof (*m);
+    print_array<int>(m, msz);
+    T::build_max_heap(m, msz);
+    print_array<int>(m, msz);
+    T::sort_heap(m, msz);
+    print_array<int>(m, msz);
+
+}
+
 void test_sorted_rotated_array() {
     cout << __func__ << endl;
-    int a[] = {0, 1, 2, 3, 4, 5, 6, 7};
-    size_t sz = sizeof (a) / sizeof (*a);
-    for (int i = 0; i < sz; i++) {
-        ah<int>::rotate(a, sz);
-        cout << "1min: " << ah<int>::find_min_iteration(a, sz) << endl;
-        cout << "2min: " << ah<int>::find_min_recursion(a, 0, sz - 1) << endl;
+#if 1
+    const int MSZ = 16;
+    int m[MSZ];
+    fill_int_arr(m, MSZ);
+#else
+    //int m[] = {8, 6, 6, 5, 6, 2, 5, 1, 5, 4, 3, 1, 1, 1, 8, 1};
+    int m[] = {3, 3, 3, 1, 3, 1, 8, 5, 6, 3, 2, 3, 8, 8, 4, 7};
+#endif  
+    int msz = sizeof (m) / sizeof (*m);
+    print_array<int>(m, msz);
+    heap::build_max_heap(m, msz);
+    heap::sort_heap(m, msz);
+    print_array<int>(m, msz);
+    cout << "------\n";
+    for (int i = 0; i < msz; i++) {
+        sorted_rotated_array<int>::rotate(m, msz);
+        print_array<int>(m, msz);
+        cout << "1min: " << sorted_rotated_array<int>::find_min_iteration(m, msz) << endl;
+        cout << "2min: " << sorted_rotated_array<int>::find_min_recursion(m, 0, msz - 1) << endl;
         // int x = 2;
-        // cout << "idx: " << ah<int>::search(v, x) << endl;
-        cout << "split: " << ah<int>::find_split_index(a, 0, sz - 1) << endl;
+        // cout << "idx: " << sorted_rotated_array<int>::search(v, x) << endl;
+
+        //TODO there is bug here
+        //cout << "split: " << sorted_rotated_array<int>::find_split_index(m, 0, msz - 1) << endl;
     }
 }
 
@@ -84,56 +83,52 @@ void test_tree() {
     int arr[] = {8, 2, 9, 1, 5, 4, 6, 3, 7, 0};
     size_t sz = sizeof (arr) / sizeof (*arr);
     vector<int> v(arr, arr + sz);
-    vh<int>::print(v);
+    print_vector(v);
     make_heap(v.begin(), v.end());
-    vh<int>::print(v);
+    print_vector(v);
     cout << v.front() << endl;
     cout << "\n-----------------\n";
     for (int i = 0; i < 8; i++) {
         pop_heap(v.begin(), v.end());
         v.pop_back();
-        vh<int>::print(v);
+        print_vector(v);
         cout << v.front() << endl;
     }
     cout << "\n-----------------\n";
 }
 
-void init_btree(btree<int>& bt) {
+void test_btree() {
     cout << __func__ << endl;
-    int a[] = {5, 2, 9, 1, 8, 3, 6, 7, 4, 0};
-    size_t sz = sizeof (a) / sizeof (*a);
-    vector<int> vv(a, a + sz);
-    vh<int>::print(vv);
-    make_heap(vv.begin(), vv.end());
-    vh<int>::print(vv);
-    cout << "\n-----------------\n";
-    int arr[] = {5, 2, 9, 1, 8, 3, 6, 7, 4, 0};
-    vector<int> v(arr, arr + sz);
-    vh<int>::print(v);
-    cout << "\n-----------------\n";
-    for (vector<int>::const_iterator it = v.begin(); it != v.end(); ++it) {
-        bt.insert(*it);
-    }
-}
-
-void test_Btree() {
+#if 1
+    const int MSZ = 16;
+    int m[MSZ];
+    fill_int_arr(m, MSZ);
+#else
+    //int m[] = {8, 6, 6, 5, 6, 2, 5, 1, 5, 4, 3, 1, 1, 1, 8, 1};
+    int m[] = {3, 3, 3, 1, 3, 1, 8, 5, 6, 3, 2, 3, 8, 8, 4, 7};
+#endif  
+    int msz = sizeof (m) / sizeof (*m);
+    print_array<int>(m, msz);
+    heap::build_max_heap(m, msz);
+    print_array<int>(m, msz);
+    cout << "-------\n";
     btree<int> bt;
-    init_btree(bt);
-    cout << __func__ << endl;
+    for (int i = 0; i < msz; i++) {
+        bt.insert(m[i]);
+    }
 
     bt.print2();
+    // bt.postorder_print();
 
-   // bt.postorder_print();
-    cout << "\n===\n";
-
+    cout << "\nin_order:\t";
     bt.in_order();
-    cout << "\n===\n";
 
+
+    cout << "\npost_order:\t";
     bt.post_order();
-    cout << "\n===\n";
 
+    cout << "\npre_order:\t";
     bt.pre_order();
-    cout << "\n===\n";
 
     for (int i = 0; i < 8; i++) {
 
@@ -142,14 +137,13 @@ void test_Btree() {
 }
 
 int main(int argc, char** argv) {
-    test_Btree();
-    /*
-    test_tree();
-    //print_num_sings(4);
+    print_num_sings(8);
+    test_heap<heap>();
+    //theap< heap2<int> >();
     test_sorted_rotated_array();
-    test_heap();
-     */
+    test_btree();
     return 0;
 }
+
 
 

@@ -1,0 +1,217 @@
+
+[DUPLICATES CATALOGS ONLY]
+
+path=/media/someone/AFAT32P/Photo/other-unsorted/NBToshiba-20111113-photo/Me/MeVan2010
+#	31	81
+path=/media/someone/AFAT32P/Photo/other-unsorted/201203-03-Moscow
+#	221	60
+path=/media/someone/AFAT32P/Photo/other-unsorted/Family/1107_VancouverBest
+#	29	69
+path=/media/someone/AFAT32P/Photo/other-unsorted/NBToshiba-20111113-photo/20100101Van_sampl
+#	102	86
+path=/media/someone/AFAT32P/Photo/other-unsorted/julia_cell/FOTO/2013-S+J
+#	95	68
+path=/media/someone/AFAT32P/Photo/other-unsorted/photo/20130712-Svadba/from-canon
+#	666	76
+path=/media/someone/AFAT32P/Photo/other-unsorted/photo/201404
+#	31	56
+path=/media/someone/AFAT32P/Photo/other-unsorted/Family
+#	13	50
+path=/media/someone/AFAT32P/Photo/other-unsorted/photo/201403
+#	489	56
+path=/media/someone/AFAT32P/Photo/other-unsorted/NBToshiba-20111113-photo/Old_Foto_Arh/samplies
+#	17	90
+path=/media/someone/AFAT32P/Photo/other-unsorted/photo/20130509-jv/zzz
+#	5	65
+path=/media/someone/AFAT32P/Photo/other-unsorted/NBToshiba-20120603-ФОТО
+#	7	71
+path=/media/someone/AFAT32P/Photo/other-unsorted/NBToshiba-20111113-photo/Me/all/105CANON
+#	13	84
+path=/media/someone/AFAT32P/Photo/other-unsorted/NBToshiba-20111113-photo/201104-Moscow-Avto/New Folder
+#	92	98
+path=/media/someone/AFAT32P/Photo/other-unsorted/NBToshiba-20111113-photo/MeAndJuly/20110423_RS
+#	21	90
+path=/media/someone/AFAT32P/Photo/other-unsorted/NBToshiba-20111113-photo/Me/sergei photos/wb
+#	30	88
+path=/media/someone/AFAT32P/Photo/other-unsorted/julia_cell/DOC
+#	11	58
+path=/media/someone/AFAT32P/Photo/other-unsorted/my_cell/DCIM/Camera
+#	547	63
+path=/media/someone/AFAT32P/Photo/other-unsorted/photo/201404-Moscow
+#	402	63
+path=/media/someone/AFAT32P/Photo/other-unsorted/photo/Daniel/201312-Daniel
+#	86	70
+path=/media/someone/AFAT32P/Photo/other-unsorted/photo/20130528-olys-grad
+#	437	68
+path=/media/someone/AFAT32P/Photo/other-unsorted/NBToshiba-20120603-photo/20120414
+#	387	77
+path=/media/someone/AFAT32P/Photo/other-unsorted/julia_cell/DOC/Mertvye_dushi__Tom_1_-2
+#	1	82
+path=/media/someone/AFAT32P/Photo/other-unsorted/julia_cell/DOC/Mertvye_dushi__Tom_1_-3
+#	1	82
+path=/media/someone/AFAT32P/Photo/other-unsorted/photo/20130528-olys-grad/forVK
+#	46	74
+path=/media/someone/AFAT32P/Photo/other-unsorted/julia_cell/DOC/Mertvye_dushi__Tom_1_-1
+#	1	82
+path=/media/someone/AFAT32P/Photo/other-unsorted/photo/20131006-Moscow-Arhangelskoe
+#	251	78
+path=/media/someone/AFAT32P/Photo/other-unsorted/NBToshiba-20111113-photo/Me/110916-Moscow
+#	24	85
+path=/media/someone/AFAT32P/Photo/other-unsorted/photo/201306-vancouver/best
+#	40	71
+path=/media/someone/AFAT32P/Photo/other-unsorted/julia_cell/FOTO/Old
+#	121	63
+path=/media/someone/AFAT32P/Photo/other-unsorted/NBToshiba-20111113-photo/201102/201102A0
+#	40	84
+path=/media/someone/AFAT32P/Photo/other-unsorted/photo/20130303-Thailand
+#	3626	67
+path=/media/someone/AFAT32P/Photo/other-unsorted/Family/Marina
+#	21	57
+path=/media/someone/AFAT32P/Photo/other-unsorted/2011-and-before-Juliy
+#	84	65
+path=/media/someone/AFAT32P/Photo/other-unsorted/LenasPhone/2013/11/16
+#	1	65
+path=/media/someone/AFAT32P/Photo/other-unsorted/julia_cell/FOTO/201311-Daniel-bd
+#	164	76
+path=/media/someone/AFAT32P/Photo/other-unsorted/NBToshiba-20111113-photo/201109-moscow-vdnx
+#	24	87
+path=/media/someone/AFAT32P/Photo/other-unsorted/Family/0903_Vancouver_Sample
+#	84	72
+path=/media/someone/AFAT32P/Photo/other-unsorted/NBToshiba-20111113-photo/julys-foto/2012/photo
+#	100	90
+path=/media/someone/AFAT32P/Photo/other-unsorted/Family/Ukraine
+#	51	58
+path=/media/someone/AFAT32P/Photo/other-unsorted/NBLenovoIP-20140619-pics
+#	37	68
+path=/media/someone/AFAT32P/Photo/other-unsorted/photo/20130712-Svadba/edited
+#	211	72
+path=/media/someone/AFAT32P/Photo/other-unsorted/NBToshiba-20111113-photo/Me/sergei photos/parrot & hoovercraft
+#	85	106
+path=/media/someone/AFAT32P/Photo/other-unsorted/NBToshiba-20111113-photo/Me/best
+#	23	76
+path=/media/someone/AFAT32P/Photo/other-unsorted/NBToshiba-20111113-photo/MeAndJuly/110416_valys_bd
+#	125	94
+path=/media/someone/AFAT32P/Photo/other-unsorted/AgatAComp-photo
+#	10	59
+path=/media/someone/AFAT32P/Photo/other-unsorted/NBToshiba-20111113-photo/julys-foto/uly_foto
+#	87	88
+path=/media/someone/AFAT32P/Photo/other-unsorted/NBToshiba-20111113-photo
+#	34	68
+path=/media/someone/AFAT32P/Photo/other-unsorted/NBToshiba-20111113-photo/Me/Moscow_20110423
+#	28	87
+path=/media/someone/AFAT32P/Photo/other-unsorted/photo/20130528-olys-grad/best
+#	59	73
+path=/media/someone/AFAT32P/Photo/other-unsorted/NBToshiba-20111113-photo/julys-foto/pics20120223/Juliy
+#	114	98
+path=/media/someone/AFAT32P/Photo/other-unsorted/NBToshiba-20111113-photo/Me/all/103CANON
+#	101	84
+path=/media/someone/AFAT32P/Photo/other-unsorted/NBToshiba-20111113-photo/Me/all/100CASIO
+#	33	84
+path=/media/someone/AFAT32P/Photo/other-unsorted/NBToshiba-20111113-photo/julys-foto/pics20120223/Juliy2
+#	64	99
+path=/media/someone/AFAT32P/Photo/other-unsorted/NBToshiba-20111113-photo/201103/201103A0
+#	12	84
+path=/media/someone/AFAT32P/Photo/other-unsorted/201202-23-Moscow
+#	186	60
+path=/media/someone/AFAT32P/Photo/other-unsorted/NBToshiba-20111113-photo/Me/all/100CANON
+#	101	84
+path=/media/someone/AFAT32P/Photo/other-unsorted/NBToshiba-20111113-photo/201104/201104A0
+#	20	84
+path=/media/someone/AFAT32P/Photo/other-unsorted/NBLenovoIP-20140619-pics/GalaxySS-my
+#	120	80
+path=/media/someone/AFAT32P/Photo/other-unsorted/julia_cell/VIDEO
+#	97	60
+path=/media/someone/AFAT32P/Photo/other-unsorted/NBToshiba-20111113-photo/julys-foto/pics20120223
+#	50	92
+path=/media/someone/AFAT32P/Photo/other-unsorted/Family/0903_Vancouver_Sample/New Folder
+#	6	83
+path=/media/someone/AFAT32P/Photo/other-unsorted/Family/0903_Vancouver_Sample/090410_Deti
+#	12	84
+path=/media/someone/AFAT32P/Photo/other-unsorted/Family/Deti/090410_Deti
+#	14	67
+path=/media/someone/AFAT32P/Photo/other-unsorted/NBToshiba-20111113-photo/Me/OtherMe
+#	19	79
+path=/media/someone/AFAT32P/Photo/other-unsorted/photo/20130602-Oly's-PreProm/best
+#	156	77
+path=/media/someone/AFAT32P/Photo/other-unsorted/Family/Deti/Masha
+#	43	61
+path=/media/someone/AFAT32P/Photo/other-unsorted/julia_cell/FOTO/Camera-arh/2014
+#	385	75
+path=/media/someone/AFAT32P/Photo/other-unsorted/NBToshiba-20111113-photo/201107-Vancouver
+#	146	85
+path=/media/someone/AFAT32P/Photo/other-unsorted/photo/201306-vancouver/101CANON
+#	1344	75
+path=/media/someone/AFAT32P/Photo/other-unsorted/foto/auto
+#	3	53
+path=/media/someone/AFAT32P/Photo/other-unsorted/NBToshiba-20111113-photo/Me/_orig
+#	7	77
+path=/media/someone/AFAT32P/Photo/other-unsorted/NBToshiba-20111113-photo/2011_Moscow
+#	77	80
+path=/media/someone/AFAT32P/Photo/other-unsorted/photo/201404-LastDaysInMoscow
+#	11	73
+path=/media/someone/AFAT32P/Photo/other-unsorted/2011-and-before-Juliy/Hotmail
+#	6	73
+path=/media/someone/AFAT32P/Photo/other-unsorted/photo/20130712-Svadba/original
+#	321	74
+path=/media/someone/AFAT32P/Photo/other-unsorted/photo/20130713-ulia-bd
+#	88	66
+path=/media/someone/AFAT32P/Photo/other-unsorted/NBToshiba-20111113-photo/Frends/Gurkovi
+#	20	83
+path=/media/someone/AFAT32P/Photo/other-unsorted/NBToshiba-20111113-photo/201105/201105A0
+#	44	84
+path=/media/someone/AFAT32P/Photo/other-unsorted/NBToshiba-20111113-photo/день рождение чехов
+#	51	105
+path=/media/someone/AFAT32P/Photo/other-unsorted/julia_cell/DOC/Mertvye_dushi__Tom_1_
+#	1	80
+path=/media/someone/AFAT32P/Photo/other-unsorted/photo/201306-vancouver
+#	154	66
+path=/media/someone/AFAT32P/Photo/other-unsorted/photo/20130528-olys-grad/Untitled Folder
+#	8	84
+path=/media/someone/AFAT32P/Photo/other-unsorted/NBToshiba-20111113-photo/Me/OLD
+#	4	75
+path=/media/someone/AFAT32P/Photo/other-unsorted/Family/Deti/090410_Deti/Masha
+#	38	73
+path=/media/someone/AFAT32P/Photo/other-unsorted/photo/20130712-Svadba/Фото для интернета
+#	38	100
+path=/media/someone/AFAT32P/Photo/other-unsorted/NBToshiba-20111113-photo/Me/_
+#	34	73
+path=/media/someone/AFAT32P/Photo/other-unsorted/NBToshiba-20111113-photo/Avto/Mitsubishi_Montero_Sport
+#	10	98
+path=/media/someone/AFAT32P/Photo/other-unsorted/foto/opera
+#	54	54
+path=/media/someone/AFAT32P/Photo/other-unsorted/Family/1107_VancouverSample
+#	40	71
+path=/media/someone/AFAT32P/Photo/other-unsorted/NBToshiba-20111113-photo/201107-Vancouver/Samples
+#	40	93
+path=/media/someone/AFAT32P/Photo/other-unsorted/NBToshiba-20111113-photo/Me/good
+#	75	76
+path=/media/someone/AFAT32P/Photo/other-unsorted/NBToshiba-20111113-photo/201106/201106A0
+#	23	84
+path=/media/someone/AFAT32P/Photo/other-unsorted/NBToshiba-20111113-photo/Me/all/102CANON
+#	101	84
+path=/media/someone/AFAT32P/Photo/other-unsorted/photo
+#	20	49
+path=/media/someone/AFAT32P/Photo/other-unsorted/photo/20130602-Oly's-PreProm
+#	460	72
+path=/media/someone/AFAT32P/Photo/other-unsorted/NBToshiba-20111113-photo/Old_Foto_Arh
+#	12	81
+path=/media/someone/AFAT32P/Photo/other-unsorted/NBToshiba-20111113-photo/Me/all/104CANON
+#	101	84
+path=/media/someone/AFAT32P/Photo/other-unsorted/julia_cell/FOTO/Camera-arh/2013
+#	129	75
+path=/media/someone/AFAT32P/Photo/other-unsorted/NBToshiba-20111113-photo/201104-Moscow-Avto/201104A0
+#	38	96
+path=/media/someone/AFAT32P/Photo/other-unsorted/NBToshiba-20111113-photo/Me
+#	44	71
+path=/media/someone/AFAT32P/Photo/other-unsorted/NBToshiba-20111113-photo/julys-foto/2012
+#	7	84
+path=/media/someone/AFAT32P/Photo/other-unsorted/NBToshiba-20111113-photo/Frends/latuza/2008
+#	74	87
+path=/media/someone/AFAT32P/Photo/other-unsorted/NBToshiba-20120603-photo
+#	9	68
+path=/media/someone/AFAT32P/Photo/other-unsorted/NBToshiba-20111113-photo/Frends/Palich
+#	22	82
+path=/media/someone/AFAT32P/Photo/other-unsorted/foto/MonteCristo
+#	158	60
+path=/media/someone/AFAT32P/Photo/other-unsorted/NBToshiba-20120603-MyPhoto/me
+#	27	73

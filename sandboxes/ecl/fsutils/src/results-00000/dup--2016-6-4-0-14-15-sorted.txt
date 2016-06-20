@@ -1,0 +1,324 @@
+
+[SORTED DUPLICATES]
+
+
+path=/media/someone/AFAT32P/Photo/other-unsorted/NBToshiba-20111113-photo/Me/MeVan2010
+files=250420102720.jpg	250420102722.jpg	250420102744.jpg	
+
+path=/media/someone/AFAT32P/Photo/other-unsorted/201203-03-Moscow
+files=Picture 023.jpg	Picture 061.jpg	Picture 065.jpg	Picture 073.jpg	Picture 075.jpg	Picture 078.jpg	Picture 079.jpg	Picture 218.jpg	Picture 219.jpg	Picture 220.jpg	
+
+path=/media/someone/AFAT32P/Photo/other-unsorted/Family/1107_VancouverBest
+files=DSC07082.JPG	DSC07089.JPG	DSC07136.JPG	DSC07270.JPG	DSC07293.JPG	DSC07295.JPG	DSC07306.JPG	DSC07307.JPG	DSC07352.JPG	DSC07363.JPG	DSC07364.JPG	DSC07372.JPG	DSC07375.JPG	DSC07387.JPG	
+
+path=/media/someone/AFAT32P/Photo/other-unsorted/NBToshiba-20111113-photo/20100101Van_sampl
+files=Copy of DSC06342.JPG	DSC06342.JPG	
+
+path=/media/someone/AFAT32P/Photo/other-unsorted/julia_cell/FOTO/2013-S+J
+files=4VS_3157.jpg	4VS_3169.jpg	4VS_3217.jpg	4VS_3221.jpg	4VS_3263.jpg	4VS_3276.jpg	4VS_3298.jpg	4VS_3311a.jpg	4VS_3338.jpg	4VS_3346.jpg	4VS_3358.jpg	4VS_3377.jpg	4VS_3513.jpg	4VS_3513.jpg	4VS_3636a.jpg	4VS_3686.jpg	4VS_3704.jpg	4VS_3724.jpg	4VS_3731.jpg	4VS_3731.jpg	4VS_3772.jpg	4VS_3772.jpg	4VS_3811.jpg	4VS_3842.jpg	4VS_3853.jpg	4VS_3863.jpg	4VS_3867.jpg	IMG_2296.JPG	IMG_2356.JPG	IMG_2419.JPG	IMG_2476.JPG	IMG_2483.JPG	IMG_7482.JPG	IMG_7540.JPG	IMG_7699.JPG	Image000.jpg	Image000.jpg	Image002.jpg	Image003.jpg	Image003.jpg	Image004.jpg	Image004.jpg	Image006.jpg	Image006.jpg	Image008.jpg	Image008.jpg	Image009.jpg	Image009.jpg	Image010.jpg	Image010.jpg	Image011.jpg	Image011.jpg	Image012.jpg	Image012.jpg	Image013.jpg	Image013.jpg	Image019.jpg	Image021.jpg	Image021.jpg	Image022.jpg	Image022.jpg	
+
+path=/media/someone/AFAT32P/Photo/other-unsorted/photo/20130712-Svadba/from-canon
+files=IMG_2015.JPG	IMG_2016.JPG	IMG_2017.JPG	IMG_2018.JPG	IMG_2019.JPG	IMG_2020.JPG	IMG_2021.JPG	IMG_2022.JPG	IMG_2023.JPG	IMG_2024.JPG	IMG_2025.JPG	IMG_2026.JPG	IMG_2027.JPG	IMG_2028.JPG	IMG_2029.JPG	IMG_2030.JPG	IMG_2031.JPG	IMG_2032.JPG	IMG_2033.JPG	IMG_2034.JPG	IMG_2035.JPG	IMG_2036.JPG	IMG_2037.JPG	IMG_2038.JPG	IMG_2039.JPG	IMG_2041.JPG	IMG_2042.JPG	IMG_2043.JPG	IMG_2044.JPG	IMG_2045.JPG	IMG_2046.JPG	IMG_2047.JPG	IMG_2048.JPG	IMG_2049.JPG	IMG_2050.JPG	IMG_2051.JPG	IMG_2052.JPG	IMG_2053.JPG	IMG_2054.JPG	IMG_2055.JPG	IMG_2056.JPG	IMG_2057.JPG	IMG_2058.JPG	IMG_2059.JPG	IMG_2060.JPG	IMG_2061.JPG	IMG_2062.JPG	IMG_2063.JPG	IMG_2064.JPG	IMG_2065.JPG	IMG_2066.JPG	IMG_2067.JPG	IMG_2068.JPG	IMG_2069.JPG	IMG_2070.JPG	IMG_2071.JPG	IMG_2072.JPG	IMG_2073.JPG	IMG_2074.JPG	IMG_2075.JPG	IMG_2076.JPG	IMG_2077.JPG	IMG_2078.JPG	IMG_2079.JPG	IMG_2080.JPG	IMG_2081.JPG	IMG_2082.JPG	IMG_2083.JPG	IMG_2084.JPG	IMG_2085.JPG	IMG_2086.JPG	IMG_2087.JPG	IMG_2088.JPG	IMG_2089.JPG	IMG_2090.JPG	IMG_2091.JPG	IMG_2092.JPG	IMG_2093.JPG	IMG_2094.JPG	IMG_2095.JPG	IMG_2096.JPG	IMG_2097.JPG	IMG_2098.JPG	IMG_2099.JPG	IMG_2100.JPG	IMG_2101.JPG	IMG_2102.JPG	IMG_2103.JPG	
+
+path=/media/someone/AFAT32P/Photo/other-unsorted/photo/201404
+files=IMG_4684.JPG	IMG_4685.JPG	IMG_4686.JPG	IMG_4687.JPG	IMG_4688.JPG	IMG_4689.JPG	IMG_4690.JPG	IMG_4691.JPG	IMG_4692.JPG	IMG_4693.JPG	IMG_4694.JPG	
+
+path=/media/someone/AFAT32P/Photo/other-unsorted/Family
+files=06012009778.jpg	
+
+path=/media/someone/AFAT32P/Photo/other-unsorted/photo/201403
+files=IMG_4277.JPG	IMG_4301.JPG	IMG_4306.JPG	IMG_4348.JPG	IMG_4349.JPG	IMG_4351.JPG	IMG_4373.JPG	IMG_4376.JPG	IMG_4414.JPG	
+
+path=/media/someone/AFAT32P/Photo/other-unsorted/NBToshiba-20111113-photo/Old_Foto_Arh/samplies
+files=Pilot.jpg	scan0002_c.jpg	
+
+path=/media/someone/AFAT32P/Photo/other-unsorted/photo/20130509-jv/zzz
+files=IMG_7554.JPG	IMG_7555.JPG	IMG_7556.JPG	IMG_7557.JPG	IMG_7558.JPG	
+
+path=/media/someone/AFAT32P/Photo/other-unsorted/NBToshiba-20120603-ФОТО
+files=IMG_1576.JPG	IMG_1579.JPG	IMG_1647.JPG	IMG_1824.JPG	IMG_1831_1.JPG	
+
+path=/media/someone/AFAT32P/Photo/other-unsorted/NBToshiba-20111113-photo/Me/all/105CANON
+files=IMG_0501.JPG	
+
+path=/media/someone/AFAT32P/Photo/other-unsorted/NBToshiba-20111113-photo/201104-Moscow-Avto/New Folder
+files=sam_0922.jpg	sam_0927.jpg	sam_0928.jpg	sam_0938.jpg	sam_0949.jpg	sam_0950.jpg	sam_0967.jpg	sam_0968.jpg	sam_0974.jpg	
+
+path=/media/someone/AFAT32P/Photo/other-unsorted/NBToshiba-20111113-photo/MeAndJuly/20110423_RS
+files=sam_0967.jpg	sam_0968.jpg	
+
+path=/media/someone/AFAT32P/Photo/other-unsorted/NBToshiba-20111113-photo/Me/sergei photos/wb
+files=DSCN0720.JPG	s.jpg	
+
+path=/media/someone/AFAT32P/Photo/other-unsorted/julia_cell/DOC
+files=______1_-1.txt	______1_.txt	
+
+path=/media/someone/AFAT32P/Photo/other-unsorted/my_cell/DCIM/Camera
+files=2013-08-18 14.55.29.jpg	2013-08-18 14.55.33.jpg	2013-08-18 14.55.39.jpg	2013-11-12 14.01.21.jpg	2013-11-12 14.01.21.jpg	2013-11-12 14.05.10.jpg	2013-11-12 14.05.42.jpg	2013-11-12 14.08.10.jpg	2013-11-12 16.37.18.jpg	2013-11-12 16.45.07.jpg	2013-11-16 19.40.23.jpg	2013-11-16 19.40.23.jpg	2013-12-10 20.51.03.jpg	2013-12-18 11.54.33.jpg	2013-12-21 00.27.00.jpg	2013-12-21 00.27.19.jpg	2013-12-21 00.27.23.jpg	2013-12-21 00.27.34.jpg	2014-01-06 17.51.23.jpg	2014-01-06 17.51.29.jpg	2014-02-15 15.51.08.jpg	2014-02-15 15.53.58.jpg	2014-02-18 16.04.28.jpg	2014-04-16 10.20.31.jpg	2014-04-16 10.20.42.jpg	2014-04-16 10.21.00.jpg	2014-04-16 10.21.09.jpg	2014-04-16 10.21.28.jpg	2014-04-16 10.21.28.jpg	2014-04-17 06.35.25.jpg	2014-04-17 06.35.39.jpg	2014-04-17 06.35.54.jpg	2014-04-17 16.59.03.jpg	2014-04-17 16.59.58.jpg	2014-04-17 17.00.10.jpg	2014-04-17 17.00.16.jpg	2014-04-17 17.00.31.jpg	2014-04-17 17.01.48.jpg	2014-04-17 17.01.52.jpg	2014-04-17 17.01.57.jpg	2014-04-17 17.02.07.jpg	2014-04-17 17.02.10.jpg	2014-04-29 18.27.10.jpg	2014-04-29 18.27.10.jpg	2014-04-29 18.27.14.jpg	2014-04-29 18.27.16.jpg	2014-04-29 18.27.16.jpg	2014-04-29 18.27.19.jpg	2014-04-29 18.27.22.jpg	2014-04-29 18.27.22.jpg	2014-04-29 18.27.35.jpg	2014-04-29 18.28.05.jpg	2014-04-29 18.28.09.jpg	2014-04-29 18.28.15.jpg	2014-05-01 16.42.45.jpg	2014-05-01 16.44.36.jpg	2014-05-01 16.44.59.jpg	2014-05-01 16.46.27.jpg	2014-05-02 15.12.35.jpg	2014-05-02 15.12.48.jpg	2014-05-02 15.43.17.jpg	2014-05-02 17.15.11.jpg	2014-05-02 17.15.17.jpg	2014-05-03 11.46.45.jpg	2014-05-03 11.47.14.jpg	2014-05-03 11.48.09.jpg	2014-05-03 12.17.10.jpg	2014-05-03 12.21.09.jpg	2014-05-03 12.21.49.jpg	2014-05-03 12.21.55.jpg	2014-05-03 12.26.50.jpg	2014-05-03 12.26.57.jpg	2014-05-03 12.47.30.jpg	2014-05-03 12.47.37.jpg	2014-05-03 12.49.01.jpg	2014-05-03 12.49.10.jpg	2014-05-03 12.50.15.jpg	2014-05-03 12.50.23.jpg	2014-05-03 12.54.07.jpg	2014-05-03 13.03.12.jpg	2014-05-03 13.03.17.jpg	2014-05-03 13.03.27.jpg	2014-05-03 13.18.22.jpg	2014-05-03 13.18.28.jpg	2014-05-03 13.18.47.jpg	2014-05-03 13.21.12.jpg	2014-05-03 13.21.50.jpg	2014-05-03 13.21.55.jpg	2014-05-03 13.22.01.jpg	2014-05-03 13.22.37.jpg	2014-05-03 13.24.08.jpg	2014-05-03 13.26.43.jpg	2014-05-03 13.26.46.jpg	2014-05-03 13.26.56.jpg	2014-05-03 13.26.56.jpg	2014-05-03 13.27.22.jpg	2014-05-03 13.27.40.jpg	2014-05-03 13.27.49.jpg	2014-05-03 13.27.51.jpg	2014-05-03 13.27.55.jpg	2014-05-04 13.30.28.jpg	2014-05-04 13.59.31.jpg	2014-05-04 13.59.54.jpg	2014-05-04 15.17.29.jpg	2014-05-04 15.17.40.jpg	2014-05-04 16.13.47.jpg	2014-05-05 10.06.12.jpg	2014-05-05 10.06.39.jpg	2014-05-05 10.06.48.jpg	2014-05-05 10.06.55.jpg	2014-05-05 10.07.28.jpg	2014-05-05 10.07.36.jpg	2014-05-05 10.15.06.jpg	2014-05-05 17.42.27.jpg	2014-05-05 18.07.27.jpg	2014-05-06 18.52.53.jpg	2014-05-06 18.52.53.jpg	2014-05-06 18.53.01.jpg	2014-05-06 18.53.01.jpg	2014-05-06 18.53.01.jpg	2014-05-06 19.03.51.jpg	2014-05-06 19.03.51.jpg	2014-05-06 19.04.03.jpg	2014-05-06 20.27.15.jpg	2014-05-06 20.27.22.jpg	2014-05-06 20.28.55.jpg	2014-05-08 14.34.32.jpg	2014-05-08 14.34.45.jpg	2014-05-08 14.35.00.jpg	2014-05-08 14.39.20.jpg	2014-05-08 16.50.54.jpg	2014-05-08 20.29.41.jpg	2014-05-08 20.29.46.jpg	2014-06-12 17.34.17.jpg	2014-08-03 01.14.31.jpg	2014-08-09 19.09.06.jpg	2014-10-09 17.27.31.jpg	2014-10-09 17.28.04.jpg	2014-10-09 17.28.21.jpg	2014-10-11 17.57.05.jpg	2014-10-15 17.28.57.jpg	2014-11-04 13.18.05.jpg	2014-11-13 12.53.08.jpg	2014-11-13 12.53.15.jpg	2014-12-11 17.34.54.jpg	2014-12-16 16.14.43.jpg	2014-12-20 16.38.08.jpg	video-2014-06-12-17-22-57.mp4	
+
+path=/media/someone/AFAT32P/Photo/other-unsorted/photo/201404-Moscow
+files=IMG_4684.JPG	IMG_4685.JPG	IMG_4686.JPG	IMG_4687.JPG	IMG_4688.JPG	IMG_4689.JPG	IMG_4690.JPG	IMG_4691.JPG	IMG_4692.JPG	IMG_4693.JPG	IMG_4694.JPG	IMG_4744.JPG	IMG_4799.JPG	IMG_4800.JPG	IMG_4879.JPG	IMG_5010.JPG	IMG_5014.JPG	IMG_5015.JPG	IMG_5016.JPG	IMG_5017.JPG	IMG_5018.JPG	
+
+path=/media/someone/AFAT32P/Photo/other-unsorted/photo/Daniel/201312-Daniel
+files=IMG_3352.JPG	IMG_3353.JPG	
+
+path=/media/someone/AFAT32P/Photo/other-unsorted/photo/20130528-olys-grad
+files=DSC09062.JPG	DSC09063.JPG	DSC09065.JPG	DSC09066.JPG	DSC09067.JPG	DSC09171.JPG	DSC09183.JPG	DSC09208.JPG	DSC09217.JPG	IMG_9023.JPG	IMG_9033.JPG	IMG_9034.JPG	IMG_9045.JPG	IMG_9069.JPG	IMG_9075.JPG	IMG_9083.JPG	IMG_9090.JPG	IMG_9098.JPG	IMG_9100.JPG	IMG_9105.JPG	IMG_9107.JPG	IMG_9110.JPG	IMG_9123.JPG	IMG_9124.JPG	IMG_9131.JPG	IMG_9136.JPG	IMG_9144.JPG	IMG_9158.JPG	IMG_9166.JPG	IMG_9167.JPG	IMG_9168.JPG	IMG_9170.JPG	IMG_9175.JPG	IMG_9179.JPG	IMG_9188.JPG	IMG_9191.JPG	IMG_9197.JPG	IMG_9198.JPG	IMG_9199.JPG	IMG_9200.JPG	IMG_9203.JPG	IMG_9205.JPG	IMG_9207.JPG	IMG_9216.JPG	IMG_9226.JPG	IMG_9227.JPG	IMG_9228.JPG	IMG_9229.JPG	IMG_9230.JPG	IMG_9231.JPG	IMG_9232.JPG	IMG_9233.JPG	IMG_9235.JPG	IMG_9237.JPG	IMG_9246.JPG	IMG_9252.JPG	IMG_9270.JPG	IMG_9277.JPG	IMG_9283.JPG	IMG_9296.JPG	IMG_9297.JPG	IMG_9300.JPG	IMG_9301.JPG	IMG_9304.JPG	IMG_9305.JPG	IMG_9328.JPG	IMG_9330.JPG	IMG_9332.JPG	IMG_9338.JPG	IMG_9340.JPG	IMG_9345.JPG	IMG_9349.JPG	IMG_9351.JPG	IMG_9352.JPG	
+
+path=/media/someone/AFAT32P/Photo/other-unsorted/NBToshiba-20120603-photo/20120414
+files=Picture 218.jpg	Picture 219.jpg	Picture 220.jpg	
+
+path=/media/someone/AFAT32P/Photo/other-unsorted/julia_cell/DOC/Mertvye_dushi__Tom_1_-2
+files=68828.txt	68828.txt	
+
+path=/media/someone/AFAT32P/Photo/other-unsorted/julia_cell/DOC/Mertvye_dushi__Tom_1_-3
+files=68828.txt	68828.txt	68828.txt	
+
+path=/media/someone/AFAT32P/Photo/other-unsorted/photo/20130528-olys-grad/forVK
+files=DSC09062.JPG	DSC09063.JPG	DSC09065.JPG	DSC09066.JPG	DSC09067.JPG	DSC09171.JPG	DSC09183.JPG	DSC09208.JPG	DSC09217.JPG	IMG_9131.JPG	IMG_9131.JPG	IMG_9167.JPG	IMG_9167.JPG	IMG_9170.JPG	IMG_9170.JPG	IMG_9188.JPG	IMG_9188.JPG	IMG_9191.JPG	IMG_9191.JPG	IMG_9197.JPG	IMG_9197.JPG	IMG_9200.JPG	IMG_9200.JPG	IMG_9237.JPG	IMG_9237.JPG	IMG_9246.JPG	IMG_9246.JPG	IMG_9252.JPG	IMG_9252.JPG	IMG_9270.JPG	IMG_9270.JPG	IMG_9277.JPG	IMG_9277.JPG	IMG_9283.JPG	IMG_9283.JPG	IMG_9297.JPG	IMG_9297.JPG	IMG_9301.JPG	IMG_9301.JPG	IMG_9305.JPG	IMG_9305.JPG	IMG_9328.JPG	IMG_9328.JPG	IMG_9330.JPG	IMG_9330.JPG	IMG_9332.JPG	IMG_9332.JPG	IMG_9352.JPG	IMG_9352.JPG	
+
+path=/media/someone/AFAT32P/Photo/other-unsorted/julia_cell/DOC/Mertvye_dushi__Tom_1_-1
+files=68828.txt	
+
+path=/media/someone/AFAT32P/Photo/other-unsorted/photo/20131006-Moscow-Arhangelskoe
+files=IMG_2296.JPG	IMG_2356.JPG	IMG_2419.JPG	IMG_2476.JPG	IMG_2483.JPG	
+
+path=/media/someone/AFAT32P/Photo/other-unsorted/NBToshiba-20111113-photo/Me/110916-Moscow
+files=Image000.jpg	Image003.jpg	Image004.jpg	Image005.jpg	Image006.jpg	Image007.jpg	Image008.jpg	Image009.jpg	Image010.jpg	Image011.jpg	Image012.jpg	Image013.jpg	Image014.jpg	Image015.jpg	Image016.jpg	Image018.jpg	Image020.jpg	Image021.jpg	Image022.jpg	
+
+path=/media/someone/AFAT32P/Photo/other-unsorted/photo/201306-vancouver/best
+files=IMG_0003.JPG	IMG_0004.JPG	IMG_0011.JPG	IMG_0037.JPG	IMG_0038.JPG	IMG_0049.JPG	IMG_0050.JPG	IMG_0051.JPG	IMG_0054.JPG	IMG_0065.JPG	IMG_0067.JPG	IMG_0081.JPG	IMG_0088.JPG	IMG_0147.JPG	IMG_0150.JPG	IMG_0153.JPG	IMG_0164.JPG	IMG_0193.JPG	IMG_0210.JPG	IMG_0217.JPG	IMG_0219.JPG	IMG_0220.JPG	IMG_0221.JPG	IMG_0222.JPG	IMG_0269.JPG	IMG_0289.JPG	IMG_0293.JPG	IMG_0301.JPG	IMG_9365.JPG	IMG_9368.JPG	IMG_9378.JPG	IMG_9383.JPG	IMG_9389.JPG	IMG_9390.JPG	IMG_9399.JPG	IMG_9400.JPG	IMG_9401.JPG	IMG_9977.JPG	
+
+path=/media/someone/AFAT32P/Photo/other-unsorted/julia_cell/FOTO/Old
+files=000_0090.jpg	000_0090.jpg	1.jpg	1.jpg	1f.JPG	1f.JPG	26.jpg	26.jpg	3.jpg	3.jpg	48658-320.jpg	7_118000.JPG	8800arte.nth	Butterfly.png	DSC_6417_1.jpg	Flowers.png	I am.jpg	IMG_0412.jpg	IMG_0412.jpg	IMG_0449.jpg	IMG_0449.jpg	IMG_0486.jpg	IMG_0486.jpg	IMG_0523.jpg	IMG_0523.jpg	IMG_0555.jpg	IMG_0555.jpg	IMG_1576.JPG	IMG_1576.JPG	IMG_1647.JPG	IMG_1647.JPG	IMG_1824.JPG	IMG_1824.JPG	IMG_1831_1.JPG	IMG_1831_1.JPG	IMG_7482.JPG	IMG_7540.JPG	IMG_7699.JPG	IMG_8611.jpg	IMG_8849.jpg	IMG_8859.jpg	Lizard.png	Mountain.png	Picture 172.jpg	Picture 196.jpg	Picture 197.jpg	Picture 236.jpg	Picture 269.jpg	Picture 397.jpg	Prada_Wallpaper.jpg	Unisex.jpg	Unisex.jpg	logo_1024.jpg	spaces_ru_2801711.jpg	spaces_ru_982103.jpg	spaces_ru_982103.jpg	Фото000.jpg	Фото000.jpg	Фото001.jpg	Фото002.jpg	Фото003.jpg	Фото004.jpg	Фото005.jpg	Фото005.jpg	Фото008.jpg	Фото009.jpg	Фото009.jpg	Фото010.jpg	Фото010.jpg	Фото011.jpg	Фото011.jpg	Фото012.jpg	Фото012.jpg	Фото013.jpg	Фото013.jpg	Фото015.jpg	Фото016.jpg	Фото016.jpg	Фото017.jpg	Фото017.jpg	Фото018.jpg	Фото018.jpg	Фото020.jpg	Фото021.jpg	Фото022.jpg	Фото022.jpg	Фото023.jpg	Фото023.jpg	Фото024.jpg	Фото024.jpg	Фото025.jpg	Фото028.jpg	Фото028.jpg	Фото029.jpg	Фото029.jpg	Фото031.jpg	Фото031.jpg	Фото032.jpg	Фото034.jpg	Фото036.jpg	Фото036.jpg	Фото037.jpg	Фото037.jpg	Фото038.jpg	Фото038.jpg	Фото039.jpg	Фото039.jpg	Фото040.jpg	Фото040.jpg	Фото041.jpg	Фото041.jpg	Фото042.jpg	Фото043.jpg	Фото043.jpg	Фото045.jpg	Фото049.jpg	Фото049.jpg	селя2.jpg	селя2.jpg	
+
+path=/media/someone/AFAT32P/Photo/other-unsorted/NBToshiba-20111113-photo/201102/201102A0
+files=220220113011.jpg	220220113012.jpg	220220113013.jpg	220220113014.jpg	230220113022.jpg	
+
+path=/media/someone/AFAT32P/Photo/other-unsorted/photo/20130303-Thailand
+files=IMG_7554.JPG	IMG_7555.JPG	IMG_7556.JPG	IMG_7557.JPG	IMG_7558.JPG	IMG_7624.JPG	
+
+path=/media/someone/AFAT32P/Photo/other-unsorted/Family/Marina
+files=250120102363.jpg	250120102364.jpg	
+
+path=/media/someone/AFAT32P/Photo/other-unsorted/2011-and-before-Juliy
+files=1.jpg	220220113011.jpg	220220113012.jpg	220220113013.jpg	220220113014.jpg	230220113022.jpg	26.jpg	3.jpg	IMG_0412.jpg	IMG_0449.jpg	IMG_0486.jpg	IMG_0523.jpg	IMG_0555.jpg	Unisex.jpg	spaces_ru_982103.jpg	z000_0090.jpg	Фото000.jpg	Фото005.jpg	Фото009.jpg	Фото010.jpg	Фото011.jpg	Фото012.jpg	Фото013.jpg	Фото016.jpg	Фото017.jpg	Фото018.jpg	Фото020.jpg	Фото022.jpg	Фото023.jpg	Фото024.jpg	Фото027.jpg	Фото028.jpg	Фото029.jpg	Фото030.jpg	Фото031.jpg	Фото032.jpg	Фото033.jpg	Фото035.jpg	Фото036.jpg	Фото037.jpg	Фото038.jpg	Фото039.jpg	Фото040.jpg	Фото041.jpg	Фото042.jpg	Фото043.jpg	Фото045.jpg	Фото049.jpg	Фото051.jpg	селя2.jpg	
+
+path=/media/someone/AFAT32P/Photo/other-unsorted/LenasPhone/2013/11/16
+files=IMG_2918.JPG	
+
+path=/media/someone/AFAT32P/Photo/other-unsorted/julia_cell/FOTO/201311-Daniel-bd
+files=IMG_2752-1.jpg	IMG_2846.JPG	IMG_2858.JPG	IMG_2899.JPG	IMG_2913.JPG	IMG_2918.JPG	IMG_3051.jpg	IMG_3052.jpg	IMG_3352.JPG	IMG_3353.JPG	IMG_4277.JPG	IMG_4301.JPG	IMG_4306.JPG	IMG_4348.JPG	IMG_4349.JPG	IMG_4351.JPG	IMG_4373.JPG	IMG_4376.JPG	IMG_4414.JPG	
+
+path=/media/someone/AFAT32P/Photo/other-unsorted/NBToshiba-20111113-photo/201109-moscow-vdnx
+files=Image000.jpg	Image002.jpg	Image003.jpg	Image004.jpg	Image005.jpg	Image006.jpg	Image007.jpg	Image008.jpg	Image009.jpg	Image010.jpg	Image011.jpg	Image012.jpg	Image013.jpg	Image014.jpg	Image015.jpg	Image016.jpg	Image018.jpg	Image019.jpg	Image020.jpg	Image021.jpg	Image022.jpg	
+
+path=/media/someone/AFAT32P/Photo/other-unsorted/Family/0903_Vancouver_Sample
+files=020420091913.jpg	Kids_I.jpg	
+
+path=/media/someone/AFAT32P/Photo/other-unsorted/NBToshiba-20111113-photo/julys-foto/2012/photo
+files=IMG_8611.jpg	IMG_8849.jpg	IMG_8859.jpg	
+
+path=/media/someone/AFAT32P/Photo/other-unsorted/Family/Ukraine
+files=06012009778.jpg	
+
+path=/media/someone/AFAT32P/Photo/other-unsorted/NBLenovoIP-20140619-pics
+files=AllCitibankAaccountsScreenshotfrom2014-05-02.png	RBCCheckingAccountDetailsScreenshotfrom2014-05-01.png	Screenshot from 2014-05-01 19_55_50.png	Screenshot from 2014-05-02 18_58_13.png	
+
+path=/media/someone/AFAT32P/Photo/other-unsorted/photo/20130712-Svadba/edited
+files=4VS_3149.jpg	4VS_3158.jpg	4VS_3159.jpg	4VS_3165.jpg	4VS_3167.jpg	4VS_3168.jpg	4VS_3169.jpg	4VS_3190.jpg	4VS_3217.jpg	4VS_3232.jpg	4VS_3238.jpg	4VS_3243.jpg	4VS_3265.jpg	4VS_3268.jpg	4VS_3271.jpg	4VS_3273.jpg	4VS_3274.jpg	4VS_3276.jpg	4VS_3280.jpg	4VS_3302.jpg	4VS_3305.jpg	4VS_3311a.jpg	4VS_3321.jpg	4VS_3324.jpg	4VS_3348.jpg	4VS_3352.jpg	4VS_3355.jpg	4VS_3358.jpg	4VS_3363.jpg	4VS_3389.jpg	4VS_3390.jpg	4VS_3397.jpg	4VS_3398.jpg	4VS_3404.jpg	4VS_3405.jpg	4VS_3408.jpg	4VS_3415.jpg	4VS_3416.jpg	4VS_3427.jpg	4VS_3439.jpg	4VS_3442.jpg	4VS_3445.jpg	4VS_3447.jpg	4VS_3449.jpg	4VS_3450.jpg	4VS_3451.jpg	4VS_3452.jpg	4VS_3453.jpg	4VS_3454.jpg	4VS_3455.jpg	4VS_3458.jpg	4VS_3459.jpg	4VS_3468.jpg	4VS_3471.jpg	4VS_3498.jpg	4VS_3513.jpg	4VS_3544.jpg	4VS_3562.jpg	4VS_3566.jpg	4VS_3569.jpg	4VS_3570.jpg	4VS_3571.jpg	4VS_3575.jpg	4VS_3576.jpg	4VS_3578.jpg	4VS_3581.jpg	4VS_3582.jpg	4VS_3583.jpg	4VS_3585.jpg	4VS_3586.jpg	4VS_3589.jpg	4VS_3592.jpg	4VS_3602.jpg	4VS_3603.jpg	4VS_3604.jpg	4VS_3606.jpg	4VS_3610.jpg	4VS_3617.jpg	4VS_3621.jpg	4VS_3624.jpg	4VS_3631.jpg	4VS_3636a.jpg	4VS_3644.jpg	4VS_3645.jpg	4VS_3648.jpg	4VS_3656.jpg	4VS_3660.jpg	4VS_3680.jpg	4VS_3682.jpg	4VS_3686.jpg	4VS_3695.jpg	4VS_3700.jpg	4VS_3701.jpg	4VS_3703.jpg	4VS_3716.jpg	4VS_3731.jpg	4VS_3733.jpg	4VS_3735.jpg	4VS_3737.jpg	4VS_3740.jpg	4VS_3760.jpg	4VS_3762.jpg	4VS_3764.jpg	4VS_3766.jpg	4VS_3768.jpg	4VS_3769.jpg	4VS_3772.jpg	4VS_3780.jpg	4VS_3782.jpg	4VS_3786.jpg	4VS_3791.jpg	4VS_3792.jpg	4VS_3801.jpg	4VS_3804.jpg	4VS_3805.jpg	4VS_3806.jpg	4VS_3808.jpg	4VS_3811.jpg	4VS_3812.jpg	4VS_3816.jpg	4VS_3819.jpg	4VS_3826.jpg	4VS_3827.jpg	4VS_3828.jpg	4VS_3832.jpg	4VS_3835.jpg	4VS_3857.jpg	4VS_3858.jpg	4VS_3860.jpg	4VS_3862.jpg	4VS_3863.jpg	4VS_3864.jpg	4VS_3867.jpg	4VS_3870.jpg	4VS_3876.jpg	4VS_3877.jpg	4VS_3880.jpg	
+
+path=/media/someone/AFAT32P/Photo/other-unsorted/NBToshiba-20111113-photo/Me/sergei photos/parrot & hoovercraft
+files=DSCN0116.JPG	s.jpg	
+
+path=/media/someone/AFAT32P/Photo/other-unsorted/NBToshiba-20111113-photo/Me/best
+files=IMG_0140.JPG	IMG_0216.JPG	IMG_0246.JPG	IMG_0288.JPG	IMG_0307.JPG	IMG_0314.JPG	IMG_0324.JPG	IMG_0331.JPG	IMG_0334.JPG	IMG_0344.JPG	IMG_0347.JPG	IMG_0348.JPG	IMG_0349.JPG	IMG_0373.JPG	IMG_0376.JPG	IMG_0388.JPG	IMG_0402.JPG	IMG_0413.JPG	IMG_0473.JPG	IMG_0478.JPG	IMG_0498.JPG	Serguei.jpg	
+
+path=/media/someone/AFAT32P/Photo/other-unsorted/NBToshiba-20111113-photo/MeAndJuly/110416_valys_bd
+files=IMG_0377.JPG	IMG_0383.JPG	IMG_0386.JPG	IMG_0388.JPG	IMG_0389.JPG	IMG_0435.JPG	IMG_0436.JPG	IMG_0447.JPG	IMG_0449.JPG	IMG_0455.JPG	IMG_0459.JPG	IMG_0460.JPG	IMG_0462.JPG	
+
+path=/media/someone/AFAT32P/Photo/other-unsorted/AgatAComp-photo
+files=IMG_2846.jpg	IMG_2858.jpg	IMG_2899.jpg	IMG_2913.jpg	IMG_3025.jpg	IMG_3051.jpg	IMG_3052.jpg	
+
+path=/media/someone/AFAT32P/Photo/other-unsorted/NBToshiba-20111113-photo/julys-foto/uly_foto
+files=000_0090.jpg	1.jpg	26.jpg	3.jpg	48658-320.jpg	7_118000.JPG	8800arte.nth	Butterfly.png	Flowers.png	IMG_0412.jpg	IMG_0449.jpg	IMG_0486.jpg	IMG_0523.jpg	IMG_0555.jpg	Lizard.png	Mountain.png	Prada_Wallpaper.jpg	Unisex.jpg	logo_1024.jpg	spaces_ru_2801711.jpg	spaces_ru_982103.jpg	Фото000.jpg	Фото001.jpg	Фото002.jpg	Фото003.jpg	Фото004.jpg	Фото008.jpg	Фото009.jpg	Фото010.jpg	Фото011.jpg	Фото013.jpg	Фото015.jpg	Фото016.jpg	Фото018.jpg	Фото022.jpg	Фото025.jpg	Фото027.jpg	Фото029.jpg	Фото030.jpg	Фото031.jpg	Фото033.jpg	Фото034.jpg	Фото049.jpg	Фото051.jpg	селя2.jpg	
+
+path=/media/someone/AFAT32P/Photo/other-unsorted/NBToshiba-20111113-photo
+files=Serguei.jpg	__IMG_0246.JPG	
+
+path=/media/someone/AFAT32P/Photo/other-unsorted/NBToshiba-20111113-photo/Me/Moscow_20110423
+files=Copy of sam_0928.jpg	sam_0922.jpg	sam_0927.jpg	sam_0928.jpg	sam_0928.jpg	sam_0938.jpg	sam_0949.jpg	sam_0950.jpg	sam_0974.jpg	
+
+path=/media/someone/AFAT32P/Photo/other-unsorted/photo/20130528-olys-grad/best
+files=IMG_9023.JPG	IMG_9033.JPG	IMG_9034.JPG	IMG_9045.JPG	IMG_9069.JPG	IMG_9075.JPG	IMG_9083.JPG	IMG_9090.JPG	IMG_9098.JPG	IMG_9100.JPG	IMG_9105.JPG	IMG_9107.JPG	IMG_9110.JPG	IMG_9123.JPG	IMG_9124.JPG	IMG_9131.JPG	IMG_9136.JPG	IMG_9144.JPG	IMG_9158.JPG	IMG_9166.JPG	IMG_9167.JPG	IMG_9168.JPG	IMG_9170.JPG	IMG_9175.JPG	IMG_9179.JPG	IMG_9188.JPG	IMG_9191.JPG	IMG_9197.JPG	IMG_9198.JPG	IMG_9199.JPG	IMG_9200.JPG	IMG_9203.JPG	IMG_9205.JPG	IMG_9207.JPG	IMG_9216.JPG	IMG_9232.JPG	IMG_9233.JPG	IMG_9235.JPG	IMG_9237.JPG	IMG_9246.JPG	IMG_9252.JPG	IMG_9270.JPG	IMG_9277.JPG	IMG_9283.JPG	IMG_9296.JPG	IMG_9297.JPG	IMG_9300.JPG	IMG_9301.JPG	IMG_9304.JPG	IMG_9305.JPG	IMG_9328.JPG	IMG_9330.JPG	IMG_9332.JPG	IMG_9338.JPG	IMG_9340.JPG	IMG_9345.JPG	IMG_9349.JPG	IMG_9351.JPG	IMG_9352.JPG	
+
+path=/media/someone/AFAT32P/Photo/other-unsorted/NBToshiba-20111113-photo/julys-foto/pics20120223/Juliy
+files=IMG_0715.CR2	IMG_0716.CR2	IMG_0716.JPG	IMG_0717.JPG	IMG_0718.JPG	IMG_0719.JPG	IMG_0720.JPG	IMG_0721.JPG	IMG_0722.JPG	IMG_0723.CR2	IMG_0723.JPG	IMG_0724.CR2	Picture 190.jpg	Picture 192.jpg	Picture 193.jpg	Picture 194.jpg	Picture 195.jpg	Picture 199.jpg	Picture 200.jpg	Picture 201.jpg	Picture 202.jpg	Picture 203.jpg	Picture 204.jpg	Picture 205.jpg	Picture 206.jpg	Picture 207.jpg	Picture 208.jpg	Picture 209.jpg	Picture 210.jpg	Picture 212.jpg	Picture 214.jpg	Picture 215.jpg	Picture 216.jpg	Picture 217.jpg	Picture 221.jpg	Picture 222.jpg	Picture 223.jpg	Picture 226.jpg	Picture 229.jpg	Picture 230.jpg	Picture 231.jpg	Picture 232.jpg	Picture 236.jpg	Picture 238.jpg	Picture 240.jpg	Picture 241.jpg	Picture 243.jpg	Picture 244.jpg	Picture 245.jpg	Picture 246.jpg	Picture 247.jpg	Picture 248.jpg	Picture 250.jpg	Picture 251.jpg	Picture 252.jpg	Picture 253.jpg	Picture 255.jpg	Picture 256.jpg	Picture 258.jpg	Picture 259.jpg	Picture 260.jpg	Picture 265.jpg	Picture 272.jpg	Picture 273.jpg	Picture 274.jpg	Picture 275.jpg	Picture 276.jpg	Picture 277.jpg	Picture 278.jpg	Picture 279.jpg	Picture 280.jpg	Picture 281.jpg	Picture 282.jpg	Picture 283.jpg	Picture 284.jpg	Picture 285.jpg	Picture 286.jpg	Picture 287.jpg	Picture 288.jpg	Picture 289.jpg	Picture 290.jpg	Picture 291.jpg	Picture 292.jpg	Picture 293.jpg	Picture 294.jpg	Picture 295.jpg	Picture 296.jpg	Picture 297.jpg	Picture 298.jpg	Picture 299.jpg	Picture 300.jpg	Picture 301.jpg	Picture 302.jpg	Picture 303.jpg	Picture 306.jpg	Picture 307.jpg	Picture 308.jpg	Picture 309.jpg	Picture 310.jpg	Picture 311.jpg	Picture 312.jpg	Picture 313.jpg	Picture 314.jpg	Picture 315.jpg	Picture 316.jpg	Picture 317.jpg	
+
+path=/media/someone/AFAT32P/Photo/other-unsorted/NBToshiba-20111113-photo/Me/all/103CANON
+files=IMG_0307.JPG	IMG_0308.JPG	IMG_0310.JPG	IMG_0314.JPG	IMG_0322.JPG	IMG_0324.JPG	IMG_0325.JPG	IMG_0330.JPG	IMG_0331.JPG	IMG_0334.JPG	IMG_0335.JPG	IMG_0344.JPG	IMG_0347.JPG	IMG_0348.JPG	IMG_0349.JPG	IMG_0351.JPG	IMG_0357.JPG	IMG_0364.JPG	IMG_0373.JPG	IMG_0374.JPG	IMG_0375.JPG	IMG_0376.JPG	IMG_0380.JPG	IMG_0381.JPG	IMG_0382.JPG	IMG_0384.JPG	IMG_0388.JPG	IMG_0389.JPG	IMG_0390.JPG	IMG_0393.JPG	IMG_0396.JPG	IMG_0398.JPG	
+
+path=/media/someone/AFAT32P/Photo/other-unsorted/NBToshiba-20111113-photo/Me/all/100CASIO
+files=CIMG3184.JPG	CIMG3185.JPG	CIMG3187.JPG	
+
+path=/media/someone/AFAT32P/Photo/other-unsorted/NBToshiba-20111113-photo/julys-foto/pics20120223/Juliy2
+files=IMG_0715.CR2	IMG_0716.CR2	IMG_0716.JPG	IMG_0717.JPG	IMG_0718.JPG	IMG_0719.JPG	IMG_0720.JPG	IMG_0721.JPG	IMG_0722.JPG	IMG_0723.CR2	IMG_0723.JPG	IMG_0724.CR2	Picture 190.jpg	Picture 190.jpg	Picture 192.jpg	Picture 192.jpg	Picture 193.jpg	Picture 194.jpg	Picture 195.jpg	Picture 199.jpg	Picture 200.jpg	Picture 201.jpg	Picture 202.jpg	Picture 203.jpg	Picture 204.jpg	Picture 205.jpg	Picture 206.jpg	Picture 207.jpg	Picture 208.jpg	Picture 209.jpg	Picture 210.jpg	Picture 212.jpg	Picture 214.jpg	Picture 215.jpg	Picture 216.jpg	Picture 217.jpg	Picture 221.jpg	Picture 222.jpg	Picture 223.jpg	Picture 226.jpg	Picture 229.jpg	Picture 230.jpg	Picture 231.jpg	Picture 232.jpg	Picture 236.jpg	Picture 238.jpg	Picture 240.jpg	Picture 241.jpg	Picture 243.jpg	Picture 244.jpg	Picture 245.jpg	Picture 246.jpg	Picture 247.jpg	Picture 248.jpg	Picture 250.jpg	Picture 251.jpg	Picture 252.jpg	Picture 253.jpg	Picture 255.jpg	Picture 256.jpg	Picture 258.jpg	Picture 259.jpg	Picture 260.jpg	
+
+path=/media/someone/AFAT32P/Photo/other-unsorted/NBToshiba-20111113-photo/201103/201103A0
+files=040320113046.jpg	040320113047.jpg	040320113048.jpg	040320113049.jpg	080320113050.jpg	080320113051.jpg	201103263055.jpg	201103263056.jpg	
+
+path=/media/someone/AFAT32P/Photo/other-unsorted/201202-23-Moscow
+files=Picture 001.jpg	Picture 010.jpg	Picture 011.jpg	Picture 012.jpg	Picture 013.jpg	Picture 014.jpg	Picture 017.jpg	Picture 019.jpg	Picture 020.jpg	Picture 027.jpg	Picture 028.jpg	Picture 029.jpg	Picture 030.jpg	Picture 031.jpg	Picture 036.jpg	Picture 038.jpg	Picture 040.jpg	Picture 041.jpg	Picture 042.jpg	Picture 043.jpg	Picture 056.jpg	Picture 057.jpg	Picture 062.jpg	Picture 063.jpg	Picture 064.jpg	Picture 065.jpg	Picture 067.jpg	Picture 068.jpg	Picture 069.jpg	Picture 071.jpg	Picture 072.jpg	Picture 078.jpg	Picture 080.jpg	Picture 081.jpg	Picture 084.jpg	Picture 086.jpg	Picture 090.jpg	Picture 092.jpg	Picture 094.jpg	Picture 126.jpg	Picture 127.jpg	Picture 134.jpg	Picture 147.jpg	Picture 154.jpg	Picture 156.jpg	Picture 187.jpg	Picture 188.jpg	Picture 190.jpg	Picture 192.jpg	Picture 265.jpg	Picture 272.jpg	Picture 273.jpg	Picture 274.jpg	Picture 275.jpg	Picture 276.jpg	Picture 277.jpg	Picture 278.jpg	Picture 279.jpg	Picture 280.jpg	Picture 281.jpg	Picture 282.jpg	Picture 283.jpg	Picture 284.jpg	Picture 285.jpg	Picture 286.jpg	Picture 287.jpg	Picture 288.jpg	Picture 289.jpg	Picture 290.jpg	Picture 291.jpg	Picture 292.jpg	Picture 293.jpg	Picture 294.jpg	Picture 295.jpg	Picture 296.jpg	Picture 297.jpg	Picture 298.jpg	Picture 299.jpg	Picture 300.jpg	Picture 301.jpg	Picture 302.jpg	Picture 303.jpg	Picture 306.jpg	Picture 307.jpg	Picture 308.jpg	Picture 309.jpg	Picture 310.jpg	Picture 311.jpg	Picture 312.jpg	Picture 313.jpg	Picture 314.jpg	Picture 315.jpg	Picture 316.jpg	Picture 317.jpg	
+
+path=/media/someone/AFAT32P/Photo/other-unsorted/NBToshiba-20111113-photo/Me/all/100CANON
+files=IMG_0106.JPG	IMG_0108.JPG	IMG_0133.JPG	IMG_0140.JPG	IMG_0154.JPG	IMG_0155.JPG	IMG_0163.JPG	
+
+path=/media/someone/AFAT32P/Photo/other-unsorted/NBToshiba-20111113-photo/201104/201104A0
+files=201104013057.jpg	201104063058.jpg	201104103059.jpg	201104103060.jpg	201104103061.jpg	201104103062.jpg	201104103063.jpg	201104103064.jpg	201104233065.jpg	201104233066.jpg	201104233067.jpg	201104233068.jpg	201104233069.jpg	201104233070.jpg	201104233071.jpg	201104233072.jpg	201104233073.jpg	201104233074.jpg	201104233075.jpg	
+
+path=/media/someone/AFAT32P/Photo/other-unsorted/NBLenovoIP-20140619-pics/GalaxySS-my
+files=2013-12-10 20.51.03.jpg	2013-12-18 11.54.33.jpg	2013-12-21 00.27.00.jpg	2013-12-21 00.27.19.jpg	2013-12-21 00.27.23.jpg	2013-12-21 00.27.34.jpg	2014-01-06 17.51.23.jpg	2014-01-06 17.51.29.jpg	2014-02-15 15.51.08.jpg	2014-02-15 15.53.58.jpg	2014-02-18 16.04.28.jpg	2014-04-16 10.20.31.jpg	2014-04-16 10.20.42.jpg	2014-04-16 10.21.00.jpg	2014-04-16 10.21.09.jpg	2014-04-16 10.21.28.jpg	2014-04-17 06.35.25.jpg	2014-04-17 06.35.39.jpg	2014-04-17 06.35.54.jpg	2014-04-17 16.59.03.jpg	2014-04-17 16.59.58.jpg	2014-04-17 17.00.10.jpg	2014-04-17 17.00.16.jpg	2014-04-17 17.00.31.jpg	2014-04-17 17.01.48.jpg	2014-04-17 17.01.52.jpg	2014-04-17 17.01.57.jpg	2014-04-17 17.02.07.jpg	2014-04-17 17.02.10.jpg	2014-04-29 18.27.10.jpg	2014-04-29 18.27.14.jpg	2014-04-29 18.27.16.jpg	2014-04-29 18.27.19.jpg	2014-04-29 18.27.22.jpg	2014-04-29 18.27.35.jpg	2014-04-29 18.28.05.jpg	2014-04-29 18.28.09.jpg	2014-04-29 18.28.15.jpg	2014-05-01 16.42.45.jpg	2014-05-01 16.44.36.jpg	2014-05-01 16.44.59.jpg	2014-05-01 16.46.27.jpg	2014-05-02 15.12.35.jpg	2014-05-02 15.12.48.jpg	2014-05-02 15.43.17.jpg	2014-05-02 17.15.11.jpg	2014-05-02 17.15.17.jpg	2014-05-03 11.46.45.jpg	2014-05-03 11.47.14.jpg	2014-05-03 11.48.09.jpg	2014-05-03 12.17.10.jpg	2014-05-03 12.21.09.jpg	2014-05-03 12.21.49.jpg	2014-05-03 12.21.55.jpg	2014-05-03 12.26.50.jpg	2014-05-03 12.26.57.jpg	2014-05-03 12.47.30.jpg	2014-05-03 12.47.37.jpg	2014-05-03 12.49.01.jpg	2014-05-03 12.49.10.jpg	2014-05-03 12.50.15.jpg	2014-05-03 12.50.23.jpg	2014-05-03 12.54.07.jpg	2014-05-03 13.03.12.jpg	2014-05-03 13.03.17.jpg	2014-05-03 13.03.27.jpg	2014-05-03 13.18.22.jpg	2014-05-03 13.18.28.jpg	2014-05-03 13.18.47.jpg	2014-05-03 13.21.12.jpg	2014-05-03 13.21.50.jpg	2014-05-03 13.21.55.jpg	2014-05-03 13.22.01.jpg	2014-05-03 13.22.37.jpg	2014-05-03 13.24.08.jpg	2014-05-03 13.26.43.jpg	2014-05-03 13.26.46.jpg	2014-05-03 13.26.56.jpg	2014-05-03 13.27.22.jpg	2014-05-03 13.27.40.jpg	2014-05-03 13.27.49.jpg	2014-05-04 13.30.28.jpg	2014-05-04 13.59.31.jpg	2014-05-04 13.59.54.jpg	2014-05-04 15.17.29.jpg	2014-05-04 15.17.40.jpg	2014-05-04 16.13.47.jpg	2014-05-05 10.06.12.jpg	2014-05-05 10.06.39.jpg	2014-05-05 10.06.48.jpg	2014-05-05 10.06.55.jpg	2014-05-05 10.07.28.jpg	2014-05-05 10.07.36.jpg	2014-05-05 10.15.06.jpg	2014-05-05 17.42.27.jpg	2014-05-05 18.07.27.jpg	2014-05-06 18.52.53.jpg	2014-05-06 18.53.01.jpg	2014-05-06 19.03.51.jpg	2014-05-06 19.04.03.jpg	2014-05-06 20.27.15.jpg	2014-05-06 20.27.22.jpg	2014-05-06 20.28.55.jpg	2014-05-08 14.34.32.jpg	2014-05-08 14.34.45.jpg	2014-05-08 14.35.00.jpg	2014-05-08 14.39.20.jpg	2014-05-08 16.50.54.jpg	2014-05-08 20.29.41.jpg	2014-05-08 20.29.46.jpg	
+
+path=/media/someone/AFAT32P/Photo/other-unsorted/julia_cell/VIDEO
+files=video-2014-06-12-17-22-57.mp4	
+
+path=/media/someone/AFAT32P/Photo/other-unsorted/NBToshiba-20111113-photo/julys-foto/pics20120223
+files=Picture 001.jpg	Picture 010.jpg	Picture 011.jpg	Picture 012.jpg	Picture 013.jpg	Picture 014.jpg	Picture 017.jpg	Picture 019.jpg	Picture 020.jpg	Picture 027.jpg	Picture 028.jpg	Picture 029.jpg	Picture 030.jpg	Picture 031.jpg	Picture 036.jpg	Picture 038.jpg	Picture 040.jpg	Picture 041.jpg	Picture 042.jpg	Picture 043.jpg	Picture 056.jpg	Picture 057.jpg	Picture 062.jpg	Picture 063.jpg	Picture 064.jpg	Picture 065.jpg	Picture 067.jpg	Picture 068.jpg	Picture 069.jpg	Picture 071.jpg	Picture 072.jpg	Picture 078.jpg	Picture 080.jpg	Picture 081.jpg	Picture 084.jpg	Picture 086.jpg	Picture 090.jpg	Picture 092.jpg	Picture 094.jpg	Picture 126.jpg	Picture 127.jpg	Picture 134.jpg	Picture 147.jpg	Picture 154.jpg	Picture 156.jpg	Picture 187.jpg	Picture 188.jpg	
+
+path=/media/someone/AFAT32P/Photo/other-unsorted/Family/0903_Vancouver_Sample/New Folder
+files=020420091913_.jpg	
+
+path=/media/someone/AFAT32P/Photo/other-unsorted/Family/0903_Vancouver_Sample/090410_Deti
+files=DSC03965.JPG	DSC03967.JPG	DSC03970.JPG	DSC03971.JPG	DSC03972.JPG	DSC03973.JPG	DSC03974.JPG	DSC03975.JPG	DSC03976.JPG	DSC03978.JPG	Kids_I.jpg	Kids_I.jpg	
+
+path=/media/someone/AFAT32P/Photo/other-unsorted/Family/Deti/090410_Deti
+files=DSC03965.JPG	DSC03967.JPG	DSC03970.JPG	DSC03971.JPG	DSC03972.JPG	DSC03973.JPG	DSC03974.JPG	DSC03975.JPG	DSC03976.JPG	DSC03978.JPG	Kids_I.jpg	
+
+path=/media/someone/AFAT32P/Photo/other-unsorted/NBToshiba-20111113-photo/Me/OtherMe
+files=250120102363.jpg	250120102364.jpg	
+
+path=/media/someone/AFAT32P/Photo/other-unsorted/photo/20130602-Oly's-PreProm/best
+files=IMG_9406.JPG	IMG_9411.JPG	IMG_9426.JPG	IMG_9432.JPG	IMG_9436.JPG	IMG_9463.JPG	IMG_9464.JPG	IMG_9469.JPG	IMG_9474.JPG	IMG_9476.JPG	IMG_9479.JPG	IMG_9484.JPG	IMG_9485.JPG	IMG_9488.JPG	IMG_9489.JPG	IMG_9491.JPG	IMG_9495.JPG	IMG_9498.JPG	IMG_9505.JPG	IMG_9508.JPG	IMG_9511.JPG	IMG_9513.JPG	IMG_9516.JPG	IMG_9520.JPG	IMG_9522.JPG	IMG_9527.JPG	IMG_9530.JPG	IMG_9531.JPG	IMG_9534.JPG	IMG_9535.JPG	IMG_9536.JPG	IMG_9537.JPG	IMG_9538.JPG	IMG_9539.JPG	IMG_9540.JPG	IMG_9543.JPG	IMG_9546.JPG	IMG_9547.JPG	IMG_9548.JPG	IMG_9549.JPG	IMG_9551.JPG	IMG_9552.JPG	IMG_9553.JPG	IMG_9554.JPG	IMG_9557.JPG	IMG_9558.JPG	IMG_9559.JPG	IMG_9561.JPG	IMG_9564.JPG	IMG_9565.JPG	IMG_9567.JPG	IMG_9570.JPG	IMG_9571.JPG	IMG_9575.JPG	IMG_9577.JPG	IMG_9581.JPG	IMG_9583.JPG	IMG_9586.JPG	IMG_9598.JPG	IMG_9600.JPG	IMG_9603.JPG	IMG_9612.JPG	IMG_9626.JPG	IMG_9628.JPG	IMG_9633.JPG	IMG_9642.JPG	IMG_9647.JPG	IMG_9649.JPG	IMG_9651.JPG	IMG_9652.JPG	IMG_9656.JPG	IMG_9659.JPG	IMG_9662.JPG	IMG_9663.JPG	IMG_9664.JPG	IMG_9667.JPG	IMG_9668.JPG	IMG_9674.JPG	IMG_9679.JPG	IMG_9687.JPG	IMG_9689.JPG	IMG_9692.JPG	IMG_9694.JPG	IMG_9697.JPG	IMG_9699.JPG	IMG_9706.JPG	IMG_9708.JPG	IMG_9709.JPG	IMG_9712.JPG	IMG_9713.JPG	IMG_9718.JPG	IMG_9720.JPG	IMG_9722.JPG	IMG_9725.JPG	IMG_9726.JPG	IMG_9727.JPG	IMG_9728.JPG	IMG_9732.JPG	IMG_9738.JPG	IMG_9741.JPG	IMG_9743.JPG	IMG_9748.JPG	IMG_9750.JPG	IMG_9754.JPG	IMG_9764.JPG	IMG_9770.JPG	IMG_9772.JPG	IMG_9773.JPG	IMG_9774.JPG	IMG_9775.JPG	IMG_9777.JPG	IMG_9780.JPG	IMG_9781.JPG	IMG_9782.JPG	IMG_9783.JPG	IMG_9786.JPG	IMG_9789.JPG	IMG_9790.JPG	IMG_9791.JPG	IMG_9792.JPG	IMG_9793.JPG	IMG_9796.JPG	IMG_9797.JPG	IMG_9798.JPG	IMG_9801.JPG	IMG_9802.JPG	IMG_9803.JPG	IMG_9804.JPG	IMG_9805.JPG	IMG_9809.JPG	IMG_9815.JPG	IMG_9819.JPG	IMG_9820.JPG	IMG_9822.JPG	IMG_9823.JPG	IMG_9830.JPG	IMG_9831.JPG	IMG_9832.JPG	IMG_9833.JPG	IMG_9834.JPG	IMG_9835.JPG	IMG_9836.JPG	IMG_9839.JPG	IMG_9848.JPG	IMG_9850.JPG	IMG_9853.JPG	IMG_9857.JPG	IMG_9859.JPG	IMG_9860.JPG	IMG_9862.JPG	
+
+path=/media/someone/AFAT32P/Photo/other-unsorted/Family/Deti/Masha
+files=123.jpg	456.jpg	DSC00163.JPG	DSC00166.JPG	DSC00174.JPG	DSC00566.JPG	DSC00590.JPG	DSC00593.JPG	DSC00601.JPG	Masha 11 fevralya 2008.WMV	Masha4.jpg	Masha6.jpg	Park1.jpg	Park2.jpg	Picture_199.jpg	Picture_200.jpg	Picture_201.jpg	Picture_202.jpg	Picture_203.jpg	Sahsa Masha.jpg	Sahsa Masha1.jpg	Serezha Masha Sasha avgust 2008.jpg	Serezha Masha.jpg	mama masha.jpg	mama sasha masha.jpg	masha 3 nedeli 1.jpg	masha 3 nedeli 2.jpg	masha 3 nedeli 3.jpg	masha 9 fevralya 2008.WMV	masha february 2008.jpg	masha(2).jpg	masha.jpg	masha1.jpg	masha2.jpg	masha3.jpg	park3.jpg	sasha masha.jpg	
+
+path=/media/someone/AFAT32P/Photo/other-unsorted/julia_cell/FOTO/Camera-arh/2014
+files=2014-04-16 10.21.28.jpg	2014-04-29 18.27.10.jpg	2014-04-29 18.27.16.jpg	2014-04-29 18.27.22.jpg	2014-05-03 13.26.56.jpg	2014-05-03 13.27.51.jpg	2014-05-03 13.27.55.jpg	2014-05-06 18.52.53.jpg	2014-05-06 18.53.01.jpg	2014-05-06 18.53.01_2.jpg	2014-05-06 18.53.01_2.jpg	2014-05-06 19.03.51.jpg	2014-06-12 17.34.17.jpg	2014-08-03 01.14.31.jpg	2014-08-09 19.09.06.jpg	2014-10-09 17.27.31.jpg	2014-10-09 17.28.04.jpg	2014-10-09 17.28.21.jpg	2014-10-11 17.57.05.jpg	2014-10-15 17.28.57.jpg	2014-11-04 13.18.05.jpg	2014-11-13 12.53.08.jpg	2014-11-13 12.53.15_3.jpg	2014-12-11 17.34.54.jpg	2014-12-16 16.14.43.jpg	2014-12-20 16.38.08.jpg	
+
+path=/media/someone/AFAT32P/Photo/other-unsorted/NBToshiba-20111113-photo/201107-Vancouver
+files=DSC07082.JPG	DSC07089.JPG	DSC07134.JPG	DSC07136.JPG	DSC07269.JPG	DSC07270.JPG	DSC07293.JPG	DSC07294.JPG	DSC07295.JPG	DSC07299.JPG	DSC07306.JPG	DSC07307.JPG	DSC07307.JPG	DSC07319.JPG	DSC07320.JPG	DSC07321.JPG	DSC07322.JPG	DSC07327.JPG	DSC07348.JPG	DSC07349.JPG	DSC07350.JPG	DSC07352.JPG	DSC07353.JPG	DSC07354.JPG	DSC07355.JPG	DSC07357.JPG	DSC07363.JPG	DSC07364.JPG	DSC07367.JPG	DSC07368.JPG	DSC07372.JPG	DSC07375.JPG	DSC07387.JPG	DSC07390.JPG	DSC07392.JPG	DSC07396.JPG	DSC07397.JPG	DSC07398.JPG	DSC07400.JPG	DSC07403.JPG	
+
+path=/media/someone/AFAT32P/Photo/other-unsorted/photo/201306-vancouver/101CANON
+files=IMG_0003.JPG	IMG_0004.JPG	IMG_0011.JPG	IMG_0037.JPG	IMG_0038.JPG	IMG_0049.JPG	IMG_0050.JPG	IMG_0051.JPG	IMG_0054.JPG	IMG_0065.JPG	IMG_0067.JPG	IMG_0081.JPG	IMG_0088.JPG	IMG_0147.JPG	IMG_0150.JPG	IMG_0153.JPG	IMG_0164.JPG	IMG_0193.JPG	IMG_0210.JPG	IMG_0217.JPG	IMG_0219.JPG	IMG_0220.JPG	IMG_0221.JPG	IMG_0222.JPG	IMG_0269.JPG	IMG_0289.JPG	IMG_0293.JPG	IMG_0301.JPG	
+
+path=/media/someone/AFAT32P/Photo/other-unsorted/foto/auto
+files=22102008614.jpg	22102008615.jpg	
+
+path=/media/someone/AFAT32P/Photo/other-unsorted/NBToshiba-20111113-photo/Me/_orig
+files=IMG_0246.JPG	IMG_0246.JPG	IMG_0246.JPG	IMG_0246.JPG	IMG_0307.JPG	IMG_0307.JPG	IMG_0307.JPG	IMG_0307.JPG	IMG_0402.JPG	IMG_0402.JPG	IMG_0402.JPG	IMG_0402.JPG	IMG_0413.JPG	IMG_0413.JPG	IMG_0413.JPG	IMG_0413.JPG	IMG_0473.JPG	IMG_0473.JPG	IMG_0473.JPG	IMG_0473.JPG	IMG_0498.JPG	IMG_0498.JPG	IMG_0498.JPG	IMG_0498.JPG	
+
+path=/media/someone/AFAT32P/Photo/other-unsorted/NBToshiba-20111113-photo/2011_Moscow
+files=040320113046.jpg	040320113047.jpg	040320113048.jpg	040320113049.jpg	080320113050.jpg	080320113051.jpg	201004Van_Me2.jpg	201103263055.jpg	201103263056.jpg	201104013057.jpg	201104013057.jpg	201104063058.jpg	201104063058.jpg	201104233065.jpg	201104233065.jpg	201104233066.jpg	201104233066.jpg	201104233067.jpg	201104233067.jpg	201104233068.jpg	201104233068.jpg	201104233069.jpg	201104233069.jpg	201104233070.jpg	201104233070.jpg	201104233071.jpg	201104233071.jpg	201104233072.jpg	201104233072.jpg	201104233073.jpg	201104233073.jpg	201104233074.jpg	201104233074.jpg	201104233075.jpg	201104233075.jpg	201104233075.jpg	201104233075.jpg	201104233075.jpg	201105013076.jpg	201105013077.jpg	201105013078.jpg	201105013079.jpg	201105023085.jpg	201105023086.jpg	201105023087.jpg	201105073091.jpg	201105073092.jpg	201105073093.jpg	201105073094.jpg	201105073095.jpg	201105073096.jpg	201105073097.jpg	201105073098.jpg	201105073099.jpg	201105073100.jpg	201105073101.jpg	201105073102.jpg	201105073103.jpg	201105073104.jpg	201105073105.jpg	201105073106.jpg	201105073107.jpg	201105073108.jpg	201105073109.jpg	201105203116.jpg	201105203117.jpg	201105203118.jpg	201106083119.jpg	201106083120.jpg	201106083121.jpg	201106123122.jpg	201106123123.jpg	201106123126.jpg	201106123126a.jpg	201106193129.jpg	201106193130.jpg	201106193131.jpg	201106193132.jpg	201106193133.jpg	201106263141.jpg	201106263142.jpg	201106263143.jpg	201106293144.jpg	201106293145.jpg	201106293146.jpg	201106293147.jpg	
+
+path=/media/someone/AFAT32P/Photo/other-unsorted/photo/201404-LastDaysInMoscow
+files=IMG_4744.JPG	IMG_4799.JPG	IMG_4800.JPG	IMG_4879.JPG	IMG_5010.JPG	
+
+path=/media/someone/AFAT32P/Photo/other-unsorted/2011-and-before-Juliy/Hotmail
+files=DSC_6417_1.jpg	
+
+path=/media/someone/AFAT32P/Photo/other-unsorted/photo/20130712-Svadba/original
+files=4VS_3149.jpg	4VS_3158.jpg	4VS_3159.jpg	4VS_3165.jpg	4VS_3167.jpg	4VS_3168.jpg	4VS_3169.jpg	4VS_3190.jpg	4VS_3217.jpg	4VS_3232.jpg	4VS_3238.jpg	4VS_3243.jpg	4VS_3265.jpg	4VS_3268.jpg	4VS_3271.jpg	4VS_3273.jpg	4VS_3274.jpg	4VS_3276.jpg	4VS_3280.jpg	4VS_3302.jpg	4VS_3305.jpg	4VS_3321.jpg	4VS_3324.jpg	4VS_3348.jpg	4VS_3352.jpg	4VS_3355.jpg	4VS_3358.jpg	4VS_3363.jpg	4VS_3389.jpg	4VS_3390.jpg	4VS_3397.jpg	4VS_3398.jpg	4VS_3404.jpg	4VS_3405.jpg	4VS_3408.jpg	4VS_3415.jpg	4VS_3416.jpg	4VS_3427.jpg	4VS_3439.jpg	4VS_3442.jpg	4VS_3445.jpg	4VS_3447.jpg	4VS_3449.jpg	4VS_3450.jpg	4VS_3451.jpg	4VS_3452.jpg	4VS_3453.jpg	4VS_3454.jpg	4VS_3455.jpg	4VS_3458.jpg	4VS_3459.jpg	4VS_3468.jpg	4VS_3471.jpg	4VS_3498.jpg	4VS_3513.jpg	4VS_3544.jpg	4VS_3562.jpg	4VS_3566.jpg	4VS_3569.jpg	4VS_3570.jpg	4VS_3571.jpg	4VS_3575.jpg	4VS_3576.jpg	4VS_3578.jpg	4VS_3581.jpg	4VS_3582.jpg	4VS_3583.jpg	4VS_3585.jpg	4VS_3586.jpg	4VS_3589.jpg	4VS_3592.jpg	4VS_3602.jpg	4VS_3603.jpg	4VS_3604.jpg	4VS_3606.jpg	4VS_3610.jpg	4VS_3617.jpg	4VS_3621.jpg	4VS_3624.jpg	4VS_3631.jpg	4VS_3644.jpg	4VS_3645.jpg	4VS_3648.jpg	4VS_3656.jpg	4VS_3660.jpg	4VS_3680.jpg	4VS_3682.jpg	4VS_3686.jpg	4VS_3695.jpg	4VS_3700.jpg	4VS_3701.jpg	4VS_3703.jpg	4VS_3716.jpg	4VS_3731.jpg	4VS_3733.jpg	4VS_3735.jpg	4VS_3737.jpg	4VS_3740.jpg	4VS_3760.jpg	4VS_3762.jpg	4VS_3764.jpg	4VS_3766.jpg	4VS_3768.jpg	4VS_3769.jpg	4VS_3772.jpg	4VS_3780.jpg	4VS_3782.jpg	4VS_3786.jpg	4VS_3791.jpg	4VS_3792.jpg	4VS_3801.jpg	4VS_3804.jpg	4VS_3805.jpg	4VS_3806.jpg	4VS_3808.jpg	4VS_3811.jpg	4VS_3812.jpg	4VS_3816.jpg	4VS_3819.jpg	4VS_3826.jpg	4VS_3827.jpg	4VS_3828.jpg	4VS_3832.jpg	4VS_3835.jpg	4VS_3857.jpg	4VS_3858.jpg	4VS_3860.jpg	4VS_3862.jpg	4VS_3863.jpg	4VS_3864.jpg	4VS_3867.jpg	4VS_3870.jpg	4VS_3876.jpg	4VS_3877.jpg	4VS_3880.jpg	
+
+path=/media/someone/AFAT32P/Photo/other-unsorted/photo/20130713-ulia-bd
+files=IMG_2015.JPG	IMG_2016.JPG	IMG_2017.JPG	IMG_2018.JPG	IMG_2019.JPG	IMG_2020.JPG	IMG_2021.JPG	IMG_2022.JPG	IMG_2023.JPG	IMG_2024.JPG	IMG_2025.JPG	IMG_2026.JPG	IMG_2027.JPG	IMG_2028.JPG	IMG_2029.JPG	IMG_2030.JPG	IMG_2031.JPG	IMG_2032.JPG	IMG_2033.JPG	IMG_2034.JPG	IMG_2035.JPG	IMG_2036.JPG	IMG_2037.JPG	IMG_2038.JPG	IMG_2039.JPG	IMG_2041.JPG	IMG_2042.JPG	IMG_2043.JPG	IMG_2044.JPG	IMG_2045.JPG	IMG_2046.JPG	IMG_2047.JPG	IMG_2048.JPG	IMG_2049.JPG	IMG_2050.JPG	IMG_2051.JPG	IMG_2052.JPG	IMG_2053.JPG	IMG_2054.JPG	IMG_2055.JPG	IMG_2056.JPG	IMG_2057.JPG	IMG_2058.JPG	IMG_2059.JPG	IMG_2060.JPG	IMG_2061.JPG	IMG_2062.JPG	IMG_2063.JPG	IMG_2064.JPG	IMG_2065.JPG	IMG_2066.JPG	IMG_2067.JPG	IMG_2068.JPG	IMG_2069.JPG	IMG_2070.JPG	IMG_2071.JPG	IMG_2072.JPG	IMG_2073.JPG	IMG_2074.JPG	IMG_2075.JPG	IMG_2076.JPG	IMG_2077.JPG	IMG_2078.JPG	IMG_2079.JPG	IMG_2080.JPG	IMG_2081.JPG	IMG_2082.JPG	IMG_2083.JPG	IMG_2084.JPG	IMG_2085.JPG	IMG_2086.JPG	IMG_2087.JPG	IMG_2088.JPG	IMG_2089.JPG	IMG_2090.JPG	IMG_2091.JPG	IMG_2092.JPG	IMG_2093.JPG	IMG_2094.JPG	IMG_2095.JPG	IMG_2096.JPG	IMG_2097.JPG	IMG_2098.JPG	IMG_2099.JPG	IMG_2100.JPG	IMG_2101.JPG	IMG_2102.JPG	IMG_2103.JPG	
+
+path=/media/someone/AFAT32P/Photo/other-unsorted/NBToshiba-20111113-photo/Frends/Gurkovi
+files=221120092263.jpg	221120092264.jpg	221120092265.jpg	
+
+path=/media/someone/AFAT32P/Photo/other-unsorted/NBToshiba-20111113-photo/201105/201105A0
+files=201105013076.jpg	201105013077.jpg	201105013078.jpg	201105013079.jpg	201105023085.jpg	201105023086.jpg	201105023087.jpg	201105073091.jpg	201105073092.jpg	201105073093.jpg	201105073094.jpg	201105073095.jpg	201105073096.jpg	201105073097.jpg	201105073098.jpg	201105073099.jpg	201105073100.jpg	201105073101.jpg	201105073102.jpg	201105073103.jpg	201105073104.jpg	201105073105.jpg	201105073106.jpg	201105073107.jpg	201105073108.jpg	201105073109.jpg	201105203116.jpg	201105203117.jpg	201105203118.jpg	
+
+path=/media/someone/AFAT32P/Photo/other-unsorted/NBToshiba-20111113-photo/день рождение чехов
+files=IMG_0377.JPG	IMG_0383.JPG	IMG_0386.JPG	IMG_0388.JPG	IMG_0389.JPG	IMG_0435.JPG	IMG_0436.JPG	IMG_0447.JPG	IMG_0449.JPG	IMG_0455.JPG	IMG_0459.JPG	IMG_0460.JPG	IMG_0462.JPG	
+
+path=/media/someone/AFAT32P/Photo/other-unsorted/julia_cell/DOC/Mertvye_dushi__Tom_1_
+files=68828.txt	
+
+path=/media/someone/AFAT32P/Photo/other-unsorted/photo/201306-vancouver
+files=IMG_9365.JPG	IMG_9368.JPG	IMG_9378.JPG	IMG_9383.JPG	IMG_9389.JPG	IMG_9390.JPG	IMG_9399.JPG	IMG_9400.JPG	IMG_9401.JPG	IMG_9977.JPG	
+
+path=/media/someone/AFAT32P/Photo/other-unsorted/photo/20130528-olys-grad/Untitled Folder
+files=IMG_9226.JPG	IMG_9227.JPG	IMG_9228.JPG	IMG_9229.JPG	IMG_9230.JPG	IMG_9231.JPG	IMG_9233.JPG	IMG_9233.JPG	
+
+path=/media/someone/AFAT32P/Photo/other-unsorted/NBToshiba-20111113-photo/Me/OLD
+files=0013.jpg	003leschenko_yanin_tofim.jpg	4vz_1r_vyp.jpg	
+
+path=/media/someone/AFAT32P/Photo/other-unsorted/Family/Deti/090410_Deti/Masha
+files=123.jpg	456.jpg	DSC00163.JPG	DSC00166.JPG	DSC00174.JPG	DSC00566.JPG	DSC00590.JPG	DSC00593.JPG	DSC00601.JPG	Masha 11 fevralya 2008.WMV	Masha4.jpg	Masha6.jpg	Park1.jpg	Park2.jpg	Picture_199.jpg	Picture_200.jpg	Picture_201.jpg	Picture_202.jpg	Picture_203.jpg	Sahsa Masha.jpg	Sahsa Masha1.jpg	Serezha Masha Sasha avgust 2008.jpg	Serezha Masha.jpg	mama masha.jpg	mama sasha masha.jpg	masha 3 nedeli 1.jpg	masha 3 nedeli 2.jpg	masha 3 nedeli 3.jpg	masha 9 fevralya 2008.WMV	masha february 2008.jpg	masha(2).jpg	masha.jpg	masha1.jpg	masha2.jpg	masha3.jpg	park3.jpg	sasha masha.jpg	
+
+path=/media/someone/AFAT32P/Photo/other-unsorted/photo/20130712-Svadba/Фото для интернета
+files=4VS_3157.jpg	4VS_3169.jpg	4VS_3217.jpg	4VS_3221.jpg	4VS_3263.jpg	4VS_3276.jpg	4VS_3298.jpg	4VS_3338.jpg	4VS_3346.jpg	4VS_3358.jpg	4VS_3377.jpg	4VS_3686.jpg	4VS_3704.jpg	4VS_3724.jpg	4VS_3811.jpg	4VS_3842.jpg	4VS_3853.jpg	4VS_3863.jpg	4VS_3867.jpg	
+
+path=/media/someone/AFAT32P/Photo/other-unsorted/NBToshiba-20111113-photo/Me/_
+files=201004Van_Me2.jpg	201004Van_Me2.jpg	201004Van_Me2.jpg	CIMG3184.JPG	CIMG3184.JPG	CIMG3185.JPG	CIMG3185.JPG	CIMG3187.JPG	CIMG3187.JPG	IMGP0216.JPG	IMG_0246.JPG	IMG_0246.JPG	IMG_0246.JPG	IMG_0307.JPG	IMG_0307.JPG	IMG_0307.JPG	IMG_0334.JPG	IMG_0334.JPG	IMG_0334.JPG	IMG_0376.JPG	IMG_0376.JPG	IMG_0376.JPG	IMG_0402.JPG	IMG_0402.JPG	IMG_0402.JPG	IMG_0413.JPG	IMG_0413.JPG	IMG_0413.JPG	IMG_0473.JPG	IMG_0473.JPG	IMG_0473.JPG	IMG_0498.JPG	IMG_0498.JPG	IMG_0498.JPG	Serguei.jpg	Serguei.jpg	W2008.JPG	__IMG_0246.JPG	__IMG_0246.JPG	me4.JPG	me_00.JPG	
+
+path=/media/someone/AFAT32P/Photo/other-unsorted/NBToshiba-20111113-photo/Avto/Mitsubishi_Montero_Sport
+files=22102008614.jpg	22102008615.jpg	
+
+path=/media/someone/AFAT32P/Photo/other-unsorted/foto/opera
+files=I am.jpg	Picture 172.jpg	Picture 196.jpg	Picture 197.jpg	Picture 236.jpg	Picture 269.jpg	
+
+path=/media/someone/AFAT32P/Photo/other-unsorted/Family/1107_VancouverSample
+files=DSC07082.JPG	DSC07089.JPG	DSC07136.JPG	DSC07270.JPG	DSC07293.JPG	DSC07295.JPG	DSC07306.JPG	DSC07307.JPG	DSC07352.JPG	DSC07363.JPG	DSC07364.JPG	DSC07372.JPG	DSC07375.JPG	DSC07387.JPG	DSC07390.JPG	
+
+path=/media/someone/AFAT32P/Photo/other-unsorted/NBToshiba-20111113-photo/201107-Vancouver/Samples
+files=DSC07082.JPG	DSC07089.JPG	DSC07134.JPG	DSC07136.JPG	DSC07269.JPG	DSC07270.JPG	DSC07293.JPG	DSC07294.JPG	DSC07295.JPG	DSC07299.JPG	DSC07306.JPG	DSC07307.JPG	DSC07307.JPG	DSC07307.JPG	DSC07319.JPG	DSC07320.JPG	DSC07321.JPG	DSC07322.JPG	DSC07327.JPG	DSC07348.JPG	DSC07349.JPG	DSC07350.JPG	DSC07352.JPG	DSC07353.JPG	DSC07354.JPG	DSC07355.JPG	DSC07357.JPG	DSC07363.JPG	DSC07364.JPG	DSC07367.JPG	DSC07368.JPG	DSC07372.JPG	DSC07375.JPG	DSC07387.JPG	DSC07390.JPG	DSC07390.JPG	DSC07392.JPG	DSC07396.JPG	DSC07397.JPG	DSC07398.JPG	DSC07400.JPG	DSC07403.JPG	
+
+path=/media/someone/AFAT32P/Photo/other-unsorted/NBToshiba-20111113-photo/Me/good
+files=IMG_0106.JPG	IMG_0108.JPG	IMG_0133.JPG	IMG_0140.JPG	IMG_0140.JPG	IMG_0154.JPG	IMG_0155.JPG	IMG_0163.JPG	IMG_0212.JPG	IMG_0216.JPG	IMG_0216.JPG	IMG_0245.JPG	IMG_0246.JPG	IMG_0246.JPG	IMG_0248.JPG	IMG_0272.JPG	IMG_0288.JPG	IMG_0288.JPG	IMG_0290.JPG	IMG_0291.JPG	IMG_0294.JPG	IMG_0299.JPG	IMG_0300.JPG	IMG_0307.JPG	IMG_0307.JPG	IMG_0308.JPG	IMG_0310.JPG	IMG_0314.JPG	IMG_0314.JPG	IMG_0322.JPG	IMG_0324.JPG	IMG_0324.JPG	IMG_0325.JPG	IMG_0330.JPG	IMG_0331.JPG	IMG_0331.JPG	IMG_0334.JPG	IMG_0334.JPG	IMG_0335.JPG	IMG_0344.JPG	IMG_0344.JPG	IMG_0347.JPG	IMG_0347.JPG	IMG_0348.JPG	IMG_0348.JPG	IMG_0349.JPG	IMG_0349.JPG	IMG_0351.JPG	IMG_0357.JPG	IMG_0364.JPG	IMG_0373.JPG	IMG_0373.JPG	IMG_0374.JPG	IMG_0375.JPG	IMG_0376.JPG	IMG_0376.JPG	IMG_0380.JPG	IMG_0381.JPG	IMG_0382.JPG	IMG_0384.JPG	IMG_0388.JPG	IMG_0388.JPG	IMG_0389.JPG	IMG_0390.JPG	IMG_0393.JPG	IMG_0396.JPG	IMG_0398.JPG	IMG_0401.JPG	IMG_0402.JPG	IMG_0402.JPG	IMG_0403.JPG	IMG_0408.JPG	IMG_0410.JPG	IMG_0411.JPG	IMG_0412.JPG	IMG_0413.JPG	IMG_0413.JPG	IMG_0417.JPG	IMG_0429.JPG	IMG_0430.JPG	IMG_0433.JPG	IMG_0434.JPG	IMG_0435.JPG	IMG_0450.JPG	IMG_0471.JPG	IMG_0473.JPG	IMG_0473.JPG	IMG_0478.JPG	IMG_0478.JPG	IMG_0487.JPG	IMG_0498.JPG	IMG_0498.JPG	IMG_0499.JPG	IMG_0501.JPG	
+
+path=/media/someone/AFAT32P/Photo/other-unsorted/NBToshiba-20111113-photo/201106/201106A0
+files=201106083119.jpg	201106083120.jpg	201106083121.jpg	201106123122.jpg	201106123123.jpg	201106193129.jpg	201106193130.jpg	201106193131.jpg	201106193132.jpg	201106193133.jpg	201106263141.jpg	201106263142.jpg	201106263143.jpg	201106293144.jpg	201106293145.jpg	201106293146.jpg	201106293147.jpg	
+
+path=/media/someone/AFAT32P/Photo/other-unsorted/NBToshiba-20111113-photo/Me/all/102CANON
+files=IMG_0212.JPG	IMG_0216.JPG	IMG_0245.JPG	IMG_0246.JPG	IMG_0248.JPG	IMG_0272.JPG	IMG_0288.JPG	IMG_0290.JPG	IMG_0291.JPG	IMG_0294.JPG	IMG_0299.JPG	IMG_0300.JPG	
+
+path=/media/someone/AFAT32P/Photo/other-unsorted/photo
+files=IMG_5014.JPG	IMG_5015.JPG	IMG_5016.JPG	IMG_5017.JPG	IMG_5018.JPG	
+
+path=/media/someone/AFAT32P/Photo/other-unsorted/photo/20130602-Oly's-PreProm
+files=IMG_9406.JPG	IMG_9411.JPG	IMG_9426.JPG	IMG_9432.JPG	IMG_9436.JPG	IMG_9463.JPG	IMG_9464.JPG	IMG_9469.JPG	IMG_9474.JPG	IMG_9476.JPG	IMG_9479.JPG	IMG_9484.JPG	IMG_9485.JPG	IMG_9488.JPG	IMG_9489.JPG	IMG_9491.JPG	IMG_9495.JPG	IMG_9498.JPG	IMG_9505.JPG	IMG_9508.JPG	IMG_9511.JPG	IMG_9513.JPG	IMG_9516.JPG	IMG_9520.JPG	IMG_9522.JPG	IMG_9527.JPG	IMG_9530.JPG	IMG_9531.JPG	IMG_9534.JPG	IMG_9535.JPG	IMG_9536.JPG	IMG_9537.JPG	IMG_9538.JPG	IMG_9539.JPG	IMG_9540.JPG	IMG_9543.JPG	IMG_9546.JPG	IMG_9547.JPG	IMG_9548.JPG	IMG_9549.JPG	IMG_9551.JPG	IMG_9552.JPG	IMG_9553.JPG	IMG_9554.JPG	IMG_9557.JPG	IMG_9558.JPG	IMG_9559.JPG	IMG_9561.JPG	IMG_9564.JPG	IMG_9565.JPG	IMG_9567.JPG	IMG_9570.JPG	IMG_9571.JPG	IMG_9575.JPG	IMG_9577.JPG	IMG_9581.JPG	IMG_9583.JPG	IMG_9586.JPG	IMG_9598.JPG	IMG_9600.JPG	IMG_9603.JPG	IMG_9612.JPG	IMG_9626.JPG	IMG_9628.JPG	IMG_9633.JPG	IMG_9642.JPG	IMG_9647.JPG	IMG_9649.JPG	IMG_9651.JPG	IMG_9652.JPG	IMG_9656.JPG	IMG_9659.JPG	IMG_9662.JPG	IMG_9663.JPG	IMG_9664.JPG	IMG_9667.JPG	IMG_9668.JPG	IMG_9674.JPG	IMG_9679.JPG	IMG_9687.JPG	IMG_9689.JPG	IMG_9692.JPG	IMG_9694.JPG	IMG_9697.JPG	IMG_9699.JPG	IMG_9706.JPG	IMG_9708.JPG	IMG_9709.JPG	IMG_9712.JPG	IMG_9713.JPG	IMG_9718.JPG	IMG_9720.JPG	IMG_9722.JPG	IMG_9725.JPG	IMG_9726.JPG	IMG_9727.JPG	IMG_9728.JPG	IMG_9732.JPG	IMG_9738.JPG	IMG_9741.JPG	IMG_9743.JPG	IMG_9748.JPG	IMG_9750.JPG	IMG_9754.JPG	IMG_9764.JPG	IMG_9770.JPG	IMG_9772.JPG	IMG_9773.JPG	IMG_9774.JPG	IMG_9775.JPG	IMG_9777.JPG	IMG_9780.JPG	IMG_9781.JPG	IMG_9782.JPG	IMG_9783.JPG	IMG_9786.JPG	IMG_9789.JPG	IMG_9790.JPG	IMG_9791.JPG	IMG_9792.JPG	IMG_9793.JPG	IMG_9796.JPG	IMG_9797.JPG	IMG_9798.JPG	IMG_9801.JPG	IMG_9802.JPG	IMG_9803.JPG	IMG_9804.JPG	IMG_9805.JPG	IMG_9809.JPG	IMG_9815.JPG	IMG_9819.JPG	IMG_9820.JPG	IMG_9822.JPG	IMG_9823.JPG	IMG_9830.JPG	IMG_9831.JPG	IMG_9832.JPG	IMG_9833.JPG	IMG_9834.JPG	IMG_9835.JPG	IMG_9836.JPG	IMG_9839.JPG	IMG_9848.JPG	IMG_9850.JPG	IMG_9853.JPG	IMG_9857.JPG	IMG_9859.JPG	IMG_9860.JPG	IMG_9862.JPG	
+
+path=/media/someone/AFAT32P/Photo/other-unsorted/NBToshiba-20111113-photo/Old_Foto_Arh
+files=0013.jpg	003leschenko_yanin_tofim.jpg	4vz_1r_vyp.jpg	
+
+path=/media/someone/AFAT32P/Photo/other-unsorted/NBToshiba-20111113-photo/Me/all/104CANON
+files=IMG_0401.JPG	IMG_0402.JPG	IMG_0403.JPG	IMG_0408.JPG	IMG_0410.JPG	IMG_0411.JPG	IMG_0412.JPG	IMG_0413.JPG	IMG_0417.JPG	IMG_0429.JPG	IMG_0430.JPG	IMG_0433.JPG	IMG_0434.JPG	IMG_0435.JPG	IMG_0450.JPG	IMG_0471.JPG	IMG_0473.JPG	IMG_0478.JPG	IMG_0487.JPG	IMG_0498.JPG	IMG_0499.JPG	
+
+path=/media/someone/AFAT32P/Photo/other-unsorted/julia_cell/FOTO/Camera-arh/2013
+files=2013-08-18 14.55.29.jpg	2013-08-18 14.55.33.jpg	2013-08-18 14.55.39.jpg	2013-11-12 14.01.21.jpg	2013-11-12 14.01.21_2.jpg	2013-11-12 14.05.10.jpg	2013-11-12 14.05.42.jpg	2013-11-12 14.08.10.jpg	2013-11-12 16.37.18.jpg	2013-11-12 16.45.07.jpg	2013-11-16 19.40.23.jpg	2013-11-16 19.40.23_2.jpg	
+
+path=/media/someone/AFAT32P/Photo/other-unsorted/NBToshiba-20111113-photo/201104-Moscow-Avto/201104A0
+files=201104013057.jpg	201104063058.jpg	201104103059.jpg	201104103060.jpg	201104103061.jpg	201104103062.jpg	201104103063.jpg	201104103064.jpg	201104233065.jpg	201104233066.jpg	201104233067.jpg	201104233068.jpg	201104233069.jpg	201104233070.jpg	201104233071.jpg	201104233072.jpg	201104233073.jpg	201104233074.jpg	201104233075.jpg	Copy (2) of Copy of 201104233075.jpg	Copy (2) of Copy of 201104233075.jpg	Copy of 201104233075.jpg	Copy of 201104233075.jpg	Copy of 201104233075.jpg	Copy of Copy of 201104233075.jpg	Copy of Copy of 201104233075.jpg	Copy of Copy of 201104233075.jpg	Copy of Copy of 201104233075.jpg	Фото005.jpg	Фото012.jpg	Фото017.jpg	Фото021.jpg	Фото023.jpg	Фото024.jpg	Фото028.jpg	Фото035.jpg	Фото036.jpg	Фото037.jpg	Фото038.jpg	Фото039.jpg	Фото040.jpg	Фото041.jpg	Фото043.jpg	
+
+path=/media/someone/AFAT32P/Photo/other-unsorted/NBToshiba-20111113-photo/Me
+files=201004Van_Me2.jpg	250420102720.jpg	250420102722.jpg	250420102744.jpg	260220102471.jpg	CIMG3184.JPG	CIMG3185.JPG	CIMG3187.JPG	Copy of 201004Van_Me2.jpg	Copy of 201004Van_Me2.jpg	IMGP0216.JPG	W2008.JPG	__IMG_0246.JPG	me4.JPG	me_00.JPG	
+
+path=/media/someone/AFAT32P/Photo/other-unsorted/NBToshiba-20111113-photo/julys-foto/2012
+files=IMG_1576.JPG	IMG_1579.JPG	IMG_1647.JPG	IMG_1824.JPG	IMG_1831_1.JPG	
+
+path=/media/someone/AFAT32P/Photo/other-unsorted/NBToshiba-20111113-photo/Frends/latuza/2008
+files=3lhl93-iuf.jpg	3lhl9o-7jx.jpg	3lhlab-utc (1).jpg	3lhlab-utc.jpg	
+
+path=/media/someone/AFAT32P/Photo/other-unsorted/NBToshiba-20120603-photo
+files=IMG_8648me.jpg	IMG_8648me2.jpg	
+
+path=/media/someone/AFAT32P/Photo/other-unsorted/NBToshiba-20111113-photo/Frends/Palich
+files=221120092263.jpg	221120092264.jpg	221120092265.jpg	260220102471.jpg	270220102534.jpg	
+
+path=/media/someone/AFAT32P/Photo/other-unsorted/foto/MonteCristo
+files=ава.jpg	
+
+path=/media/someone/AFAT32P/Photo/other-unsorted/NBToshiba-20120603-MyPhoto/me
+files=Picture 023.jpg	Picture 061.jpg	Picture 065.jpg	Picture 073.jpg	Picture 075.jpg	Picture 078.jpg	Picture 079.jpg	

@@ -1,0 +1,11 @@
+
+[DUPLICATES CATALOGS ONLY]
+
+path=/media/someone/AFAT32P/Photo/other-unsorted/julia_cell/FOTO/Camera-arh/2014
+#	385	75
+path=/media/someone/AFAT32P/Photo/other-unsorted/julia_cell/FOTO/Old
+#	121	63
+path=/media/someone/AFAT32P/Photo/other-unsorted/julia_cell/FOTO/Camera-arh/2013
+#	129	75
+path=/media/someone/AFAT32P/Photo/other-unsorted/julia_cell/FOTO/2013-S+J
+#	95	68

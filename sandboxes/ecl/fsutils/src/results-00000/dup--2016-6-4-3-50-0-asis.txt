@@ -1,0 +1,21 @@
+
+[DUPLICATES]
+
+b2f62162a5523a3e0d5a2e7a44d6b1c3     1090691 /media/someone/AFAT32P/Photo/other-unsorted/julia_cell/FOTO/Camera-arh/2013/2013-11-12 14.01.21.jpg
+b2f62162a5523a3e0d5a2e7a44d6b1c3     1090691/media/someone/AFAT32P/Photo/other-unsorted/julia_cell/FOTO/Camera-arh/2013/2013-11-12 14.01.21_2.jpg
+
+c9372a2ae52f3e3f42c0f3495f2c08ca      400472                   /media/someone/AFAT32P/Photo/other-unsorted/julia_cell/FOTO/2013-S+J/IMG_7540.JPG
+c9372a2ae52f3e3f42c0f3495f2c08ca      400472                        /media/someone/AFAT32P/Photo/other-unsorted/julia_cell/FOTO/Old/IMG_7540.JPG
+
+46bf269d34a3b8fdbe1622faffa45c4b      337374                   /media/someone/AFAT32P/Photo/other-unsorted/julia_cell/FOTO/2013-S+J/IMG_7699.JPG
+46bf269d34a3b8fdbe1622faffa45c4b      337374                        /media/someone/AFAT32P/Photo/other-unsorted/julia_cell/FOTO/Old/IMG_7699.JPG
+
+efd673399a84bd7713eb992ab77f43d3     1183526 /media/someone/AFAT32P/Photo/other-unsorted/julia_cell/FOTO/Camera-arh/2014/2014-05-06 18.53.01.jpg
+efd673399a84bd7713eb992ab77f43d3     1183526/media/someone/AFAT32P/Photo/other-unsorted/julia_cell/FOTO/Camera-arh/2014/2014-05-06 18.53.01_2.jpg
+
+6e7044f250a2fd1e65af412a4bbdaea3     1035398 /media/someone/AFAT32P/Photo/other-unsorted/julia_cell/FOTO/Camera-arh/2013/2013-11-16 19.40.23.jpg
+6e7044f250a2fd1e65af412a4bbdaea3     1035398/media/someone/AFAT32P/Photo/other-unsorted/julia_cell/FOTO/Camera-arh/2013/2013-11-16 19.40.23_2.jpg
+
+e8725af98db22d9cbbb9881905850ff7      375593                   /media/someone/AFAT32P/Photo/other-unsorted/julia_cell/FOTO/2013-S+J/IMG_7482.JPG
+e8725af98db22d9cbbb9881905850ff7      375593                        /media/someone/AFAT32P/Photo/other-unsorted/julia_cell/FOTO/Old/IMG_7482.JPG
+

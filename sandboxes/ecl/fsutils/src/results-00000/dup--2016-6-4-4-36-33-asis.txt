@@ -1,0 +1,726 @@
+
+[DUPLICATES]
+
+b92d4063cc512cae60b03d3872975094     1244110                      /media/someone/AFAT32P/Photo/raw/other/2013_08-11-cell/2013-09-01 15.35.49.jpg
+b92d4063cc512cae60b03d3872975094     1244110                             /media/someone/AFAT32P/Photo/raw/MyPhone/Camera/2013-09-01 15.35.49.jpg
+
+8855b74618758309c9ca2bdc262c9924     9567425                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3812.jpg
+8855b74618758309c9ca2bdc262c9924     9567425                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3812.jpg
+
+d6f096c9b4437ea83c11f53600dac763     1158097                      /media/someone/AFAT32P/Photo/raw/other/2013_08-11-cell/2013-11-12 16.45.15.jpg
+d6f096c9b4437ea83c11f53600dac763     1158097                             /media/someone/AFAT32P/Photo/raw/MyPhone/Camera/2013-11-12 16.45.15.jpg
+
+d956fda450aa539f565def60528ba6dc     1113046                      /media/someone/AFAT32P/Photo/raw/other/2013_08-11-cell/2013-09-01 14.40.44.jpg
+d956fda450aa539f565def60528ba6dc     1113046                             /media/someone/AFAT32P/Photo/raw/MyPhone/Camera/2013-09-01 14.40.44.jpg
+
+3d1a4d7283770646f72f5c7617a4d7cc     6617007                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3585.jpg
+3d1a4d7283770646f72f5c7617a4d7cc     6617007                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3585.jpg
+
+a40319c99f2e77e909e21ec60b1563f6     1168498                      /media/someone/AFAT32P/Photo/raw/other/2013_08-11-cell/2013-11-12 16.45.11.jpg
+a40319c99f2e77e909e21ec60b1563f6     1168498                             /media/someone/AFAT32P/Photo/raw/MyPhone/Camera/2013-11-12 16.45.11.jpg
+
+3b501947fb1c2e2299b484ed77f416d1     1242997                      /media/someone/AFAT32P/Photo/raw/other/2013_08-11-cell/2013-11-04 13.57.26.jpg
+3b501947fb1c2e2299b484ed77f416d1     1242997                             /media/someone/AFAT32P/Photo/raw/MyPhone/Camera/2013-11-04 13.57.26.jpg
+
+cefc52c4a8882276c839ee148912fe90     8084874                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3805.jpg
+cefc52c4a8882276c839ee148912fe90     8084874                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3805.jpg
+
+c06d1deb82728e33306a36964ebef3cc     4951303                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3766.jpg
+c06d1deb82728e33306a36964ebef3cc     4951303                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3766.jpg
+
+afd71de40b8edff3e1b2151a732bb06a     5536873                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3273.jpg
+afd71de40b8edff3e1b2151a732bb06a     5536873                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3273.jpg
+
+8e990a3e3c0e9349e530ecbbbe0d9fb5     1156727                      /media/someone/AFAT32P/Photo/raw/other/2013_08-11-cell/2013-11-14 16.44.11.jpg
+8e990a3e3c0e9349e530ecbbbe0d9fb5     1156727                             /media/someone/AFAT32P/Photo/raw/MyPhone/Camera/2013-11-14 16.44.11.jpg
+
+434e9edd6ea0ad0b928d7665fc417a84     1237924                      /media/someone/AFAT32P/Photo/raw/other/2013_08-11-cell/2013-11-12 16.36.40.jpg
+434e9edd6ea0ad0b928d7665fc417a84     1237924                             /media/someone/AFAT32P/Photo/raw/MyPhone/Camera/2013-11-12 16.36.40.jpg
+
+1a95a19bf4625ad8ecaa54d0b6a1b112     1382123                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3864.jpg
+1a95a19bf4625ad8ecaa54d0b6a1b112     1382123                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3864.jpg
+
+dfe79ad718ce1ffe324dd96d3ccf4e7d     4611311                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3686.jpg
+dfe79ad718ce1ffe324dd96d3ccf4e7d     4611311                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3686.jpg
+
+280b496deaaec9d5c4c7589cde8d7934      106800                      /media/someone/AFAT32P/Photo/raw/other/2013_08-11-cell/2013-09-07 16.03.24.jpg
+280b496deaaec9d5c4c7589cde8d7934      106800                             /media/someone/AFAT32P/Photo/raw/MyPhone/Camera/2013-09-07 16.03.24.jpg
+
+936953140cd523bc3d8060f8f559c40c     1111460                      /media/someone/AFAT32P/Photo/raw/other/2013_08-11-cell/2013-09-01 14.40.47.jpg
+936953140cd523bc3d8060f8f559c40c     1111460                             /media/someone/AFAT32P/Photo/raw/MyPhone/Camera/2013-09-01 14.40.47.jpg
+
+e30285d8be4c2bb2993c8827b59a590c    10124082                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3416.jpg
+e30285d8be4c2bb2993c8827b59a590c    10124082                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3416.jpg
+
+57dbc954aa503e1cc5f251aac195e355     1165841                      /media/someone/AFAT32P/Photo/raw/other/2013_08-11-cell/2013-09-01 15.05.20.jpg
+57dbc954aa503e1cc5f251aac195e355     1165841                             /media/someone/AFAT32P/Photo/raw/MyPhone/Camera/2013-09-01 15.05.20.jpg
+
+8dfa72e87c985449f85fa4691cf73814     6749813                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3169.jpg
+8dfa72e87c985449f85fa4691cf73814     6749813                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3169.jpg
+
+5bdb869c27f0f4e531e63171c0dece86     9903038                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3808.jpg
+5bdb869c27f0f4e531e63171c0dece86     9903038                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3808.jpg
+
+742a3b7988d058e4b75e75f1b9cb9bfb     1205585                      /media/someone/AFAT32P/Photo/raw/other/2013_08-11-cell/2013-11-13 18.18.46.jpg
+742a3b7988d058e4b75e75f1b9cb9bfb     1205585                             /media/someone/AFAT32P/Photo/raw/MyPhone/Camera/2013-11-13 18.18.46.jpg
+
+819e94d8e117d71854e7be1f8714e1f7     1167064                      /media/someone/AFAT32P/Photo/raw/other/2013_08-11-cell/2013-11-12 14.02.18.jpg
+819e94d8e117d71854e7be1f8714e1f7     1167064                             /media/someone/AFAT32P/Photo/raw/MyPhone/Camera/2013-11-12 14.02.18.jpg
+
+9a61f22281a2db6481ebc80b7bebc98b     5493836                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3238.jpg
+9a61f22281a2db6481ebc80b7bebc98b     5493836                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3238.jpg
+
+71642be611a8dfd05dc25dc9aceb095d     1054728                      /media/someone/AFAT32P/Photo/raw/other/2013_08-11-cell/2013-11-12 14.05.26.jpg
+71642be611a8dfd05dc25dc9aceb095d     1054728                             /media/someone/AFAT32P/Photo/raw/MyPhone/Camera/2013-11-12 14.05.26.jpg
+
+9dda8aeee0969fe598e15849ce02beac     5283403                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3877.jpg
+9dda8aeee0969fe598e15849ce02beac     5283403                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3877.jpg
+
+8cf7d00889b8b16b0732b2d58eb10a31     1213131                      /media/someone/AFAT32P/Photo/raw/other/2013_08-11-cell/2013-11-04 13.58.25.jpg
+8cf7d00889b8b16b0732b2d58eb10a31     1213131                             /media/someone/AFAT32P/Photo/raw/MyPhone/Camera/2013-11-04 13.58.25.jpg
+
+3bf052a47443da8f5a777992f32bab5a     1231416                      /media/someone/AFAT32P/Photo/raw/other/2013_08-11-cell/2013-08-18 14.55.39.jpg
+3bf052a47443da8f5a777992f32bab5a     1231416                             /media/someone/AFAT32P/Photo/raw/MyPhone/Camera/2013-08-18 14.55.39.jpg
+
+2f1a48ac585629a2e1f4149cd2159817     4754841                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3445.jpg
+2f1a48ac585629a2e1f4149cd2159817     4754841                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3445.jpg
+
+c7425f5028752439ba606500df8428cf     2829317                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3455.jpg
+c7425f5028752439ba606500df8428cf     2829317                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3455.jpg
+
+0ec42ae894d34ab825c3fc7e29f6c76e     3297813                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3459.jpg
+0ec42ae894d34ab825c3fc7e29f6c76e     3297813                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3459.jpg
+
+aebec657a5340a6337c5e465068d7ba3     3970450                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3447.jpg
+aebec657a5340a6337c5e465068d7ba3     3970450                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3447.jpg
+
+14b85aea5056cb1b0cb6db4d1fec4eb5     3592468                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3606.jpg
+14b85aea5056cb1b0cb6db4d1fec4eb5     3592468                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3606.jpg
+
+b2f62162a5523a3e0d5a2e7a44d6b1c3     1090691                      /media/someone/AFAT32P/Photo/raw/other/2013_08-11-cell/2013-11-12 14.01.21.jpg
+b2f62162a5523a3e0d5a2e7a44d6b1c3     1090691                             /media/someone/AFAT32P/Photo/raw/MyPhone/Camera/2013-11-12 14.01.21.jpg
+
+6d158836e8ab1ae4f41850c821232e29     1196676                      /media/someone/AFAT32P/Photo/raw/other/2013_08-11-cell/2013-11-13 18.19.00.jpg
+6d158836e8ab1ae4f41850c821232e29     1196676                             /media/someone/AFAT32P/Photo/raw/MyPhone/Camera/2013-11-13 18.19.00.jpg
+
+3f3d4cd6f85ba19dae7636afbd5c5fa6     1091121                      /media/someone/AFAT32P/Photo/raw/other/2013_08-11-cell/2013-08-25 18.18.49.jpg
+3f3d4cd6f85ba19dae7636afbd5c5fa6     1091121                             /media/someone/AFAT32P/Photo/raw/MyPhone/Camera/2013-08-25 18.18.49.jpg
+
+17d623c5bcfd82fd553925044805d187     4984416                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3427.jpg
+17d623c5bcfd82fd553925044805d187     4984416                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3427.jpg
+
+deaad608e473f3d210d8ae5475892a83     1192046                      /media/someone/AFAT32P/Photo/raw/other/2013_08-11-cell/2013-11-12 14.07.26.jpg
+deaad608e473f3d210d8ae5475892a83     1192046                             /media/someone/AFAT32P/Photo/raw/MyPhone/Camera/2013-11-12 14.07.26.jpg
+
+ba33e9c8806ce511b032168eb7ac67ad     1154637                      /media/someone/AFAT32P/Photo/raw/other/2013_08-11-cell/2013-11-14 16.43.52.jpg
+ba33e9c8806ce511b032168eb7ac67ad     1154637                             /media/someone/AFAT32P/Photo/raw/MyPhone/Camera/2013-11-14 16.43.52.jpg
+
+f088f1e96017df7dc000c49bee2bc95b     4102814                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3321.jpg
+f088f1e96017df7dc000c49bee2bc95b     4102814                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3321.jpg
+
+6019e74b8396aa54f60d571a55ecc273     1148730                      /media/someone/AFAT32P/Photo/raw/other/2013_08-11-cell/2013-11-03 15.25.24.jpg
+6019e74b8396aa54f60d571a55ecc273     1148730                             /media/someone/AFAT32P/Photo/raw/MyPhone/Camera/2013-11-03 15.25.24.jpg
+
+341750e5ff43dfb0f295bf09ec0c1f8b     9990366                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3355.jpg
+341750e5ff43dfb0f295bf09ec0c1f8b     9990366                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3355.jpg
+
+0ae3a5a568d079b948363f10f6446264     1142843                      /media/someone/AFAT32P/Photo/raw/other/2013_08-11-cell/2013-09-01 15.30.01.jpg
+0ae3a5a568d079b948363f10f6446264     1142843                             /media/someone/AFAT32P/Photo/raw/MyPhone/Camera/2013-09-01 15.30.01.jpg
+
+03a2f9961ba3f3befb38cf5b8eda2440     1231567                      /media/someone/AFAT32P/Photo/raw/other/2013_08-11-cell/2013-09-01 15.17.30.jpg
+03a2f9961ba3f3befb38cf5b8eda2440     1231567                             /media/someone/AFAT32P/Photo/raw/MyPhone/Camera/2013-09-01 15.17.30.jpg
+
+04056f127601928774643e4ef0213925     1237889                      /media/someone/AFAT32P/Photo/raw/other/2013_08-11-cell/2013-11-12 14.05.10.jpg
+04056f127601928774643e4ef0213925     1237889                             /media/someone/AFAT32P/Photo/raw/MyPhone/Camera/2013-11-12 14.05.10.jpg
+
+f5b22d82a939fd1b099f8c4396b85551     6607980                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3701.jpg
+f5b22d82a939fd1b099f8c4396b85551     6607980                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3701.jpg
+
+87809c6ee4bdc195fc258be4d8117dd7     7316176                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3621.jpg
+87809c6ee4bdc195fc258be4d8117dd7     7316176                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3621.jpg
+
+b21599ac5776937f6a60c88c3927716a     3068219                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3589.jpg
+b21599ac5776937f6a60c88c3927716a     3068219                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3589.jpg
+
+75541d134a25147a6b65f3fec9bc1f3a     3527280                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3458.jpg
+75541d134a25147a6b65f3fec9bc1f3a     3527280                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3458.jpg
+
+689e61701fce56571abe5352da1a4c61     1212860                      /media/someone/AFAT32P/Photo/raw/other/2013_08-11-cell/2013-09-01 14.49.44.jpg
+689e61701fce56571abe5352da1a4c61     1212860                             /media/someone/AFAT32P/Photo/raw/MyPhone/Camera/2013-09-01 14.49.44.jpg
+
+bd06ea40c48579878f9fb1d162c3a455     4138179                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3158.jpg
+bd06ea40c48579878f9fb1d162c3a455     4138179                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3158.jpg
+
+1d8fb27d4e986ded04167bb315b5c508     5936315                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3645.jpg
+1d8fb27d4e986ded04167bb315b5c508     5936315                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3645.jpg
+
+084173f5384f64f0142594d4f461a231     1157499                      /media/someone/AFAT32P/Photo/raw/other/2013_08-11-cell/2013-11-12 16.36.57.jpg
+084173f5384f64f0142594d4f461a231     1157499                             /media/someone/AFAT32P/Photo/raw/MyPhone/Camera/2013-11-12 16.36.57.jpg
+
+834bcc2eb4718de118abb00fe5e6d8e0     1158006                      /media/someone/AFAT32P/Photo/raw/other/2013_08-11-cell/2013-11-14 16.51.58.jpg
+834bcc2eb4718de118abb00fe5e6d8e0     1158006                             /media/someone/AFAT32P/Photo/raw/MyPhone/Camera/2013-11-14 16.51.58.jpg
+
+d179916dfc25c69ce13cf295330cd6f3     1177578                      /media/someone/AFAT32P/Photo/raw/other/2013_08-11-cell/2013-11-14 16.44.57.jpg
+d179916dfc25c69ce13cf295330cd6f3     1177578                             /media/someone/AFAT32P/Photo/raw/MyPhone/Camera/2013-11-14 16.44.57.jpg
+
+62e4667bcf82ea110a9084a3aef3b675     1141318                      /media/someone/AFAT32P/Photo/raw/other/2013_08-11-cell/2013-09-01 14.45.27.jpg
+62e4667bcf82ea110a9084a3aef3b675     1141318                             /media/someone/AFAT32P/Photo/raw/MyPhone/Camera/2013-09-01 14.45.27.jpg
+
+965b81829d4d621f2d035700aae4cd76     1151616                      /media/someone/AFAT32P/Photo/raw/other/2013_08-11-cell/2013-11-04 13.59.37.jpg
+965b81829d4d621f2d035700aae4cd76     1151616                             /media/someone/AFAT32P/Photo/raw/MyPhone/Camera/2013-11-04 13.59.37.jpg
+
+9a13295787fe2222297a06675589dfcb     1151561                      /media/someone/AFAT32P/Photo/raw/other/2013_08-11-cell/2013-11-04 13.57.17.jpg
+9a13295787fe2222297a06675589dfcb     1151561                             /media/someone/AFAT32P/Photo/raw/MyPhone/Camera/2013-11-04 13.57.17.jpg
+
+4e5ce84fb6686145f4a52b011bc9fb3c     3989743                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3610.jpg
+4e5ce84fb6686145f4a52b011bc9fb3c     3989743                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3610.jpg
+
+de00938045b71ebe32b0a0b59f716351     1641693                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3644.jpg
+de00938045b71ebe32b0a0b59f716351     1641693                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3644.jpg
+
+238b1ca2e37ad54334854195d8a2e123     6126805                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3760.jpg
+238b1ca2e37ad54334854195d8a2e123     6126805                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3760.jpg
+
+fc0b29b142778b9d5b3615a779b2f1f0     7694808                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3860.jpg
+fc0b29b142778b9d5b3615a779b2f1f0     7694808                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3860.jpg
+
+a0d1affeb4446dc41448ff8de9e66921     9468095                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3806.jpg
+a0d1affeb4446dc41448ff8de9e66921     9468095                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3806.jpg
+
+9e58f2a7d09d0f56ba22dbe853660d52     7663207                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3780.jpg
+9e58f2a7d09d0f56ba22dbe853660d52     7663207                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3780.jpg
+
+f0dc8b2b90a92d040ef8188016aa1683     7852331                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3792.jpg
+f0dc8b2b90a92d040ef8188016aa1683     7852331                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3792.jpg
+
+4fbc094d619d30d0dd0a801c20bb2547     7995645                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3804.jpg
+4fbc094d619d30d0dd0a801c20bb2547     7995645                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3804.jpg
+
+924478d3b24efeaaa0bf4f2e51cca913     1247869                      /media/someone/AFAT32P/Photo/raw/other/2013_08-11-cell/2013-08-25 18.19.08.jpg
+924478d3b24efeaaa0bf4f2e51cca913     1247869                             /media/someone/AFAT32P/Photo/raw/MyPhone/Camera/2013-08-25 18.19.08.jpg
+
+c95316daf8bb0b75ebe8d4e89f6907f1     5717526                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3271.jpg
+c95316daf8bb0b75ebe8d4e89f6907f1     5717526                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3271.jpg
+
+e3f8b59b7b724bfe94b726493668856a     4466355                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3695.jpg
+e3f8b59b7b724bfe94b726493668856a     4466355                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3695.jpg
+
+752adabf99c13557c6fe6c82822444a4     1151265                      /media/someone/AFAT32P/Photo/raw/other/2013_08-11-cell/2013-11-03 15.43.31.jpg
+752adabf99c13557c6fe6c82822444a4     1151265                             /media/someone/AFAT32P/Photo/raw/MyPhone/Camera/2013-11-03 15.43.31.jpg
+
+89af1652017ed70372ae71763b5b3766     5774757                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3764.jpg
+89af1652017ed70372ae71763b5b3766     5774757                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3764.jpg
+
+6204f722e9387516ecb7b3d90611c62c     1198688                      /media/someone/AFAT32P/Photo/raw/other/2013_08-11-cell/2013-11-12 16.37.18.jpg
+6204f722e9387516ecb7b3d90611c62c     1198688                             /media/someone/AFAT32P/Photo/raw/MyPhone/Camera/2013-11-12 16.37.18.jpg
+
+513bb956e9d6f2c4227e33196a9f8da2     1174350                      /media/someone/AFAT32P/Photo/raw/other/2013_08-11-cell/2013-11-12 14.04.59.jpg
+513bb956e9d6f2c4227e33196a9f8da2     1174350                             /media/someone/AFAT32P/Photo/raw/MyPhone/Camera/2013-11-12 14.04.59.jpg
+
+65fd5d8c7d244a052206961735d8fb31     4204450                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3870.jpg
+65fd5d8c7d244a052206961735d8fb31     4204450                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3870.jpg
+
+ba838dccf0bdaf496154f85bea66973e     1126317                      /media/someone/AFAT32P/Photo/raw/other/2013_08-11-cell/2013-08-25 18.18.21.jpg
+ba838dccf0bdaf496154f85bea66973e     1126317                             /media/someone/AFAT32P/Photo/raw/MyPhone/Camera/2013-08-25 18.18.21.jpg
+
+d371ef21a719d8144aca40f3a8dea79d     1221561                      /media/someone/AFAT32P/Photo/raw/other/2013_08-11-cell/2013-08-18 14.55.33.jpg
+d371ef21a719d8144aca40f3a8dea79d     1221561                             /media/someone/AFAT32P/Photo/raw/MyPhone/Camera/2013-08-18 14.55.33.jpg
+
+5618b00ca12c28da732d714d93663f2b     6026905                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3566.jpg
+5618b00ca12c28da732d714d93663f2b     6026905                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3566.jpg
+
+636a146d326e3fee046ddbbe5247b291     4599693                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3867.jpg
+636a146d326e3fee046ddbbe5247b291     4599693                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3867.jpg
+
+93e35d7272c4a5c4dcb35a62165c57df     5147150                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3740.jpg
+93e35d7272c4a5c4dcb35a62165c57df     5147150                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3740.jpg
+
+8513c67123a915e460a2549e9cf62336     5121336                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3453.jpg
+8513c67123a915e460a2549e9cf62336     5121336                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3453.jpg
+
+da7e57011eec75159008d0aa580ac340     5006725                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3280.jpg
+da7e57011eec75159008d0aa580ac340     5006725                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3280.jpg
+
+b06dfdad89d851f607d14e39bccb9088     5003437                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3570.jpg
+b06dfdad89d851f607d14e39bccb9088     5003437                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3570.jpg
+
+156edab8caba8f4d3e1c3b88c5b8c5e2     7290799                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3828.jpg
+156edab8caba8f4d3e1c3b88c5b8c5e2     7290799                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3828.jpg
+
+9ea5ebc01a58bfc6de712f866325f516     3222646                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3680.jpg
+9ea5ebc01a58bfc6de712f866325f516     3222646                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3680.jpg
+
+ff7b1e8daf0cb44b5a518690392681b9     1246938                      /media/someone/AFAT32P/Photo/raw/other/2013_08-11-cell/2013-09-01 15.05.30.jpg
+ff7b1e8daf0cb44b5a518690392681b9     1246938                             /media/someone/AFAT32P/Photo/raw/MyPhone/Camera/2013-09-01 15.05.30.jpg
+
+ffa50870492430410d03089d6d003081     1183998                      /media/someone/AFAT32P/Photo/raw/other/2013_08-11-cell/2013-09-01 15.21.57.jpg
+ffa50870492430410d03089d6d003081     1183998                             /media/someone/AFAT32P/Photo/raw/MyPhone/Camera/2013-09-01 15.21.57.jpg
+
+22af69fc4a243f3d8021c9db82ea5d26     7030886                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3390.jpg
+22af69fc4a243f3d8021c9db82ea5d26     7030886                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3390.jpg
+
+a96b762d4c1b2d4bf1e1641f298110a7     5845453                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3826.jpg
+a96b762d4c1b2d4bf1e1641f298110a7     5845453                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3826.jpg
+
+f6502ac7e5a9afdad2dd083262b67a1c     1170302                      /media/someone/AFAT32P/Photo/raw/other/2013_08-11-cell/2013-11-12 16.44.16.jpg
+f6502ac7e5a9afdad2dd083262b67a1c     1170302                             /media/someone/AFAT32P/Photo/raw/MyPhone/Camera/2013-11-12 16.44.16.jpg
+
+382f9255682ea5ba7af280f0f43bfb16     1113326                      /media/someone/AFAT32P/Photo/raw/other/2013_08-11-cell/2013-11-12 14.05.42.jpg
+382f9255682ea5ba7af280f0f43bfb16     1113326                             /media/someone/AFAT32P/Photo/raw/MyPhone/Camera/2013-11-12 14.05.42.jpg
+
+e4c6d8f53d6e6d2c0a33cad37dfba257     1250270                      /media/someone/AFAT32P/Photo/raw/other/2013_08-11-cell/2013-09-11 10.44.41.jpg
+e4c6d8f53d6e6d2c0a33cad37dfba257     1250270                             /media/someone/AFAT32P/Photo/raw/MyPhone/Camera/2013-09-11 10.44.41.jpg
+
+a66ca542006ca3baa6e4a19d1b54ffe8     7984726                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3397.jpg
+a66ca542006ca3baa6e4a19d1b54ffe8     7984726                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3397.jpg
+
+c9137722ceb24bed4e340ebdcacc2d4b     1123296                      /media/someone/AFAT32P/Photo/raw/other/2013_08-11-cell/2013-11-03 15.43.21.jpg
+c9137722ceb24bed4e340ebdcacc2d4b     1123296                             /media/someone/AFAT32P/Photo/raw/MyPhone/Camera/2013-11-03 15.43.21.jpg
+
+67c04fcf01ab3eb5eccab660fff160ff     1091080                      /media/someone/AFAT32P/Photo/raw/other/2013_08-11-cell/2013-09-01 14.00.37.jpg
+67c04fcf01ab3eb5eccab660fff160ff     1091080                             /media/someone/AFAT32P/Photo/raw/MyPhone/Camera/2013-09-01 14.00.37.jpg
+
+613613b0140f119ffbf28f785e1b63d7     1242643                      /media/someone/AFAT32P/Photo/raw/other/2013_08-11-cell/2013-09-11 10.44.44.jpg
+613613b0140f119ffbf28f785e1b63d7     1242643                             /media/someone/AFAT32P/Photo/raw/MyPhone/Camera/2013-09-11 10.44.44.jpg
+
+79e8d9597f3720d8b9c6b5f4c057d174     7485926                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3603.jpg
+79e8d9597f3720d8b9c6b5f4c057d174     7485926                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3603.jpg
+
+c44a6abb99589529ac8febf6e45074c5     7516473                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3858.jpg
+c44a6abb99589529ac8febf6e45074c5     7516473                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3858.jpg
+
+a64788f05738e15f02b77cdd1a4384ae     4031028                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3863.jpg
+a64788f05738e15f02b77cdd1a4384ae     4031028                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3863.jpg
+
+6dda1169487f05f8de71a9d16b19e23c     1174782                      /media/someone/AFAT32P/Photo/raw/other/2013_08-11-cell/2013-08-25 18.19.28.jpg
+6dda1169487f05f8de71a9d16b19e23c     1174782                             /media/someone/AFAT32P/Photo/raw/MyPhone/Camera/2013-08-25 18.19.28.jpg
+
+046931f4aceac92e8dcfde3daf42545b     1114672                      /media/someone/AFAT32P/Photo/raw/other/2013_08-11-cell/2013-09-27 20.42.56.jpg
+046931f4aceac92e8dcfde3daf42545b     1114672                             /media/someone/AFAT32P/Photo/raw/MyPhone/Camera/2013-09-27 20.42.56.jpg
+
+7f5958eda8ba7bd3bcf37aad9c5a7ccc     5168812                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3682.jpg
+7f5958eda8ba7bd3bcf37aad9c5a7ccc     5168812                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3682.jpg
+
+aafe03cb56e5c578c29e8e0aa32589d8     3398437                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3562.jpg
+aafe03cb56e5c578c29e8e0aa32589d8     3398437                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3562.jpg
+
+d961d8e4c7d885229583744ad8a1e76d     1127235                      /media/someone/AFAT32P/Photo/raw/other/2013_08-11-cell/2013-11-03 16.59.22.jpg
+d961d8e4c7d885229583744ad8a1e76d     1127235                             /media/someone/AFAT32P/Photo/raw/MyPhone/Camera/2013-11-03 16.59.22.jpg
+
+82782e884e5e10c1de3dee611fe38594     1188846                      /media/someone/AFAT32P/Photo/raw/other/2013_08-11-cell/2013-09-01 15.05.33.jpg
+82782e884e5e10c1de3dee611fe38594     1188846                             /media/someone/AFAT32P/Photo/raw/MyPhone/Camera/2013-09-01 15.05.33.jpg
+
+b9adf47f997df296d9bf1976ce2e15a4     1186737                      /media/someone/AFAT32P/Photo/raw/other/2013_08-11-cell/2013-08-25 18.19.14.jpg
+b9adf47f997df296d9bf1976ce2e15a4     1186737                             /media/someone/AFAT32P/Photo/raw/MyPhone/Camera/2013-08-25 18.19.14.jpg
+
+1f3c2f01c0cb7f2b1a79be16a5a6afb2     2718844                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3159.jpg
+1f3c2f01c0cb7f2b1a79be16a5a6afb2     2718844                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3159.jpg
+
+4d40998417ed1bfcdca7fa57498c7f16     1094436                      /media/someone/AFAT32P/Photo/raw/other/2013_08-11-cell/2013-11-12 14.07.36.jpg
+4d40998417ed1bfcdca7fa57498c7f16     1094436                             /media/someone/AFAT32P/Photo/raw/MyPhone/Camera/2013-11-12 14.07.36.jpg
+
+4489ae5eaa78d04437cb64cac1cab16e     4304273                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3452.jpg
+4489ae5eaa78d04437cb64cac1cab16e     4304273                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3452.jpg
+
+bafb1e50eb69186577cda8d9d2bf9623     5577697                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3617.jpg
+bafb1e50eb69186577cda8d9d2bf9623     5577697                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3617.jpg
+
+91c5bb1728413bdcb9563aecc5453e55     1169514                      /media/someone/AFAT32P/Photo/raw/other/2013_08-11-cell/2013-09-01 13.56.45.jpg
+91c5bb1728413bdcb9563aecc5453e55     1169514                             /media/someone/AFAT32P/Photo/raw/MyPhone/Camera/2013-09-01 13.56.45.jpg
+
+a54bf6064a718db59c74fb3f585c6c35     5141595                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3167.jpg
+a54bf6064a718db59c74fb3f585c6c35     5141595                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3167.jpg
+
+9c53f45c88d24697237e9c82aa20adff     1144941                      /media/someone/AFAT32P/Photo/raw/other/2013_08-11-cell/2013-09-01 13.56.52.jpg
+9c53f45c88d24697237e9c82aa20adff     1144941                             /media/someone/AFAT32P/Photo/raw/MyPhone/Camera/2013-09-01 13.56.52.jpg
+
+28545467d9fcfa9ead2cf4a51c66f834     4543654                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3582.jpg
+28545467d9fcfa9ead2cf4a51c66f834     4543654                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3582.jpg
+
+f5ab000484d7d44be7985aeee0f77ac1    10624766                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3791.jpg
+f5ab000484d7d44be7985aeee0f77ac1    10624766                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3791.jpg
+
+b013e303d2170a8b2fb09e05ec55b22f     3710102                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3731.jpg
+b013e303d2170a8b2fb09e05ec55b22f     3710102                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3731.jpg
+
+bbbe003ec4f4aa90f3fd5b3ee5a8d238     6242157                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3451.jpg
+bbbe003ec4f4aa90f3fd5b3ee5a8d238     6242157                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3451.jpg
+
+a39c6493caf155203b8664e401c868af     4568715                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3660.jpg
+a39c6493caf155203b8664e401c868af     4568715                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3660.jpg
+
+dd560915cd75a7dedfab72419c55d346     1229785                      /media/someone/AFAT32P/Photo/raw/other/2013_08-11-cell/2013-11-04 14.16.05.jpg
+dd560915cd75a7dedfab72419c55d346     1229785                             /media/someone/AFAT32P/Photo/raw/MyPhone/Camera/2013-11-04 14.16.05.jpg
+
+43760e2b4ca1cf78d787d0c803d1d81c     7705993                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3862.jpg
+43760e2b4ca1cf78d787d0c803d1d81c     7705993                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3862.jpg
+
+bf7d3a538f20e6771c4a6f6bc2d5be31     1209722                      /media/someone/AFAT32P/Photo/raw/other/2013_08-11-cell/2013-11-14 16.51.50.jpg
+bf7d3a538f20e6771c4a6f6bc2d5be31     1209722                             /media/someone/AFAT32P/Photo/raw/MyPhone/Camera/2013-11-14 16.51.50.jpg
+
+e5b5905691265d0cb448643e75acc962     1175406                      /media/someone/AFAT32P/Photo/raw/other/2013_08-11-cell/2013-11-14 16.44.37.jpg
+e5b5905691265d0cb448643e75acc962     1175406                             /media/someone/AFAT32P/Photo/raw/MyPhone/Camera/2013-11-14 16.44.37.jpg
+
+751ec7b67cd98ef35bdc5a18df353079     1237202                      /media/someone/AFAT32P/Photo/raw/other/2013_08-11-cell/2013-11-12 14.02.06.jpg
+751ec7b67cd98ef35bdc5a18df353079     1237202                             /media/someone/AFAT32P/Photo/raw/MyPhone/Camera/2013-11-12 14.02.06.jpg
+
+7aa72add95b6493a751666e982986f76     6497391                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3772.jpg
+7aa72add95b6493a751666e982986f76     6497391                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3772.jpg
+
+87ef0489ae2d9fbcb6ec5a8645768591     4891713                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3716.jpg
+87ef0489ae2d9fbcb6ec5a8645768591     4891713                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3716.jpg
+
+af71b01687fab98bf20cf4b9a71714bd     7184050                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3602.jpg
+af71b01687fab98bf20cf4b9a71714bd     7184050                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3602.jpg
+
+cd5c775430aef51bc6955637faa4fe92     7049331                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3404.jpg
+cd5c775430aef51bc6955637faa4fe92     7049331                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3404.jpg
+
+ddb2e69ba99ec109363c2f045e682cb3     5556011                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3268.jpg
+ddb2e69ba99ec109363c2f045e682cb3     5556011                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3268.jpg
+
+d6d41f17db8b91ee630eb70167b6d805     1148526                      /media/someone/AFAT32P/Photo/raw/other/2013_08-11-cell/2013-11-12 16.44.22.jpg
+d6d41f17db8b91ee630eb70167b6d805     1148526                             /media/someone/AFAT32P/Photo/raw/MyPhone/Camera/2013-11-12 16.44.22.jpg
+
+c060dfdef57a4632c05ad5419b88f33c     4330971                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3439.jpg
+c060dfdef57a4632c05ad5419b88f33c     4330971                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3439.jpg
+
+b99158b45db99ff15f8d44ef29d9fa20     1165053                      /media/someone/AFAT32P/Photo/raw/other/2013_08-11-cell/2013-11-12 14.08.10.jpg
+b99158b45db99ff15f8d44ef29d9fa20     1165053                             /media/someone/AFAT32P/Photo/raw/MyPhone/Camera/2013-11-12 14.08.10.jpg
+
+b95cd645a0200d84abadc571a959865a     4210507                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3575.jpg
+b95cd645a0200d84abadc571a959865a     4210507                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3575.jpg
+
+3f4cbfa64dd2c418c1dae6290968a00c     1145468                      /media/someone/AFAT32P/Photo/raw/other/2013_08-11-cell/2013-11-12 16.44.33.jpg
+3f4cbfa64dd2c418c1dae6290968a00c     1145468                             /media/someone/AFAT32P/Photo/raw/MyPhone/Camera/2013-11-12 16.44.33.jpg
+
+f6ccb1d9287a450422121b1ce5af47ec     5439370                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3876.jpg
+f6ccb1d9287a450422121b1ce5af47ec     5439370                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3876.jpg
+
+0507cfc6048d7041eb60aaad2a805226     1150799                      /media/someone/AFAT32P/Photo/raw/other/2013_08-11-cell/2013-11-12 16.37.04.jpg
+0507cfc6048d7041eb60aaad2a805226     1150799                             /media/someone/AFAT32P/Photo/raw/MyPhone/Camera/2013-11-12 16.37.04.jpg
+
+86cc039ecac7bebd8d94e88661e7edce     1154168                      /media/someone/AFAT32P/Photo/raw/other/2013_08-11-cell/2013-11-12 16.44.43.jpg
+86cc039ecac7bebd8d94e88661e7edce     1154168                             /media/someone/AFAT32P/Photo/raw/MyPhone/Camera/2013-11-12 16.44.43.jpg
+
+0271fb9bfc54305e28a6df15424dfc83     9185252                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3786.jpg
+0271fb9bfc54305e28a6df15424dfc83     9185252                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3786.jpg
+
+17518fd220985fd4f2e841a1de3cdd24     1052831                      /media/someone/AFAT32P/Photo/raw/other/2013_08-11-cell/2013-11-12 14.01.05.jpg
+17518fd220985fd4f2e841a1de3cdd24     1052831                             /media/someone/AFAT32P/Photo/raw/MyPhone/Camera/2013-11-12 14.01.05.jpg
+
+595757d706976866c1130cf8e503dcf5     6369652                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3735.jpg
+595757d706976866c1130cf8e503dcf5     6369652                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3735.jpg
+
+76e94c26f09840d0c3c8e157e674fe6a     3232564                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3733.jpg
+76e94c26f09840d0c3c8e157e674fe6a     3232564                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3733.jpg
+
+68d0e2f8d09c2cd2fc89845514134a96     1156530                      /media/someone/AFAT32P/Photo/raw/other/2013_08-11-cell/2013-11-04 13.57.58.jpg
+68d0e2f8d09c2cd2fc89845514134a96     1156530                             /media/someone/AFAT32P/Photo/raw/MyPhone/Camera/2013-11-04 13.57.58.jpg
+
+569c07c3be3d992ba0e20b056385ece6     1200833                      /media/someone/AFAT32P/Photo/raw/other/2013_08-11-cell/2013-11-12 14.01.42.jpg
+569c07c3be3d992ba0e20b056385ece6     1200833                             /media/someone/AFAT32P/Photo/raw/MyPhone/Camera/2013-11-12 14.01.42.jpg
+
+ffa1b8763a7b966f97da0d33a4761bc9     7173657                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3857.jpg
+ffa1b8763a7b966f97da0d33a4761bc9     7173657                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3857.jpg
+
+56facbc0d20338f9e50943ed552493d9     3713616                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3274.jpg
+56facbc0d20338f9e50943ed552493d9     3713616                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3274.jpg
+
+be3e783d5b601b57c0e4dad2fa6c2e2a     1234157                      /media/someone/AFAT32P/Photo/raw/other/2013_08-11-cell/2013-09-01 15.17.42.jpg
+be3e783d5b601b57c0e4dad2fa6c2e2a     1234157                             /media/someone/AFAT32P/Photo/raw/MyPhone/Camera/2013-09-01 15.17.42.jpg
+
+0b1ad08986f251e23375bec242ef970b     7992226                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3811.jpg
+0b1ad08986f251e23375bec242ef970b     7992226                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3811.jpg
+
+a13d5b2adfb40d8b8265a64adbd11ef9     5257325                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3583.jpg
+a13d5b2adfb40d8b8265a64adbd11ef9     5257325                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3583.jpg
+
+7b30e0e8a7f0269f575d799cffc59688     6855688                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3656.jpg
+7b30e0e8a7f0269f575d799cffc59688     6855688                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3656.jpg
+
+b3d506ee4f96994a4512bd3cf50fb80c     1144430                      /media/someone/AFAT32P/Photo/raw/other/2013_08-11-cell/2013-11-12 16.44.28.jpg
+b3d506ee4f96994a4512bd3cf50fb80c     1144430                             /media/someone/AFAT32P/Photo/raw/MyPhone/Camera/2013-11-12 16.44.28.jpg
+
+4e6960ad99bae7ce4a83030cdd5994be     1221409                      /media/someone/AFAT32P/Photo/raw/other/2013_08-11-cell/2013-11-12 14.06.00.jpg
+4e6960ad99bae7ce4a83030cdd5994be     1221409                             /media/someone/AFAT32P/Photo/raw/MyPhone/Camera/2013-11-12 14.06.00.jpg
+
+027098a34e7480bc41d10fd5a544bdb7     5597742                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3265.jpg
+027098a34e7480bc41d10fd5a544bdb7     5597742                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3265.jpg
+
+f5d40f202ee7e5b7a8a5cf532622c3b3     1206773                      /media/someone/AFAT32P/Photo/raw/other/2013_08-11-cell/2013-09-01 14.00.26.jpg
+f5d40f202ee7e5b7a8a5cf532622c3b3     1206773                             /media/someone/AFAT32P/Photo/raw/MyPhone/Camera/2013-09-01 14.00.26.jpg
+
+fb3555d577db6c03da59c0cc2437ebd1     1193532                      /media/someone/AFAT32P/Photo/raw/other/2013_08-11-cell/2013-11-09 17.31.11.jpg
+fb3555d577db6c03da59c0cc2437ebd1     1193532                             /media/someone/AFAT32P/Photo/raw/MyPhone/Camera/2013-11-09 17.31.11.jpg
+
+df397cf348c5518d4d0bec3b5fe6d193     1168136                      /media/someone/AFAT32P/Photo/raw/other/2013_08-11-cell/2013-11-04 13.41.44.jpg
+df397cf348c5518d4d0bec3b5fe6d193     1168136                             /media/someone/AFAT32P/Photo/raw/MyPhone/Camera/2013-11-04 13.41.44.jpg
+
+c26e94da78f3471a3d5fb38426137230     3814466                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3149.jpg
+c26e94da78f3471a3d5fb38426137230     3814466                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3149.jpg
+
+ecd7890a4e440d79fa11c833283f91a3     1141718                      /media/someone/AFAT32P/Photo/raw/other/2013_08-11-cell/2013-11-12 16.37.12.jpg
+ecd7890a4e440d79fa11c833283f91a3     1141718                             /media/someone/AFAT32P/Photo/raw/MyPhone/Camera/2013-11-12 16.37.12.jpg
+
+a5cabb9e8c39c1946b29186a0e60675f     1181332                      /media/someone/AFAT32P/Photo/raw/other/2013_08-11-cell/2013-09-01 14.50.19.jpg
+a5cabb9e8c39c1946b29186a0e60675f     1181332                             /media/someone/AFAT32P/Photo/raw/MyPhone/Camera/2013-09-01 14.50.19.jpg
+
+53c645252bc883e83e3a57cc80d0e842     1123120                      /media/someone/AFAT32P/Photo/raw/other/2013_08-11-cell/2013-11-03 16.59.39.jpg
+53c645252bc883e83e3a57cc80d0e842     1123120                             /media/someone/AFAT32P/Photo/raw/MyPhone/Camera/2013-11-03 16.59.39.jpg
+
+bc726fc6b9ee263fffc54920fdb11392     1194460                      /media/someone/AFAT32P/Photo/raw/other/2013_08-11-cell/2013-11-09 15.42.08.jpg
+bc726fc6b9ee263fffc54920fdb11392     1194460                             /media/someone/AFAT32P/Photo/raw/MyPhone/Camera/2013-11-09 15.42.08.jpg
+
+4fb0708c661e78697372e581544543c1     1195677                      /media/someone/AFAT32P/Photo/raw/other/2013_08-11-cell/2013-11-12 16.45.07.jpg
+4fb0708c661e78697372e581544543c1     1195677                             /media/someone/AFAT32P/Photo/raw/MyPhone/Camera/2013-11-12 16.45.07.jpg
+
+9fb3f56f951193d9de87f1c96e5477b3     3746864                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3190.jpg
+9fb3f56f951193d9de87f1c96e5477b3     3746864                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3190.jpg
+
+9cac09dbce76f8371aae9e5bf6cde497     1106605                      /media/someone/AFAT32P/Photo/raw/other/2013_08-11-cell/2013-11-03 15.25.36.jpg
+9cac09dbce76f8371aae9e5bf6cde497     1106605                             /media/someone/AFAT32P/Photo/raw/MyPhone/Camera/2013-11-03 15.25.36.jpg
+
+ac46ec2ae6a2578838a94b05c0392240     6495777                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3168.jpg
+ac46ec2ae6a2578838a94b05c0392240     6495777                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3168.jpg
+
+f8d59e1b6c0172bdf8f6bc3ab66af947     4952137                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3768.jpg
+f8d59e1b6c0172bdf8f6bc3ab66af947     4952137                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3768.jpg
+
+dbe8f5fb2bbbaf8e71e978fc2aa4cc57     1147767                      /media/someone/AFAT32P/Photo/raw/other/2013_08-11-cell/2013-08-18 14.54.24.jpg
+dbe8f5fb2bbbaf8e71e978fc2aa4cc57     1147767                             /media/someone/AFAT32P/Photo/raw/MyPhone/Camera/2013-08-18 14.54.24.jpg
+
+e64d8be7ab2e9fc7275a93431b6b9c97    10099399                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3363.jpg
+e64d8be7ab2e9fc7275a93431b6b9c97    10099399                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3363.jpg
+
+444f0a0c4352ccb0c9c02ce92b3b858b     8111108                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3415.jpg
+444f0a0c4352ccb0c9c02ce92b3b858b     8111108                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3415.jpg
+
+a1c87f550f9865a7e487489ed8382d6f     4913525                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3648.jpg
+a1c87f550f9865a7e487489ed8382d6f     4913525                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3648.jpg
+
+991fe2f696b9fb096d15af26240d9dc5     1220055                      /media/someone/AFAT32P/Photo/raw/other/2013_08-11-cell/2013-09-01 15.21.50.jpg
+991fe2f696b9fb096d15af26240d9dc5     1220055                             /media/someone/AFAT32P/Photo/raw/MyPhone/Camera/2013-09-01 15.21.50.jpg
+
+c61fc515d4453937f753d9ff08a22048     4460358                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3569.jpg
+c61fc515d4453937f753d9ff08a22048     4460358                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3569.jpg
+
+f32f90be92c46a06039709d195e8006e     9830666                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3352.jpg
+f32f90be92c46a06039709d195e8006e     9830666                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3352.jpg
+
+257741835528f23b89b61f37edc8d54c     1134966                      /media/someone/AFAT32P/Photo/raw/other/2013_08-11-cell/2013-11-12 16.45.00.jpg
+257741835528f23b89b61f37edc8d54c     1134966                             /media/someone/AFAT32P/Photo/raw/MyPhone/Camera/2013-11-12 16.45.00.jpg
+
+2cfdd3d6a55fb4fd303227a08886a64a     1224626                      /media/someone/AFAT32P/Photo/raw/other/2013_08-11-cell/2013-08-25 18.18.27.jpg
+2cfdd3d6a55fb4fd303227a08886a64a     1224626                             /media/someone/AFAT32P/Photo/raw/MyPhone/Camera/2013-08-25 18.18.27.jpg
+
+d862eb166e159b9d41932cb838f02cb5     7086313                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3358.jpg
+d862eb166e159b9d41932cb838f02cb5     7086313                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3358.jpg
+
+3f8e625b1d2272f66b6577a001b6744d     1090419                      /media/someone/AFAT32P/Photo/raw/other/2013_08-11-cell/2013-09-01 14.12.39.jpg
+3f8e625b1d2272f66b6577a001b6744d     1090419                             /media/someone/AFAT32P/Photo/raw/MyPhone/Camera/2013-09-01 14.12.39.jpg
+
+b17942c15cd1775fe3cf79c3729dce79     5238445                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3232.jpg
+b17942c15cd1775fe3cf79c3729dce79     5238445                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3232.jpg
+
+38bde9be89165deb1cf99b4097386a2e     6764819                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3737.jpg
+38bde9be89165deb1cf99b4097386a2e     6764819                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3737.jpg
+
+9efe791ab8049021b6e3d1b9097f65f0     1169539                      /media/someone/AFAT32P/Photo/raw/other/2013_08-11-cell/2013-09-01 14.44.06.jpg
+9efe791ab8049021b6e3d1b9097f65f0     1169539                             /media/someone/AFAT32P/Photo/raw/MyPhone/Camera/2013-09-01 14.44.06.jpg
+
+3adf47f9b1f1fff2d3d2bfb8d90e271d     4670277                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3324.jpg
+3adf47f9b1f1fff2d3d2bfb8d90e271d     4670277                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3324.jpg
+
+a1240ed722ceb149f4ab7756d2517def     5033820                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3762.jpg
+a1240ed722ceb149f4ab7756d2517def     5033820                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3762.jpg
+
+f3d52fb86f565b30df293bc372d020ce     3350225                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3586.jpg
+f3d52fb86f565b30df293bc372d020ce     3350225                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3586.jpg
+
+0903bcb58d58d32e849e52728de8c7ab     4896085                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3769.jpg
+0903bcb58d58d32e849e52728de8c7ab     4896085                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3769.jpg
+
+13a6da38b676463c88ef3866f9efebc6     2948490                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3513.jpg
+13a6da38b676463c88ef3866f9efebc6     2948490                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3513.jpg
+
+a0549a63315e9c262dba5d7551e5954e     8512895                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3835.jpg
+a0549a63315e9c262dba5d7551e5954e     8512895                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3835.jpg
+
+3df8bfbcb155531211da250f64b2b910     9848136                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3348.jpg
+3df8bfbcb155531211da250f64b2b910     9848136                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3348.jpg
+
+db1a013da0de79e018885b5ec2d49943     3989728                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3578.jpg
+db1a013da0de79e018885b5ec2d49943     3989728                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3578.jpg
+
+f818cccb09f7b3022147d370e8871656     6892322                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3389.jpg
+f818cccb09f7b3022147d370e8871656     6892322                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3389.jpg
+
+8c7b69ca05a2597c99b8de4f2fa189f2     3673151                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3449.jpg
+8c7b69ca05a2597c99b8de4f2fa189f2     3673151                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3449.jpg
+
+df5bfcabba66edaa59fd6d67e3e16206     1218159                      /media/someone/AFAT32P/Photo/raw/other/2013_08-11-cell/2013-11-13 18.18.51.jpg
+df5bfcabba66edaa59fd6d67e3e16206     1218159                             /media/someone/AFAT32P/Photo/raw/MyPhone/Camera/2013-11-13 18.18.51.jpg
+
+96304c926a383c9fd4325c1cfd5df736     6472144                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3405.jpg
+96304c926a383c9fd4325c1cfd5df736     6472144                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3405.jpg
+
+3d651a49d9ae0c03ffdade38a1ae8c7e     5112485                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3592.jpg
+3d651a49d9ae0c03ffdade38a1ae8c7e     5112485                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3592.jpg
+
+fdcc038274d1d7acf37e126c18503fc8     3948092                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3604.jpg
+fdcc038274d1d7acf37e126c18503fc8     3948092                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3604.jpg
+
+ff09d9a3bc2735c3d77ea56d2c6fe3cf     6407832                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3450.jpg
+ff09d9a3bc2735c3d77ea56d2c6fe3cf     6407832                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3450.jpg
+
+119ae169c66b1794146f4e345a272510    12357193                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3832.jpg
+119ae169c66b1794146f4e345a272510    12357193                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3832.jpg
+
+0027f769efcc0547ea65a593e15ef1f4     1785208                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3276.jpg
+0027f769efcc0547ea65a593e15ef1f4     1785208                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3276.jpg
+
+f9c76a49d6ff3bfbc5e419e847bb8415     1182999                      /media/someone/AFAT32P/Photo/raw/other/2013_08-11-cell/2013-08-18 14.55.29.jpg
+f9c76a49d6ff3bfbc5e419e847bb8415     1182999                             /media/someone/AFAT32P/Photo/raw/MyPhone/Camera/2013-08-18 14.55.29.jpg
+
+288e4c4f5ff4822f87f178e1c4061923     6924164                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3408.jpg
+288e4c4f5ff4822f87f178e1c4061923     6924164                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3408.jpg
+
+77bf2a428f4d59fcbba12b74fd628aa4     1190732                      /media/someone/AFAT32P/Photo/raw/other/2013_08-11-cell/2013-08-25 18.17.37.jpg
+77bf2a428f4d59fcbba12b74fd628aa4     1190732                             /media/someone/AFAT32P/Photo/raw/MyPhone/Camera/2013-08-25 18.17.37.jpg
+
+dc49edc4ffd1f1a422f794bf8927598f     1063451                      /media/someone/AFAT32P/Photo/raw/other/2013_08-11-cell/2013-11-12 14.01.31.jpg
+dc49edc4ffd1f1a422f794bf8927598f     1063451                             /media/someone/AFAT32P/Photo/raw/MyPhone/Camera/2013-11-12 14.01.31.jpg
+
+cae613d3ea01dcb9a90813eec9294662     1184747                      /media/someone/AFAT32P/Photo/raw/other/2013_08-11-cell/2013-09-11 10.45.28.jpg
+cae613d3ea01dcb9a90813eec9294662     1184747                             /media/someone/AFAT32P/Photo/raw/MyPhone/Camera/2013-09-11 10.45.28.jpg
+
+72420d12a536c494da47cfecd5e63358     1173272                      /media/someone/AFAT32P/Photo/raw/other/2013_08-11-cell/2013-11-12 16.36.45.jpg
+72420d12a536c494da47cfecd5e63358     1173272                             /media/someone/AFAT32P/Photo/raw/MyPhone/Camera/2013-11-12 16.36.45.jpg
+
+ce2216f429cf19fee5519fdfcf29f793     4848599                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3454.jpg
+ce2216f429cf19fee5519fdfcf29f793     4848599                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3454.jpg
+
+083ef48d59399f903ed525332544b1ae     7300571                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3398.jpg
+083ef48d59399f903ed525332544b1ae     7300571                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3398.jpg
+
+678a8f9e7da05be510b070f0534c2cb7    11451514                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3816.jpg
+678a8f9e7da05be510b070f0534c2cb7    11451514                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3816.jpg
+
+c9bc009c47dfc1dd7f715e0f821785a9     5110569                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3571.jpg
+c9bc009c47dfc1dd7f715e0f821785a9     5110569                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3571.jpg
+
+03ca023d04a0e378642a9a770836a0e3     1175492                      /media/someone/AFAT32P/Photo/raw/other/2013_08-11-cell/2013-11-12 16.36.19.jpg
+03ca023d04a0e378642a9a770836a0e3     1175492                             /media/someone/AFAT32P/Photo/raw/MyPhone/Camera/2013-11-12 16.36.19.jpg
+
+fa2fd4477b1974e595117fb0eff22c3b     7952988                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3165.jpg
+fa2fd4477b1974e595117fb0eff22c3b     7952988                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3165.jpg
+
+552de0da96c1e0c7fe31550e7ef3745d     1156656                      /media/someone/AFAT32P/Photo/raw/other/2013_08-11-cell/2013-11-03 16.57.52.jpg
+552de0da96c1e0c7fe31550e7ef3745d     1156656                             /media/someone/AFAT32P/Photo/raw/MyPhone/Camera/2013-11-03 16.57.52.jpg
+
+44f11ff15b0ec8fe9cb7f3e175b65c84     1142648                      /media/someone/AFAT32P/Photo/raw/other/2013_08-11-cell/2013-08-25 18.17.41.jpg
+44f11ff15b0ec8fe9cb7f3e175b65c84     1142648                             /media/someone/AFAT32P/Photo/raw/MyPhone/Camera/2013-08-25 18.17.41.jpg
+
+10c30b446f04ad7a5f765943e16fc93f     1189195                      /media/someone/AFAT32P/Photo/raw/other/2013_08-11-cell/2013-11-12 16.45.03.jpg
+10c30b446f04ad7a5f765943e16fc93f     1189195                             /media/someone/AFAT32P/Photo/raw/MyPhone/Camera/2013-11-12 16.45.03.jpg
+
+5d0f72cd825b154e5ad620f463bdf247     5688029                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3305.jpg
+5d0f72cd825b154e5ad620f463bdf247     5688029                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3305.jpg
+
+084c9c215236ea30931266e8a05a3525     5632680                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3498.jpg
+084c9c215236ea30931266e8a05a3525     5632680                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3498.jpg
+
+e49c6c55f6f4ccff4e9e5e1e484de1cb     1217592                      /media/someone/AFAT32P/Photo/raw/other/2013_08-11-cell/2013-11-12 14.01.27.jpg
+e49c6c55f6f4ccff4e9e5e1e484de1cb     1217592                             /media/someone/AFAT32P/Photo/raw/MyPhone/Camera/2013-11-12 14.01.27.jpg
+
+e48af2ae0340a17eae9fd44becec818f     3092318                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3217.jpg
+e48af2ae0340a17eae9fd44becec818f     3092318                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3217.jpg
+
+b8690d6d1ec58aff754018c93d07ac1d     1055520                      /media/someone/AFAT32P/Photo/raw/other/2013_08-11-cell/2013-11-12 16.36.36.jpg
+b8690d6d1ec58aff754018c93d07ac1d     1055520                             /media/someone/AFAT32P/Photo/raw/MyPhone/Camera/2013-11-12 16.36.36.jpg
+
+3d0a0bd07bc39cbb67556e2bb6e21ab2     5081728                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3576.jpg
+3d0a0bd07bc39cbb67556e2bb6e21ab2     5081728                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3576.jpg
+
+43e580bae50838a36d6b0369ad2b970d     1134104                      /media/someone/AFAT32P/Photo/raw/other/2013_08-11-cell/2013-11-12 16.37.08.jpg
+43e580bae50838a36d6b0369ad2b970d     1134104                             /media/someone/AFAT32P/Photo/raw/MyPhone/Camera/2013-11-12 16.37.08.jpg
+
+f0d481fcf9c70ff05986315a8c8c30a9     2107689                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3544.jpg
+f0d481fcf9c70ff05986315a8c8c30a9     2107689                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3544.jpg
+
+7f70bee09521b945173e8f808562f1cd     1179737                      /media/someone/AFAT32P/Photo/raw/other/2013_08-11-cell/2013-08-25 18.19.50.jpg
+7f70bee09521b945173e8f808562f1cd     1179737                             /media/someone/AFAT32P/Photo/raw/MyPhone/Camera/2013-08-25 18.19.50.jpg
+
+8647803dbdf4a4b26c479c561ad3fda6     5619936                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3468.jpg
+8647803dbdf4a4b26c479c561ad3fda6     5619936                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3468.jpg
+
+a8f1b4d84b6322d7ebba1df2f52bc0a6     6278365                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3471.jpg
+a8f1b4d84b6322d7ebba1df2f52bc0a6     6278365                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3471.jpg
+
+f76268f3d701f94ba8955a3c0ae4be54     1184742                      /media/someone/AFAT32P/Photo/raw/other/2013_08-11-cell/2013-09-01 15.05.26.jpg
+f76268f3d701f94ba8955a3c0ae4be54     1184742                             /media/someone/AFAT32P/Photo/raw/MyPhone/Camera/2013-09-01 15.05.26.jpg
+
+4dafb7d1dcf9eca7e86a7caa3d6ce598     1184356                      /media/someone/AFAT32P/Photo/raw/other/2013_08-11-cell/2013-09-13 09.32.17.jpg
+4dafb7d1dcf9eca7e86a7caa3d6ce598     1184356                             /media/someone/AFAT32P/Photo/raw/MyPhone/Camera/2013-09-13 09.32.17.jpg
+
+d9af3d8d8a131cb4085683f11c260c63     1119248                      /media/someone/AFAT32P/Photo/raw/other/2013_08-11-cell/2013-09-27 20.43.02.jpg
+d9af3d8d8a131cb4085683f11c260c63     1119248                             /media/someone/AFAT32P/Photo/raw/MyPhone/Camera/2013-09-27 20.43.02.jpg
+
+8ffb2ed560879dcc9049424f44719d65     8106460                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3801.jpg
+8ffb2ed560879dcc9049424f44719d65     8106460                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3801.jpg
+
+593ff8c8c2a09b6c99ab49b925f603e4     1159764                      /media/someone/AFAT32P/Photo/raw/other/2013_08-11-cell/2013-08-18 14.54.48.jpg
+593ff8c8c2a09b6c99ab49b925f603e4     1159764                             /media/someone/AFAT32P/Photo/raw/MyPhone/Camera/2013-08-18 14.54.48.jpg
+
+c08864e7ced9e010bd1697e966d5d743     1135467                      /media/someone/AFAT32P/Photo/raw/other/2013_08-11-cell/2013-09-01 15.29.51.jpg
+c08864e7ced9e010bd1697e966d5d743     1135467                             /media/someone/AFAT32P/Photo/raw/MyPhone/Camera/2013-09-01 15.29.51.jpg
+
+c76db80e7180a7284a4855b7451a9215     7869168                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3819.jpg
+c76db80e7180a7284a4855b7451a9215     7869168                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3819.jpg
+
+a864423ab54f04a380a932ee902af93d     1692546                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3442.jpg
+a864423ab54f04a380a932ee902af93d     1692546                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3442.jpg
+
+9b7644170ac063019f354c71e1dbc8fb     1199924                      /media/someone/AFAT32P/Photo/raw/other/2013_08-11-cell/2013-11-12 14.04.28.jpg
+9b7644170ac063019f354c71e1dbc8fb     1199924                             /media/someone/AFAT32P/Photo/raw/MyPhone/Camera/2013-11-12 14.04.28.jpg
+
+4f660d342cd73055c090446fa718ea73     1146434                      /media/someone/AFAT32P/Photo/raw/other/2013_08-11-cell/2013-11-03 16.59.42.jpg
+4f660d342cd73055c090446fa718ea73     1146434                             /media/someone/AFAT32P/Photo/raw/MyPhone/Camera/2013-11-03 16.59.42.jpg
+
+25420b987f8936ad12aea2d8b6cdde7a     4000645                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3581.jpg
+25420b987f8936ad12aea2d8b6cdde7a     4000645                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3581.jpg
+
+a1480d23bfdf9a9bd28815212400e0dc     3832177                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3703.jpg
+a1480d23bfdf9a9bd28815212400e0dc     3832177                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3703.jpg
+
+189b6a16418d53914670197d43292a48     2021105                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3631.jpg
+189b6a16418d53914670197d43292a48     2021105                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3631.jpg
+
+4169be225188e4873e8835693deb3a40     5974636                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3700.jpg
+4169be225188e4873e8835693deb3a40     5974636                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3700.jpg
+
+43b17f6073278f62c4d68491bbd70318     5453211                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3302.jpg
+43b17f6073278f62c4d68491bbd70318     5453211                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3302.jpg
+
+5f4e39f98a883c05ed2512c64d54da78     5200782                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3243.jpg
+5f4e39f98a883c05ed2512c64d54da78     5200782                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3243.jpg
+
+4f062b1ea3655b8a975c509a9e81412a    10974199                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3880.jpg
+4f062b1ea3655b8a975c509a9e81412a    10974199                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3880.jpg
+
+390b37b8f25b3ea77d9651ad112e7e28     1194319                      /media/someone/AFAT32P/Photo/raw/other/2013_08-11-cell/2013-09-11 10.44.36.jpg
+390b37b8f25b3ea77d9651ad112e7e28     1194319                             /media/someone/AFAT32P/Photo/raw/MyPhone/Camera/2013-09-11 10.44.36.jpg
+
+5c9e78d8a2b35fd03527218e31ac0b5a     3090690                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3782.jpg
+5c9e78d8a2b35fd03527218e31ac0b5a     3090690                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3782.jpg
+
+30ebf074d1825b047f098a229abddfbd     1199933                      /media/someone/AFAT32P/Photo/raw/other/2013_08-11-cell/2013-11-12 14.01.17.jpg
+30ebf074d1825b047f098a229abddfbd     1199933                             /media/someone/AFAT32P/Photo/raw/MyPhone/Camera/2013-11-12 14.01.17.jpg
+
+3aa8cab2421f27109d3765fa97b56680     6330125                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3827.jpg
+3aa8cab2421f27109d3765fa97b56680     6330125                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3827.jpg
+
+c2db09df84a56b2ab3560db6a1123537     8228259                             /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original/4VS_3624.jpg
+c2db09df84a56b2ab3560db6a1123537     8228259                               /media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited/4VS_3624.jpg
+

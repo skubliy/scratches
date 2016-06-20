@@ -5,9 +5,10 @@
                    displayName="Header Files"
                    projectFiles="true">
       <itemPath>btree.h</itemPath>
-      <itemPath>heap_sort.h</itemPath>
+      <itemPath>heap.h</itemPath>
       <itemPath>list_node.h</itemPath>
       <itemPath>sorted_rotated_arr.h</itemPath>
+      <itemPath>../tutils/tarray.hpp</itemPath>
       <itemPath>tree_node_rec.h</itemPath>
       <itemPath>tree_node_rec_func.h</itemPath>
     </logicalFolder>
@@ -37,10 +38,17 @@
         <rebuildPropChanged>false</rebuildPropChanged>
       </toolsSet>
       <compileType>
+        <ccTool>
+          <incDir>
+            <pElem>../</pElem>
+          </incDir>
+        </ccTool>
       </compileType>
+      <item path="../tutils/tarray.hpp" ex="false" tool="3" flavor2="0">
+      </item>
       <item path="btree.h" ex="false" tool="3" flavor2="0">
       </item>
-      <item path="heap_sort.h" ex="false" tool="3" flavor2="0">
+      <item path="heap.h" ex="false" tool="3" flavor2="0">
       </item>
       <item path="list_node.h" ex="false" tool="3" flavor2="0">
       </item>
@@ -73,9 +81,11 @@
           <developmentMode>5</developmentMode>
         </asmTool>
       </compileType>
+      <item path="../tutils/tarray.hpp" ex="false" tool="3" flavor2="0">
+      </item>
       <item path="btree.h" ex="false" tool="3" flavor2="0">
       </item>
-      <item path="heap_sort.h" ex="false" tool="3" flavor2="0">
+      <item path="heap.h" ex="false" tool="3" flavor2="0">
       </item>
       <item path="list_node.h" ex="false" tool="3" flavor2="0">
       </item>
