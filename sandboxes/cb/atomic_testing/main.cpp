@@ -12,9 +12,11 @@ using namespace std;
 
 #define BILLION (1000*1000*1000)
 typedef void (*fp_t)(void);
-#define NUM_TO_REPEAT (10*1000*1000)
+#define NUM_TO_REPEAT (10*10)
+//*1000)
 
-void* thread_func(void* pfunc) {
+void* thread_func(void* pfunc)
+{
     struct timespec tstart = {0,0}, tend = {0,0};
     clock_gettime(CLOCK_MONOTONIC, &tstart);
     //auto start_time = chrono::high_resolution_clock::now();
@@ -29,32 +31,38 @@ void* thread_func(void* pfunc) {
 }
 
 volatile long unsigned int vers = 0;
-void simple_version_incrementor(void) {
+void simple_version_incrementor(void)
+{
     for (unsigned int x = 0; x < NUM_TO_REPEAT; ++x)
         vers++;
 }
 
 std::atomic<long unsigned int> avers (0);
-void atomic_version_incrementor(void) {
+void atomic_version_incrementor(void)
+{
     for (unsigned int x = 0; x < NUM_TO_REPEAT; ++x)
         avers++;
 }
 
-void run_threads(fp_t fp) {
+void run_threads(fp_t fp)
+{
 #define NUM_THREADS 2
     pthread_t  tharr[NUM_THREADS];
 
-    for (unsigned int i = 0; i < NUM_THREADS; i++ ) {
+    for (unsigned int i = 0; i < NUM_THREADS; i++ )
+    {
         if (pthread_create( &tharr[i], NULL, thread_func, (void*)fp) != 0)
             cerr << "error " << i << endl;
     }
 
-    for (unsigned int i = 0; i < NUM_THREADS; i++ ) {
+    for (unsigned int i = 0; i < NUM_THREADS; i++ )
+    {
         pthread_join(tharr[i],NULL) ;
     }
 }
 
-typedef union {
+typedef union
+{
     uint64_t w64[2];
     uint32_t w32[4];
     uint16_t w16[8];
@@ -73,29 +81,35 @@ volatile uint64_t flag = false ;
 std::atomic<unsigned int> done(0);
 //unsigned int done=0;
 
-void* simple_writer_func(void*) {
+void* simple_writer_func(void*)
+{
     flag = false;
     done = 0;
-    cout << endl;
-    while (done < 2) {
+    cout << __func__ << endl;
+    while (done < 2)
+    {
         flag = true;
         static uint64_t x = 0xaaaaaaaaaaaaaaaa;
         x ^= 0xffffffffffffffff;
         vdata.w64[0] = x;
         vdata.w64[1] = x;
         flag =false;
-        //cout << " . ";
+        cout << " . ";
         //randomDelay1.doBusyWork();
     }
     cout << endl;
     return NULL;
 }
 
-void simple_reader_func(void) {
+void simple_reader_func(void)
+{
     int cnt = 0;
-    for (unsigned int x = 0; x < NUM_TO_REPEAT;) {
+    cout << __func__ << endl;
+    for (unsigned int x = 0; x < NUM_TO_REPEAT;)
+    {
         //randomDelay2.doBusyWork();
-        if(!flag) {
+        if(!flag)
+        {
             uint64_t w0 = vdata.w64[0];
             uint64_t w1 = vdata.w64[1];
             cnt = (w0 != w1) ? (cnt - 1) : (cnt + 1);
@@ -109,34 +123,40 @@ void simple_reader_func(void) {
 }
 
 template <typename TV>
-class cvers {
+class cvers
+{
     TV vers;
 public:
     cvers(TV v=0): vers(v) {}
     //cvers(cvers& cv) {}
-    cvers& operator = (const TV& v) {
+    cvers& operator = (const TV& v)
+    {
         vers = v;
         return *this;
     }
 
 // prefix increment operator.
-    cvers& operator ++ () {
+    cvers& operator ++ ()
+    {
         cvers::fetchAndAdd(&vers,1);
         return *this;
     }
 
 // postfix increment operator.
-    cvers& operator ++ (int) {
+    cvers& operator ++ (int)
+    {
         cvers temp = *this;
         ++*this;
         return temp;
     }
 
-    operator TV() {
+    operator TV()
+    {
         return vers;
     }
 
-    TV fetchAndAdd(volatile TV* dest, TV increment) {
+    TV fetchAndAdd(volatile TV* dest, TV increment)
+    {
         TV result = increment;
         asm volatile ("lock xadd %[src], %[dest]"
                       : [dest] "+m" (*dest),
@@ -155,13 +175,15 @@ cvers<uint32_t> version = 0;
 
 
 
-void* proper_writer_func(void*) {
+void* proper_writer_func(void*)
+{
     flag = false;
     done = 0;
     uint64_t real_counter = 0;
-    cout << endl;
+    cout << __func__ << endl;
 
-    while (done < 2) {
+    while (done < 2)
+    {
         static uint64_t x = 0xaaaaaaaaaaaaaaaa;
         flag = true;
         ++real_counter;
@@ -178,13 +200,17 @@ void* proper_writer_func(void*) {
     return NULL;
 }
 
-void proper_reader_func(void) {
+void proper_reader_func(void)
+{
     int cnt = 0;
     uint64_t real_counter = 0;
-    for (unsigned int x = 0; x < NUM_TO_REPEAT;) {
+    cout << __func__ << endl;
+    for (unsigned int x = 0; x < NUM_TO_REPEAT;)
+    {
         //randomDelay2.doBusyWork();
         ++real_counter;
-        if(!flag) {
+        if(!flag)
+        {
 
             uint32_t version_before = version;
             if (version&1)
@@ -197,7 +223,7 @@ void proper_reader_func(void) {
             cnt = (w0 != w1) ? (cnt - 1) : (cnt + 1);
             x++;
         }
-        //cout << "|";
+        cout << "|";
     }
     cout << endl;
     done += 1;
@@ -209,7 +235,8 @@ void proper_reader_func(void) {
 
 //31536000 seconds in year
 
-int main(int argc, char* argv[]){
+int main(int argc, char* argv[])
+{
 #if 1
     cerr << "\n timing demo\n";
     run_threads(simple_version_incrementor);
@@ -233,7 +260,7 @@ int main(int argc, char* argv[]){
         pthread_join(pr_writer, NULL) ;
     }
 
-
+        cout << "\n--------------\n";
     {
         cerr << "\n TEST SIMPLE WRITER\n";
         pthread_t writer;

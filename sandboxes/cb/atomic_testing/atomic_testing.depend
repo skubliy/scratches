@@ -12,3 +12,16 @@
 
 1424382069 /home/sergueik/w/cb/atomic_testing/RandomDelay.h
 
+1464814843 source:/home/someone/w/scratches/sandboxes/cb/atomic_testing/RandomDelay.cpp
+	"RandomDelay.h"
+	<stdlib.h>
+	<assert.h>
+
+1464814843 /home/someone/w/scratches/sandboxes/cb/atomic_testing/RandomDelay.h
+
+1466879530 source:/home/someone/w/scratches/sandboxes/cb/atomic_testing/main.cpp
+	<pthread.h>
+	<iostream>
+	<atomic>
+	"RandomDelay.h"
+

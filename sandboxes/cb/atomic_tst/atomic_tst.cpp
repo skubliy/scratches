@@ -8,6 +8,8 @@ extern "C"
 
 using namespace std;
 
+#define NUM_TO_REPEAT (10*1000)
+
 template<typename TA>
 class tester {
 public:
@@ -99,7 +101,7 @@ TA tester<TA>::var;
 template <typename TV>
 void incrementor(TV& x, uint64_t nr) {
     for (unsigned int i = 0; i < nr; ++i)
-        xx++;
+        x++;
 
 }
 

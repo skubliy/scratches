@@ -1,20 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <CodeBlocks_layout_file>
 	<ActiveTarget name="Release" />
-	<File name="atomic_tst.cpp" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="atomic_tst.cpp" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="2722" topLine="0" />
+			<Cursor1 position="4262" topLine="113" />
 		</Cursor>
 		<Folding>
 			<Collapse line="1" />
-			<Collapse line="45" />
-			<Collapse line="52" />
-			<Collapse line="58" />
-			<Collapse line="89" />
-			<Collapse line="120" />
-			<Collapse line="159" />
-			<Collapse line="166" />
-			<Collapse line="175" />
 		</Folding>
 	</File>
 </CodeBlocks_layout_file>
