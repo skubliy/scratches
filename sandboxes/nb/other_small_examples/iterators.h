@@ -79,7 +79,7 @@ void map_iteratos() {
     }
 }
 
-int revert_string_by_revert_iterator() {
+int reverting_iterator_example() {
     cout << endl << __func__ << endl;
 
     string str("test string");
@@ -87,7 +87,7 @@ int revert_string_by_revert_iterator() {
     cout << endl;
 }
 
-void back_insert_iterator() {
+void back_insert_iterator_example() {
     cout << endl << __func__ << endl;
 
     std::vector<int> foo, bar;

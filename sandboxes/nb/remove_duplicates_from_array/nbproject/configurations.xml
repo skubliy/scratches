@@ -6,10 +6,6 @@
                    projectFiles="true">
       <itemPath>../tutils/tarray.hpp</itemPath>
     </logicalFolder>
-    <logicalFolder name="ResourceFiles"
-                   displayName="Resource Files"
-                   projectFiles="true">
-    </logicalFolder>
     <logicalFolder name="SourceFiles"
                    displayName="Source Files"
                    projectFiles="true">

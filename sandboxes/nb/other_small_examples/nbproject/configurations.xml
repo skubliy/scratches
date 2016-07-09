@@ -5,7 +5,9 @@
                    displayName="Header Files"
                    projectFiles="true">
       <itemPath>iterators.h</itemPath>
+      <itemPath>min_max_matrix.hpp</itemPath>
       <itemPath>print_num_sign.h</itemPath>
+      <itemPath>reversing.hpp</itemPath>
     </logicalFolder>
     <logicalFolder name="SourceFiles"
                    displayName="Source Files"
@@ -38,7 +40,11 @@
       </item>
       <item path="main.cpp" ex="false" tool="1" flavor2="0">
       </item>
+      <item path="min_max_matrix.hpp" ex="false" tool="3" flavor2="0">
+      </item>
       <item path="print_num_sign.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="reversing.hpp" ex="false" tool="3" flavor2="0">
       </item>
     </conf>
     <conf name="Release" type="1">
@@ -65,7 +71,11 @@
       </item>
       <item path="main.cpp" ex="false" tool="1" flavor2="0">
       </item>
+      <item path="min_max_matrix.hpp" ex="false" tool="3" flavor2="0">
+      </item>
       <item path="print_num_sign.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="reversing.hpp" ex="false" tool="3" flavor2="0">
       </item>
     </conf>
   </confs>

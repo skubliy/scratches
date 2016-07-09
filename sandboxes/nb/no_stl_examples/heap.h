@@ -32,24 +32,24 @@ public:
     }
 private:
 
-    static void max_heapify(int* m, int cur, int hsz) {
+    static void max_heapify(int* m, int cur, int sz) {
         // Left child in heap
         int left = 2 * cur + 1;
         // Right child in heap
         int right = 2 * cur + 2;
         int largest = cur;
 
-        if (left < hsz && m[left] > m[cur]) {
+        if (left < sz && m[left] > m[cur]) {
             largest = left;
         }
 
-        if (right < hsz && m[right] > m[largest]) {
+        if (right < sz && m[right] > m[largest]) {
             largest = right;
         }
 
         if (largest != cur) {
             swap(m[cur], m[largest]);
-            max_heapify(m, largest, hsz);
+            max_heapify(m, largest, sz);
         }
     }
 

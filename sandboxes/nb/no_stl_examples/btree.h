@@ -1,257 +1,220 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+
+/* 
+ * File:   btree.h
+ * Author: someone
+ *
+ * Created on July 5, 2016, 7:43 PM
+ */
+
 #ifndef BTREE_H
 #define BTREE_H
 
-#include <sstream>
-#include <stack>
-#include <queue>
-#include <deque>
-#include <iomanip>
+#include <limits.h>
 
-using namespace std;
-
-template< typename T > class btree;
-
-template<typename T>
-class btnode {
-    friend class btree<T>;
+class btn {
 public:
 
-    btnode() : l(0), r(0) { }
+    btn(int data) : d(data), l(NULL), r(NULL) { }
+    int d;
+    btn* l;
+    btn* r;
 
-    btnode(const T &data) : d(data), l(0), r(0) { }
+    static void insert(btn** nd, int data);
+    static void insert(btn*& nd, int data);
+    static void invert(btn * nd);
+    static void destroy(btn *&nd);
 
-    T data() const {
-        return d;
-    }
+    static int height(btn *nd);
+
+    static void treat(btn *nd);
+    static void in_order(btn *nd);
+    static void pre_order(btn *nd);
+    static void post_order(btn *nd);
+
+    static bool search(btn* nd, int data);
+
+    static bool is_bst(btn* node, int min, int max);
+    static int getmax(btn *nd);
+    static int secondmax(btn *nd);
+
+    static void print(btn* node, string indent, bool is_tail);
+    static void print_by_level(btn* nd, int level);
 private:
-    T d;
-    btnode *l;
-    btnode *r;
-};
-
-//btree
-
-template<typename T>
-class btree {
-    btnode<T> *rt;
-public:
-
-    btree() : rt(NULL) { }
-
-    ~btree() {
-        del(rt);
-    }
-
-    void in_order() const {
-        in_order(rt);
-    }
-
-    void in_order(btnode< T > *nd) const {
-        if (!nd)
-            return;
-        in_order(nd->l);
-        treat(nd);
-        in_order(nd->r);
-    }
-
-    void pre_order() const {
-        pre_order(rt);
-    }
-
-    void pre_order(btnode< T > *nd) const {
-        if (!nd)
-            return;
-        treat(nd);
-        pre_order(nd->l);
-        pre_order(nd->r);
-    }
-
-    void post_order() const {
-        post_order(rt);
-    }
-
-    void post_order(btnode< T > *nd) const {
-        if (!nd)
-            return;
-        post_order(nd->l);
-        post_order(nd->r);
-        treat(nd);
-    }
-
-    int depth() const {
-        depth(rt);
-    }
-
-    int depth(btnode< T > *nd) const {
-        if (!nd)
-            return;
-        if (nd->l == NULL && nd->r == NULL)
-            return 1;
-        else
-            if (nd->l == NULL)
-            return 1 + depth(nd->r);
-        else if (nd->r == NULL)
-            return 1 + depth(nd->l);
-        else
-            return 1 + (nd->l > nd->r) ? depth(nd->l) : depth(nd->r);
-    }
-
-    void insert(const T& data) {
-        insert(data, rt);
-    }
-
-    /*
-    void insert(const T& data, btnode< T > **nd) {
-        if (!nd)
-            return;
-        if (*nd == NULL)
-     *nd = new btnode< T > (data);
-        else if ((*nd)->d > data)
-            insert(data, &((*nd)->l));
-        else
-            insert(data, &((*nd)->r));
-    }
-     */
-    void insert(const T& data, btnode< T >* & nd) {
-        if (!nd) {
-            nd = new btnode< T > (data);
-            return;
-        }
-        insert(data, nd->d > data ? nd->l : nd->r);
-    }
-
-    void remove(const T &data) {
-        remove(data, rt);
-    }
-
-    void remove(const T &data, btnode< T > **nd) {
-        if (!nd || !(*nd))
-            return;
-        if ((*nd)->d == data) {
-            btnode< T > *del_nd = *nd;
-
-            if ((*nd)->l == NULL && (*nd)->r == NULL) {
-                *nd = NULL;
-                delete del_nd;
-            } else if ((*nd)->l == NULL) {
-                *nd = (*nd)->r;
-                delete del_nd;
-            } else {
-                if ((*nd)->r == NULL) {
-                    *nd = (*nd)->l;
-                    delete del_nd;
-                } else {
-                    btnode< T > *p = *nd;
-                    btnode< T > *i = (*nd)->l;
-
-                    while (i->r != NULL) {
-                        p = i;
-                        i = i->r;
-                    }
-
-                    *nd = i;
-                    p->r = i->l;
-                    i->r = del_nd->r;
-                    i->l = p;
-                    delete del_nd;
-                }
-            }
-        } else if ((*nd)->d > data)
-            remove(data, &((*nd)->l));
-        else
-            remove(data, &((*nd)->r));
-    }
-
-    // void print() {
-    //     print(16, rt);
-    // }
-
-    deque<stringstream*> sss;
-
-    /*
-    void print() {
-        stringstream* ln = new stringstream();
-        print(ln, 8, rt);
-        cout << ln->str() << endl;
-        while (sss.size()) {
-            const stringstream* ss = sss.back();
-            sss.pop_back();
-            cout << ss->str() << endl;
-            delete ss;
-        }
-
-    }
-
-    void print(stringstream* ln, int spaces, btnode< T > *nd) {
-        if (!nd)
-            return;
-
-        stringstream* ln2 = new stringstream();
-
-        print(ln2, spaces+1, nd->l);
-        cout << "--" << ln2->str()  << " | ";
-
-        print(ln2, spaces+3, nd->r);
-        cout << ln2 -> str() << endl;
-        sss.push_back(ln2);
-        for (int i = 1; i < spaces; ++i)
-     *ln << " ";
-     *ln << nd->d;
-    }*/
-
-    void postorder_print() {
-        postorder_print(rt, 16);
-    }
-
-    void postorder_print(btnode< T >* p, int indent) {
-        if (p != NULL) {
-            if (p->r) {
-                postorder_print(p->r, indent + 4);
-            }
-            if (indent) {
-                cout << setw(indent) << ' ';
-            }
-            if (p->r) cout << " /\n" << setw(indent) << ' ';
-            cout << p->d << "\n ";
-            if (p->l) {
-                cout << setw(indent) << ' ' << " \\\n";
-                postorder_print(p->l, indent + 4);
-            }
-        }
-    }
-
-    void print2() {
-        string s("");
-        print2(rt, s, true);
-    }
-
-    void print2(btnode< T >* node, string indent, bool is_tail) {
-        cout << indent << (is_tail ? "└── " : "├── ");
-        if (node == NULL) {
-            cout << "*" << endl;
-            return;
-        }
-        cout << node->d << endl;
-        if (node->l != NULL || node->r != NULL) {
-            indent.append(is_tail ? "    " : "│   ");
-            print2(node->r, indent, false);
-            print2(node->l, indent, true);
-        }
-    }
-
-    void del(btnode< T > *nd) {
-        if (!nd)
-            return;
-        del(nd->l);
-        del(nd->r);
-        delete nd;
-    }
-
-    void treat(btnode< T > *nd) const {
-        cout << nd->d << "  ";
-    }
 
 };
+
+void btn::insert(btn** nd, int data) {
+    if (!nd)
+        return;
+
+    if (*nd == NULL)
+        *nd = new btn(data);
+    else if (data < (*nd)->d)
+        insert(&((*nd)->l), data);
+    else
+        insert(&((*nd)->r), data);
+}
+
+void btn::insert(btn*& nd, int data) {
+    if (nd == nullptr) {
+        nd = new btn(data);
+    } else if (data < nd->d) {
+        insert(nd->l, data);
+    } else {
+        insert(nd->r, data);
+    }
+}
+
+void btn::invert(btn * nd) {
+
+    if (nd == NULL)
+        return;
+
+    invert(nd->l);
+    invert(nd->r);
+
+    btn * tmp = nd->l;
+    nd->l = nd->r;
+    nd->r = tmp;
+
+}
+
+void btn::destroy(btn *&nd) {
+    if (!nd)
+        return;
+
+    destroy(nd->l);
+    destroy(nd->r);
+
+    delete nd;
+    nd = NULL;
+}
+
+void btn::treat(btn *nd) {
+    cout << nd->d << "  ";
+}
+
+int btn::height(btn* nd) {
+    if (nd == NULL)
+        return 0;
+    else {
+        /* compute the height of each subtree */
+        int lh = height(nd->l);
+        int rh = height(nd->r);
+
+        /* use the larger one */
+        if (lh > rh)
+            return (lh + 1);
+        else return (rh + 1);
+    }
+}
+
+void btn::in_order(btn *nd) {
+    if (!nd)
+        return;
+    in_order(nd->l);
+    treat(nd);
+    in_order(nd->r);
+}
+
+void btn::pre_order(btn *nd) {
+    if (!nd)
+        return;
+    treat(nd);
+    pre_order(nd->l);
+    pre_order(nd->r);
+}
+
+void btn::post_order(btn *nd) {
+    if (!nd)
+        return;
+    post_order(nd->l);
+    post_order(nd->r);
+    treat(nd);
+}
+
+bool btn::is_bst(btn* node, int min, int max) {
+    if (node == NULL)
+        return true;
+
+    if (node->d < min || node->d > max)
+        return false;
+
+    return is_bst(node->l, min, node->d) && is_bst(node->r, node->d, max);
+}
+
+bool btn::search(btn* nd, int data) {
+    if (nd == NULL) {
+        return false;
+    } else if (data == nd->d) {
+        return true;
+    } else if (data < nd->d) {
+        return search(nd->l, data);
+    } else {
+        return search(nd->r, data);
+    }
+}
+
+int btn::getmax(btn *nd) {
+    if (nd->r == NULL) {
+        return nd->d;
+    }
+    return getmax(nd->r);
+}
+
+int btn::secondmax(btn *nd) {
+    if (nd == NULL) {
+        return -1;
+    }
+
+    if (nd->r == NULL && nd->l != NULL) {
+        return getmax(nd->l);
+    }
+
+    if (nd->r != NULL && nd->r->r == NULL && nd->r->l == NULL) {
+        return nd->d;
+    }
+
+
+    return secondmax(nd->r);
+}
+
+/* Print nodes at a given level */
+void btn::print_by_level(btn* nd, int level=0) {
+    if (nd == NULL)
+        return;
+    if (level == 0) {
+        int h = height(nd);
+        for (int i = 1; i <= h; i++)
+            print_by_level(nd, i);
+    }
+    if (level == 1)
+        printf("%d ", nd->d);
+    else if (level > 1) {
+        print_by_level(nd->l, level - 1);
+        print_by_level(nd->r, level - 1);
+    }
+}
+
+
+void btn::print(btn* node, string indent, bool is_tail) {
+    cout << indent << (is_tail ? "└── " : "├── ");
+    if (node == NULL) {
+        cout << "*" << endl;
+        return;
+    }
+    cout << node->d << endl;
+    if (node->l != NULL || node->r != NULL) {
+        indent.append(is_tail ? "    " : "│   ");
+        print(node->r, indent, false);
+        print(node->l, indent, true);
+    }
+}
 
 
 #endif /* BTREE_H */
