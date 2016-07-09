@@ -1,7 +1,0 @@
-
-[DUPLICATES CATALOGS ONLY]
-
-path=/media/someone/AFAT32P/Photo/raw/201307-12-Svadba/original
-#	321	58
-path=/media/someone/AFAT32P/Photo/raw/201307-12-Svadba/edited
-#	211	56
