@@ -24,7 +24,7 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 
 
 # Project Name
-PROJECTNAME=non_blocking_algorithm
+PROJECTNAME=non_blocking_algorithm_pt
 
 # Active Configuration
 DEFAULTCONF=Debug
