@@ -22,6 +22,8 @@ extern "C" {
 #include <chrono>
 #include <thread>
 #include <mutex>
+//#include <shared_mutex>
+//#include <recursive_mutex>
 
 #include "RandomDelay.h"
 
@@ -29,8 +31,8 @@ using namespace std;
 
 #define BILLION (1000*1000*1000)
 typedef void (*fp_t)(const char**, size_t*, int*);
-#define NUM_TO_REPEAT (1000*1000)
-#define NUM_TO_INCREMENT (1000*1000)
+#define NUM_TO_REPEAT (1000*1000*1000)
+//#define NUM_TO_INCREMENT (1000*1000)
 #define NUM_THREADS 2
 
 std::atomic<unsigned int> writer_done(0);
@@ -45,7 +47,7 @@ typedef union {
 
 template <typename TV>
 class cvers {
-    TV vers;
+    volatile TV vers;
 public:
 
     cvers(TV v = 0) : vers(v) {
@@ -60,7 +62,8 @@ public:
     // prefix increment operator.
 
     cvers& operator++() {
-        cvers::fetchAndAdd(&vers, 1);
+        //cvers::fetchAndAdd(&vers, 1);
+        __sync_fetch_and_add(&vers, 1);
         return *this;
     }
 
@@ -85,7 +88,7 @@ public:
                     : "memory", "cc");
         return result;
     }
-};
+}; 
 
 cvers<uint32_t> version = 0;
 static data_t data;
@@ -165,13 +168,13 @@ void* writer_func(void*) {
     while (reader_done < NUM_THREADS) {
         static uint64_t x = 0xaaaaaaaaaaaaaaaa;
         flag = true;
-        ++real_counter;
         ++version;
         x ^= 0xffffffffffffffff;
         vdata.w64[0] = x;
         vdata.w64[1] = x;
         ++version;
         flag = false;
+        ++real_counter;
         //randomDelay1.doBusyWork();
         //usleep(1);
         std::this_thread::yield();
@@ -184,6 +187,11 @@ void* writer_func(void*) {
 }
 
 static std::mutex stdmutex;
+//static std::shared_mutex smutex;
+static std::recursive_mutex rmutex;
+
+
+static pthread_mutex_t ptmutex = PTHREAD_MUTEX_INITIALIZER;
 
 void* locking_writer_func(void*) {
     uint64_t real_counter = 0;
@@ -194,19 +202,44 @@ void* locking_writer_func(void*) {
     while (reader_done < NUM_THREADS) {
         ++real_counter;
         {
-            std::lock_guard<std::mutex> lock(stdmutex);
+            //std::lock_guard<std::mutex> lock(stdmutex);
+            std::unique_lock<std::mutex> ulock(stdmutex);
+            //pthread_mutex_lock(&ptmutex);
             static uint64_t x = 0xaaaaaaaaaaaaaaaa;
             x ^= 0xffffffffffffffff;
             vdata.w64[0] = x;
             vdata.w64[1] = x;
+            //pthread_mutex_unlock(&ptmutex);
         }
-        std::this_thread::yield();
+        //std::this_thread::yield();
         //for (int xx = 0; ++xx < 32) {}
     };
     zwait();
     cout << " real_cnt = " << real_counter << "\tversion = " << (uint32_t) version << endl;
     writer_done++;
     return NULL;
+}
+
+void locking_reader_func(const char** fn, size_t* real_cntr, int* cnt) {
+    *fn = __func__;
+    for (size_t x = 0; x < NUM_TO_REPEAT;) {
+        ++(*real_cntr);
+        {
+            //std::lock_guard<std::mutex> lock(stdmutex);
+            //if (-1 == std::try_lock(stdmutex)) {
+            std::unique_lock<std::mutex> l(stdmutex, std::defer_lock);
+
+            if (l.try_lock()) {
+                uint64_t w0 = vdata.w64[0];
+                uint64_t w1 = vdata.w64[1];
+
+                *cnt = (w0 != w1) ? (*cnt - 1) : (*cnt + 1);
+                x++;
+            }
+
+        }
+        //std::this_thread::yield();
+    }
 }
 
 void simple_reader_func(const char** fn, size_t* real_cntr, int* cnt) {
@@ -220,21 +253,6 @@ void simple_reader_func(const char** fn, size_t* real_cntr, int* cnt) {
             *cnt = (w0 != w1) ? (*cnt - 1) : (*cnt + 1);
             x++;
         }
-    }
-}
-
-void locking_reader_func(const char** fn, size_t* real_cntr, int* cnt) {
-    *fn = __func__;
-    for (size_t x = 0; x < NUM_TO_REPEAT;) {
-        ++(*real_cntr);
-        {
-            std::lock_guard<std::mutex> lock(stdmutex);
-            uint64_t w0 = vdata.w64[0];
-            uint64_t w1 = vdata.w64[1];
-            *cnt = (w0 != w1) ? (*cnt - 1) : (*cnt + 1);
-            x++;
-        }
-        //std::this_thread::yield();
     }
 }
 
@@ -266,8 +284,6 @@ int main(int argc, char* argv[]) {
     {
         cerr << "\n TEST SIMPLE READER\n";
         pthread_t writer_id;
-        //randomDelay1.Initialize();
-        //randomDelay2.Initialize();
         pthread_create(&writer_id, NULL, writer_func, NULL);
         run_threads(simple_reader_func);
         pthread_join(writer_id, NULL);
@@ -276,13 +292,22 @@ int main(int argc, char* argv[]) {
     cerr << "\n lock-free algorithm demo\n";
     {
         cerr << "\n TEST 'PROPER' READER\n";
-        //randomDelay1.Initialize();
-        //randomDelay2.Initialize();
         pthread_t pr_writer_id;
+        pthread_mutex_init(&ptmutex, NULL);
         pthread_create(&pr_writer_id, NULL, writer_func, NULL);
         run_threads(proper_reader_func);
         pthread_join(pr_writer_id, NULL);
+        pthread_mutex_destroy(&ptmutex);
     }
+
+    {
+        cerr << "\n TEST LOCKING READER\n";
+        pthread_t writer_id;
+        pthread_create(&writer_id, NULL, locking_writer_func, NULL);
+        run_threads(locking_reader_func);
+        pthread_join(writer_id, NULL);
+    }
+    zwait();
 
     return 0;
 }

@@ -24,7 +24,7 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 
 
 # Project Name
-PROJECTNAME=AtomicTest11
+PROJECTNAME=non_blocking_algorithm
 
 # Active Configuration
 DEFAULTCONF=Debug
